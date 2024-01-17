@@ -1,0 +1,10 @@
+@media (max-width: 900px) {
+    .enemy-rewarder.enemy__properties tr:nth-child(odd) {
+        --row-color: #8dba89;
+        --row-header-color: #4e8c62;
+    }
+    .enemy-rewarder.enemy__properties tr:nth-child(even) {
+        --row-color: #7fb27a;
+        --row-header-color: #457d58;
+    }
+}
