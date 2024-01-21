@@ -13,8 +13,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 80,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -72,8 +78,14 @@ export const enemies: EnemyData[] = [
         "Def": 999,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -122,8 +134,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -175,8 +193,14 @@ export const enemies: EnemyData[] = [
         "Def": 75,
         "Spd": 80,
         "Mov": 4,
-        "Exp": 400,
-        "Money": 0,
+        "Exp": {
+            "Min": 400,
+            "Max": 400
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -244,8 +268,14 @@ export const enemies: EnemyData[] = [
         "Def": 73,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -297,8 +327,14 @@ export const enemies: EnemyData[] = [
         "Def": 73,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -350,8 +386,14 @@ export const enemies: EnemyData[] = [
         "Def": 120,
         "Spd": 80,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -402,8 +444,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 70,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -454,8 +502,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 70,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -506,8 +560,14 @@ export const enemies: EnemyData[] = [
         "Def": 120,
         "Spd": 80,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -558,8 +618,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 70,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -610,8 +676,14 @@ export const enemies: EnemyData[] = [
         "Def": 90,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -660,8 +732,14 @@ export const enemies: EnemyData[] = [
         "Def": 98,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -710,8 +788,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 60,
         "Mov": 2,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -762,8 +846,14 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 12,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -814,8 +904,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 10,
         "Mov": 2,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -866,8 +962,14 @@ export const enemies: EnemyData[] = [
         "Def": 56,
         "Spd": 45,
         "Mov": 4,
-        "Exp": 25,
-        "Money": 30,
+        "Exp": {
+            "Min": 25,
+            "Max": 25
+        },
+        "Money": {
+            "Min": 30,
+            "Max": 30
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -925,8 +1027,14 @@ export const enemies: EnemyData[] = [
         "Def": 16,
         "Spd": 16,
         "Mov": 3,
-        "Exp": 10,
-        "Money": 0,
+        "Exp": {
+            "Min": 10,
+            "Max": 10
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -991,8 +1099,14 @@ export const enemies: EnemyData[] = [
         "Def": 16,
         "Spd": 16,
         "Mov": 3,
-        "Exp": 10,
-        "Money": 0,
+        "Exp": {
+            "Min": 10,
+            "Max": 10
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1044,8 +1158,14 @@ export const enemies: EnemyData[] = [
         "Def": 16,
         "Spd": 16,
         "Mov": 4,
-        "Exp": 10,
-        "Money": 0,
+        "Exp": {
+            "Min": 10,
+            "Max": 10
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1097,8 +1217,14 @@ export const enemies: EnemyData[] = [
         "Def": 16,
         "Spd": 16,
         "Mov": 3,
-        "Exp": 10,
-        "Money": 0,
+        "Exp": {
+            "Min": 10,
+            "Max": 10
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1149,8 +1275,14 @@ export const enemies: EnemyData[] = [
         "Def": 60,
         "Spd": 50,
         "Mov": 4,
-        "Exp": 200,
-        "Money": 0,
+        "Exp": {
+            "Min": 200,
+            "Max": 200
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -1222,8 +1354,14 @@ export const enemies: EnemyData[] = [
         "Def": 7,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 3,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -1282,8 +1420,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 11,
         "Mov": 3,
-        "Exp": 2,
-        "Money": 2,
+        "Exp": {
+            "Min": 2,
+            "Max": 2
+        },
+        "Money": {
+            "Min": 2,
+            "Max": 2
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -1341,8 +1485,14 @@ export const enemies: EnemyData[] = [
         "Def": 18,
         "Spd": 18,
         "Mov": 3,
-        "Exp": 8,
-        "Money": 8,
+        "Exp": {
+            "Min": 8,
+            "Max": 8
+        },
+        "Money": {
+            "Min": 8,
+            "Max": 8
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1400,8 +1550,14 @@ export const enemies: EnemyData[] = [
         "Def": 54,
         "Spd": 37,
         "Mov": 3,
-        "Exp": 35,
-        "Money": 50,
+        "Exp": {
+            "Min": 35,
+            "Max": 35
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -1465,8 +1621,14 @@ export const enemies: EnemyData[] = [
         "Def": 54,
         "Spd": 37,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -1530,8 +1692,14 @@ export const enemies: EnemyData[] = [
         "Def": 18,
         "Spd": 18,
         "Mov": 3,
-        "Exp": 8,
-        "Money": 8,
+        "Exp": {
+            "Min": 8,
+            "Max": 8
+        },
+        "Money": {
+            "Min": 8,
+            "Max": 8
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1587,8 +1755,14 @@ export const enemies: EnemyData[] = [
         "Def": 60,
         "Spd": 38,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1637,8 +1811,14 @@ export const enemies: EnemyData[] = [
         "Def": 5,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 2,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 2,
+            "Max": 2
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1689,8 +1869,14 @@ export const enemies: EnemyData[] = [
         "Def": 32,
         "Spd": 24,
         "Mov": 3,
-        "Exp": 15,
-        "Money": 15,
+        "Exp": {
+            "Min": 15,
+            "Max": 15
+        },
+        "Money": {
+            "Min": 15,
+            "Max": 15
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1746,8 +1932,14 @@ export const enemies: EnemyData[] = [
         "Def": 35,
         "Spd": 25,
         "Mov": 3,
-        "Exp": 20,
-        "Money": 15,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 15,
+            "Max": 15
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1805,8 +1997,14 @@ export const enemies: EnemyData[] = [
         "Def": 56,
         "Spd": 45,
         "Mov": 4,
-        "Exp": 30,
-        "Money": 40,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 40,
+            "Max": 40
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1864,8 +2062,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 18,
         "Mov": 0,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -1917,8 +2121,14 @@ export const enemies: EnemyData[] = [
         "Def": 14,
         "Spd": 18,
         "Mov": 4,
-        "Exp": 30,
-        "Money": 0,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -1985,8 +2195,14 @@ export const enemies: EnemyData[] = [
         "Def": 13,
         "Spd": 13,
         "Mov": 5,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2037,8 +2253,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 100,
         "Mov": 2,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2089,8 +2311,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2141,8 +2369,14 @@ export const enemies: EnemyData[] = [
         "Def": 120,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2191,8 +2425,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2243,8 +2483,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 60,
         "Mov": 1,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2295,8 +2541,14 @@ export const enemies: EnemyData[] = [
         "Def": 120,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2345,8 +2597,14 @@ export const enemies: EnemyData[] = [
         "Def": 66,
         "Spd": 45,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 50,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2404,8 +2662,14 @@ export const enemies: EnemyData[] = [
         "Def": 26,
         "Spd": 20,
         "Mov": 3,
-        "Exp": 8,
-        "Money": 8,
+        "Exp": {
+            "Min": 8,
+            "Max": 8
+        },
+        "Money": {
+            "Min": 8,
+            "Max": 8
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2464,8 +2728,14 @@ export const enemies: EnemyData[] = [
         "Def": 26,
         "Spd": 20,
         "Mov": 4,
-        "Exp": 15,
-        "Money": 15,
+        "Exp": {
+            "Min": 15,
+            "Max": 15
+        },
+        "Money": {
+            "Min": 15,
+            "Max": 15
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -2564,8 +2834,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 60,
         "Mov": 4,
-        "Exp": 50,
-        "Money": 50,
+        "Exp": {
+            "Min": 50,
+            "Max": 50
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2624,8 +2900,14 @@ export const enemies: EnemyData[] = [
         "Def": 20,
         "Spd": 16,
         "Mov": 4,
-        "Exp": 8,
-        "Money": 8,
+        "Exp": {
+            "Min": 8,
+            "Max": 8
+        },
+        "Money": {
+            "Min": 8,
+            "Max": 8
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2677,8 +2959,14 @@ export const enemies: EnemyData[] = [
         "Def": 48,
         "Spd": 30,
         "Mov": 3,
-        "Exp": 25,
-        "Money": 25,
+        "Exp": {
+            "Min": 25,
+            "Max": 25
+        },
+        "Money": {
+            "Min": 25,
+            "Max": 25
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -2736,8 +3024,14 @@ export const enemies: EnemyData[] = [
         "Def": 54,
         "Spd": 37,
         "Mov": 4,
-        "Exp": 30,
-        "Money": 40,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 40,
+            "Max": 40
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -2801,8 +3095,14 @@ export const enemies: EnemyData[] = [
         "Def": 66,
         "Spd": 37,
         "Mov": 4,
-        "Exp": 30,
-        "Money": 50,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -2866,8 +3166,14 @@ export const enemies: EnemyData[] = [
         "Def": 9,
         "Spd": 10,
         "Mov": 4,
-        "Exp": 20,
-        "Money": 0,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -2934,8 +3240,14 @@ export const enemies: EnemyData[] = [
         "Def": 5,
         "Spd": 8,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 0,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -3000,8 +3312,14 @@ export const enemies: EnemyData[] = [
         "Def": 56,
         "Spd": 45,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 40,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 40,
+            "Max": 40
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3053,8 +3371,14 @@ export const enemies: EnemyData[] = [
         "Def": 30,
         "Spd": 24,
         "Mov": 4,
-        "Exp": 12,
-        "Money": 12,
+        "Exp": {
+            "Min": 12,
+            "Max": 12
+        },
+        "Money": {
+            "Min": 12,
+            "Max": 12
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3111,7 +3435,10 @@ export const enemies: EnemyData[] = [
         "Spd": 10,
         "Mov": 3,
         "Exp": 1,
-        "Money": 3,
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3161,7 +3488,10 @@ export const enemies: EnemyData[] = [
         "Spd": 10,
         "Mov": 3,
         "Exp": 1,
-        "Money": 3,
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3214,8 +3544,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 80,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3269,8 +3605,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 80,
         "Mov": 5,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3323,8 +3665,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 70,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3373,8 +3721,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 11,
         "Mov": 2,
-        "Exp": 2,
-        "Money": 3,
+        "Exp": {
+            "Min": 2,
+            "Max": 2
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -3433,8 +3787,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 10,
         "Mov": 4,
-        "Exp": 3,
-        "Money": 3,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -3493,8 +3853,14 @@ export const enemies: EnemyData[] = [
         "Def": 26,
         "Spd": 20,
         "Mov": 3,
-        "Exp": 12,
-        "Money": 12,
+        "Exp": {
+            "Min": 12,
+            "Max": 12
+        },
+        "Money": {
+            "Min": 12,
+            "Max": 12
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -3560,8 +3926,14 @@ export const enemies: EnemyData[] = [
         "Def": 90,
         "Spd": 60,
         "Mov": 2,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3619,8 +3991,14 @@ export const enemies: EnemyData[] = [
         "Def": 43,
         "Spd": 30,
         "Mov": 4,
-        "Exp": 15,
-        "Money": 15,
+        "Exp": {
+            "Min": 15,
+            "Max": 15
+        },
+        "Money": {
+            "Min": 15,
+            "Max": 15
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3678,8 +4056,14 @@ export const enemies: EnemyData[] = [
         "Def": 15,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 50,
-        "Money": 50,
+        "Exp": {
+            "Min": 50,
+            "Max": 50
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3730,8 +4114,14 @@ export const enemies: EnemyData[] = [
         "Def": 46,
         "Spd": 30,
         "Mov": 4,
-        "Exp": 30,
-        "Money": 30,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 30,
+            "Max": 30
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3787,8 +4177,14 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 8,
         "Mov": 2,
-        "Exp": 1,
-        "Money": 0,
+        "Exp": {
+            "Min": 1,
+            "Max": 2
+        },
+        "Money": {
+            "Min": 1,
+            "Max": 2
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -3845,8 +4241,14 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 10,
         "Mov": 2,
-        "Exp": 0,
-        "Money": 2,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 2,
+            "Max": 2
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -3895,7 +4297,10 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 11,
         "Mov": 2,
-        "Exp": 5,
+        "Exp": {
+            "Min": 5,
+            "Max": 5
+        },
         "Money": 0,
         "Rewards": {
             "Operator": "AND",
@@ -3945,7 +4350,10 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 11,
         "Mov": 2,
-        "Exp": 3,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
         "Money": 0,
         "Rewards": {
             "Operator": "AND",
@@ -3998,8 +4406,14 @@ export const enemies: EnemyData[] = [
         "Def": 65,
         "Spd": 80,
         "Mov": 5,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4056,8 +4470,14 @@ export const enemies: EnemyData[] = [
         "Def": 62,
         "Spd": 80,
         "Mov": 5,
-        "Exp": 300,
-        "Money": 0,
+        "Exp": {
+            "Min": 300,
+            "Max": 300
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -4128,8 +4548,14 @@ export const enemies: EnemyData[] = [
         "Def": 60,
         "Spd": 50,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4185,8 +4611,14 @@ export const enemies: EnemyData[] = [
         "Def": 60,
         "Spd": 50,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4242,8 +4674,14 @@ export const enemies: EnemyData[] = [
         "Def": 60,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4294,8 +4732,14 @@ export const enemies: EnemyData[] = [
         "Def": 5,
         "Spd": 8,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 0,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4346,8 +4790,14 @@ export const enemies: EnemyData[] = [
         "Def": 5,
         "Spd": 8,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 0,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4396,8 +4846,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 3,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -4466,7 +4922,10 @@ export const enemies: EnemyData[] = [
         "Spd": 10,
         "Mov": 3,
         "Exp": 1,
-        "Money": 1,
+        "Money": {
+            "Min": 1,
+            "Max": 1
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4517,8 +4976,14 @@ export const enemies: EnemyData[] = [
         "Def": 9,
         "Spd": 14,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 0,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -4580,8 +5045,14 @@ export const enemies: EnemyData[] = [
         "Def": 18,
         "Spd": 20,
         "Mov": 3,
-        "Exp": 25,
-        "Money": 0,
+        "Exp": {
+            "Min": 25,
+            "Max": 25
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -4636,8 +5107,14 @@ export const enemies: EnemyData[] = [
         "Def": 66,
         "Spd": 60,
         "Mov": 8,
-        "Exp": 100,
-        "Money": 0,
+        "Exp": {
+            "Min": 100,
+            "Max": 100
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4686,8 +5163,14 @@ export const enemies: EnemyData[] = [
         "Def": 66,
         "Spd": 48,
         "Mov": 4,
-        "Exp": 25,
-        "Money": 30,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4736,8 +5219,14 @@ export const enemies: EnemyData[] = [
         "Def": 66,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 15,
-        "Money": 15,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4786,8 +5275,14 @@ export const enemies: EnemyData[] = [
         "Def": 66,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 1,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4836,8 +5331,14 @@ export const enemies: EnemyData[] = [
         "Def": 66,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 1,
-        "Money": 1,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4886,8 +5387,14 @@ export const enemies: EnemyData[] = [
         "Def": 68,
         "Spd": 48,
         "Mov": 3,
-        "Exp": 1,
-        "Money": 4,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4936,8 +5443,14 @@ export const enemies: EnemyData[] = [
         "Def": 65,
         "Spd": 45,
         "Mov": 3,
-        "Exp": 1,
-        "Money": 10,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4989,8 +5502,14 @@ export const enemies: EnemyData[] = [
         "Def": 20,
         "Spd": 18,
         "Mov": 3,
-        "Exp": 10,
-        "Money": 10,
+        "Exp": {
+            "Min": 10,
+            "Max": 10
+        },
+        "Money": {
+            "Min": 10,
+            "Max": 10
+        },
         "Rewards": {
             "Operator": "OR",
             "List": [
@@ -5064,8 +5583,14 @@ export const enemies: EnemyData[] = [
         "Def": 20,
         "Spd": 18,
         "Mov": 3,
-        "Exp": 10,
-        "Money": 10,
+        "Exp": {
+            "Min": 10,
+            "Max": 10
+        },
+        "Money": {
+            "Min": 10,
+            "Max": 10
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -5125,8 +5650,14 @@ export const enemies: EnemyData[] = [
         "Def": 13,
         "Spd": 13,
         "Mov": 3,
-        "Exp": 6,
-        "Money": 5,
+        "Exp": {
+            "Min": 6,
+            "Max": 6
+        },
+        "Money": {
+            "Min": 5,
+            "Max": 5
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -5190,8 +5721,14 @@ export const enemies: EnemyData[] = [
         "Def": 9,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 5,
-        "Money": 4,
+        "Exp": {
+            "Min": 5,
+            "Max": 5
+        },
+        "Money": {
+            "Min": 4,
+            "Max": 4
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -5248,8 +5785,14 @@ export const enemies: EnemyData[] = [
         "Def": 70,
         "Spd": 45,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 50,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5298,8 +5841,14 @@ export const enemies: EnemyData[] = [
         "Def": 66,
         "Spd": 37,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 50,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5350,8 +5899,14 @@ export const enemies: EnemyData[] = [
         "Def": 30,
         "Spd": 24,
         "Mov": 4,
-        "Exp": 12,
-        "Money": 12,
+        "Exp": {
+            "Min": 12,
+            "Max": 12
+        },
+        "Money": {
+            "Min": 12,
+            "Max": 12
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -5418,8 +5973,14 @@ export const enemies: EnemyData[] = [
         "Def": 40,
         "Spd": 28,
         "Mov": 3,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 20,
+            "Max": 20
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5470,8 +6031,14 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 1,
-        "Money": 0,
+        "Exp": {
+            "Min": 1,
+            "Max": 1
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5522,8 +6089,14 @@ export const enemies: EnemyData[] = [
         "Def": 18,
         "Spd": 16,
         "Mov": 3,
-        "Exp": 6,
-        "Money": 5,
+        "Exp": {
+            "Min": 6,
+            "Max": 6
+        },
+        "Money": {
+            "Min": 5,
+            "Max": 5
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -5587,8 +6160,14 @@ export const enemies: EnemyData[] = [
         "Def": 16,
         "Spd": 16,
         "Mov": 3,
-        "Exp": 4,
-        "Money": 4,
+        "Exp": {
+            "Min": 4,
+            "Max": 4
+        },
+        "Money": {
+            "Min": 4,
+            "Max": 4
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5644,8 +6223,14 @@ export const enemies: EnemyData[] = [
         "Def": 12,
         "Spd": 13,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5701,8 +6286,14 @@ export const enemies: EnemyData[] = [
         "Def": 12,
         "Spd": 13,
         "Mov": 3,
-        "Exp": 2,
-        "Money": 2,
+        "Exp": {
+            "Min": 2,
+            "Max": 2
+        },
+        "Money": {
+            "Min": 2,
+            "Max": 2
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5758,8 +6349,14 @@ export const enemies: EnemyData[] = [
         "Def": 12,
         "Spd": 13,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5808,8 +6405,14 @@ export const enemies: EnemyData[] = [
         "Def": 12,
         "Spd": 13,
         "Mov": 2,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -5858,8 +6461,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 11,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 0,
+        "Exp": {
+            "Min": 30,
+            "Max": 30
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -5972,8 +6581,14 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 8,
         "Mov": 2,
-        "Exp": 5,
-        "Money": 0,
+        "Exp": {
+            "Min": 5,
+            "Max": 5
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6022,8 +6637,14 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 8,
         "Mov": 2,
-        "Exp": 5,
-        "Money": 0,
+        "Exp": {
+            "Min": 5,
+            "Max": 5
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6072,8 +6693,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 10,
-        "Money": 0,
+        "Exp": {
+            "Min": 10,
+            "Max": 10
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6122,8 +6749,14 @@ export const enemies: EnemyData[] = [
         "Def": 7,
         "Spd": 10,
         "Mov": 1,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6172,8 +6805,14 @@ export const enemies: EnemyData[] = [
         "Def": 7,
         "Spd": 10,
         "Mov": 1,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6225,8 +6864,14 @@ export const enemies: EnemyData[] = [
         "Def": 48,
         "Spd": 35,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6278,8 +6923,14 @@ export const enemies: EnemyData[] = [
         "Def": 48,
         "Spd": 35,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6331,8 +6982,14 @@ export const enemies: EnemyData[] = [
         "Def": 48,
         "Spd": 35,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6384,8 +7041,14 @@ export const enemies: EnemyData[] = [
         "Def": 48,
         "Spd": 50,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6444,8 +7107,14 @@ export const enemies: EnemyData[] = [
         "Def": 48,
         "Spd": 35,
         "Mov": 4,
-        "Exp": 100,
-        "Money": 0,
+        "Exp": {
+            "Min": 100,
+            "Max": 100
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -6509,8 +7178,14 @@ export const enemies: EnemyData[] = [
         "Def": 52,
         "Spd": 35,
         "Mov": 3,
-        "Exp": 100,
-        "Money": 0,
+        "Exp": {
+            "Min": 100,
+            "Max": 100
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6568,8 +7243,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6618,8 +7299,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 11,
         "Mov": 2,
-        "Exp": 3,
-        "Money": 3,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6671,8 +7358,14 @@ export const enemies: EnemyData[] = [
         "Def": 40,
         "Spd": 28,
         "Mov": 3,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 20,
+            "Max": 20
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6723,8 +7416,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 8,
         "Mov": 3,
-        "Exp": 50,
-        "Money": 0,
+        "Exp": {
+            "Min": 50,
+            "Max": 50
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6773,8 +7472,14 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6823,8 +7528,14 @@ export const enemies: EnemyData[] = [
         "Def": 15,
         "Spd": 15,
         "Mov": 3,
-        "Exp": 5,
-        "Money": 5,
+        "Exp": {
+            "Min": 5,
+            "Max": 5
+        },
+        "Money": {
+            "Min": 5,
+            "Max": 5
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6873,8 +7584,14 @@ export const enemies: EnemyData[] = [
         "Def": 6,
         "Spd": 8,
         "Mov": 2,
-        "Exp": 3,
-        "Money": 3,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "OR",
             "List": [
@@ -6940,8 +7657,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 80,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6992,8 +7715,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 80,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7044,8 +7773,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 100,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7095,7 +7830,10 @@ export const enemies: EnemyData[] = [
         "Spd": 13,
         "Mov": 3,
         "Exp": 1,
-        "Money": 4,
+        "Money": {
+            "Min": 4,
+            "Max": 4
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7158,7 +7896,10 @@ export const enemies: EnemyData[] = [
         "Spd": 13,
         "Mov": 3,
         "Exp": 1,
-        "Money": 4,
+        "Money": {
+            "Min": 4,
+            "Max": 4
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7221,7 +7962,10 @@ export const enemies: EnemyData[] = [
         "Spd": 13,
         "Mov": 3,
         "Exp": 1,
-        "Money": 4,
+        "Money": {
+            "Min": 4,
+            "Max": 4
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7286,7 +8030,10 @@ export const enemies: EnemyData[] = [
         "Spd": 18,
         "Mov": 4,
         "Exp": 1,
-        "Money": 10,
+        "Money": {
+            "Min": 10,
+            "Max": 10
+        },
         "Rewards": {
             "Operator": "OR",
             "List": [
@@ -7359,8 +8106,14 @@ export const enemies: EnemyData[] = [
         "Def": 17,
         "Spd": 18,
         "Mov": 3,
-        "Exp": 6,
-        "Money": 6,
+        "Exp": {
+            "Min": 6,
+            "Max": 6
+        },
+        "Money": {
+            "Min": 6,
+            "Max": 6
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7411,8 +8164,14 @@ export const enemies: EnemyData[] = [
         "Def": 35,
         "Spd": 25,
         "Mov": 4,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 20,
+            "Max": 20
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7470,8 +8229,14 @@ export const enemies: EnemyData[] = [
         "Def": 46,
         "Spd": 30,
         "Mov": 4,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 20,
+            "Max": 20
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7529,8 +8294,14 @@ export const enemies: EnemyData[] = [
         "Def": 52,
         "Spd": 60,
         "Mov": 4,
-        "Exp": 150,
-        "Money": 0,
+        "Exp": {
+            "Min": 150,
+            "Max": 150
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -7600,8 +8371,14 @@ export const enemies: EnemyData[] = [
         "Def": 7,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 3,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -7658,8 +8435,14 @@ export const enemies: EnemyData[] = [
         "Def": 5,
         "Spd": 7,
         "Mov": 2,
-        "Exp": 5,
-        "Money": 3,
+        "Exp": {
+            "Min": 5,
+            "Max": 5
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -7720,8 +8503,14 @@ export const enemies: EnemyData[] = [
         "Def": 120,
         "Spd": 60,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7773,8 +8562,14 @@ export const enemies: EnemyData[] = [
         "Def": 120,
         "Spd": 60,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7825,8 +8620,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -7877,8 +8678,14 @@ export const enemies: EnemyData[] = [
         "Def": 7,
         "Spd": 8,
         "Mov": 2,
-        "Exp": 2,
-        "Money": 2,
+        "Exp": {
+            "Min": 2,
+            "Max": 2
+        },
+        "Money": {
+            "Min": 2,
+            "Max": 2
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -7942,8 +8749,14 @@ export const enemies: EnemyData[] = [
         "Def": 23,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 55,
-        "Money": 50,
+        "Exp": {
+            "Min": 55,
+            "Max": 55
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -8002,8 +8815,14 @@ export const enemies: EnemyData[] = [
         "Def": 20,
         "Spd": 18,
         "Mov": 3,
-        "Exp": 1,
-        "Money": 5,
+        "Exp": {
+            "Min": 1,
+            "Max": 1
+        },
+        "Money": {
+            "Min": 5,
+            "Max": 5
+        },
         "Rewards": {
             "Operator": "OR",
             "List": [
@@ -8071,8 +8890,14 @@ export const enemies: EnemyData[] = [
         "Def": 52,
         "Spd": 32,
         "Mov": 3,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 20,
+            "Max": 20
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8130,8 +8955,14 @@ export const enemies: EnemyData[] = [
         "Def": 52,
         "Spd": 32,
         "Mov": 3,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 20,
+            "Max": 20
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8182,8 +9013,14 @@ export const enemies: EnemyData[] = [
         "Def": 52,
         "Spd": 32,
         "Mov": 4,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 20,
+            "Max": 20
+        },
+        "Money": {
+            "Min": 20,
+            "Max": 20
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8234,8 +9071,14 @@ export const enemies: EnemyData[] = [
         "Def": 54,
         "Spd": 37,
         "Mov": 3,
-        "Exp": 25,
-        "Money": 40,
+        "Exp": {
+            "Min": 25,
+            "Max": 25
+        },
+        "Money": {
+            "Min": 40,
+            "Max": 40
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8294,8 +9137,14 @@ export const enemies: EnemyData[] = [
         "Def": 20,
         "Spd": 22,
         "Mov": 5,
-        "Exp": 50,
-        "Money": 0,
+        "Exp": {
+            "Min": 50,
+            "Max": 50
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -8360,8 +9209,14 @@ export const enemies: EnemyData[] = [
         "Def": 18,
         "Spd": 18,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8431,8 +9286,14 @@ export const enemies: EnemyData[] = [
         "Def": 18,
         "Spd": 18,
         "Mov": 4,
-        "Exp": 1,
-        "Money": 10,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8484,8 +9345,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 52,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8536,8 +9403,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 80,
         "Mov": 0,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8586,8 +9459,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 52,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8636,8 +9515,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 52,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8686,8 +9571,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 52,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8736,8 +9627,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 52,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8786,8 +9683,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 52,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8836,8 +9739,14 @@ export const enemies: EnemyData[] = [
         "Def": 110,
         "Spd": 52,
         "Mov": 3,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8888,8 +9797,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8938,8 +9853,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -8990,8 +9911,14 @@ export const enemies: EnemyData[] = [
         "Def": 26,
         "Spd": 20,
         "Mov": 4,
-        "Exp": 12,
-        "Money": 12,
+        "Exp": {
+            "Min": 12,
+            "Max": 12
+        },
+        "Money": {
+            "Min": 12,
+            "Max": 12
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -9057,8 +9984,14 @@ export const enemies: EnemyData[] = [
         "Def": 95,
         "Spd": 60,
         "Mov": 4,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9116,8 +10049,14 @@ export const enemies: EnemyData[] = [
         "Def": 35,
         "Spd": 24,
         "Mov": 4,
-        "Exp": 50,
-        "Money": 0,
+        "Exp": {
+            "Min": 50,
+            "Max": 50
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -9179,8 +10118,14 @@ export const enemies: EnemyData[] = [
         "Def": 35,
         "Spd": 30,
         "Mov": 4,
-        "Exp": 50,
-        "Money": 0,
+        "Exp": {
+            "Min": 50,
+            "Max": 50
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9236,8 +10181,14 @@ export const enemies: EnemyData[] = [
         "Def": 35,
         "Spd": 24,
         "Mov": 3,
-        "Exp": 50,
-        "Money": 0,
+        "Exp": {
+            "Min": 50,
+            "Max": 50
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9293,8 +10244,14 @@ export const enemies: EnemyData[] = [
         "Def": 90,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9343,8 +10300,14 @@ export const enemies: EnemyData[] = [
         "Def": 98,
         "Spd": 60,
         "Mov": 3,
-        "Exp": 40,
-        "Money": 50,
+        "Exp": {
+            "Min": 40,
+            "Max": 40
+        },
+        "Money": {
+            "Min": 50,
+            "Max": 50
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9393,8 +10356,14 @@ export const enemies: EnemyData[] = [
         "Def": 5,
         "Spd": 7,
         "Mov": 2,
-        "Exp": 3,
-        "Money": 2,
+        "Exp": {
+            "Min": 3,
+            "Max": 3
+        },
+        "Money": {
+            "Min": 2,
+            "Max": 2
+        },
         "Rewards": {
             "Operator": "OR",
             "List": [
@@ -9463,7 +10432,10 @@ export const enemies: EnemyData[] = [
         "Spd": 18,
         "Mov": 3,
         "Exp": 1,
-        "Money": 10,
+        "Money": {
+            "Min": 10,
+            "Max": 10
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -9527,8 +10499,14 @@ export const enemies: EnemyData[] = [
         "Def": 9,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 4,
-        "Money": 3,
+        "Exp": {
+            "Min": 4,
+            "Max": 4
+        },
+        "Money": {
+            "Min": 3,
+            "Max": 3
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9577,8 +10555,14 @@ export const enemies: EnemyData[] = [
         "Def": 13,
         "Spd": 13,
         "Mov": 3,
-        "Exp": 4,
-        "Money": 5,
+        "Exp": {
+            "Min": 4,
+            "Max": 4
+        },
+        "Money": {
+            "Min": 5,
+            "Max": 5
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9637,7 +10621,10 @@ export const enemies: EnemyData[] = [
         "Spd": 18,
         "Mov": 2,
         "Exp": 1,
-        "Money": 10,
+        "Money": {
+            "Min": 10,
+            "Max": 10
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -9701,8 +10688,14 @@ export const enemies: EnemyData[] = [
         "Def": 5,
         "Spd": 7,
         "Mov": 3,
-        "Exp": 1,
-        "Money": 1,
+        "Exp": {
+            "Min": 1,
+            "Max": 1
+        },
+        "Money": {
+            "Min": 1,
+            "Max": 1
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9751,8 +10744,14 @@ export const enemies: EnemyData[] = [
         "Def": 5,
         "Spd": 7,
         "Mov": 2,
-        "Exp": 7,
-        "Money": 5,
+        "Exp": {
+            "Min": 7,
+            "Max": 7
+        },
+        "Money": {
+            "Min": 5,
+            "Max": 5
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -9810,8 +10809,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 50,
         "Mov": 4,
-        "Exp": 25,
-        "Money": 30,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9867,8 +10872,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 3,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9917,8 +10928,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 48,
         "Mov": 3,
-        "Exp": 35,
-        "Money": 50,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -9977,8 +10994,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 50,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10027,8 +11050,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 40,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10084,8 +11113,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 3,
-        "Money": 3,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10134,8 +11169,14 @@ export const enemies: EnemyData[] = [
         "Def": 90,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10184,8 +11225,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 20,
-        "Money": 20,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10234,8 +11281,14 @@ export const enemies: EnemyData[] = [
         "Def": 100,
         "Spd": 50,
         "Mov": 2,
-        "Exp": 1,
-        "Money": 10,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10286,8 +11339,14 @@ export const enemies: EnemyData[] = [
         "Def": 28,
         "Spd": 24,
         "Mov": 4,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10343,8 +11402,14 @@ export const enemies: EnemyData[] = [
         "Def": 28,
         "Spd": 25,
         "Mov": 4,
-        "Exp": 100,
-        "Money": 0,
+        "Exp": {
+            "Min": 100,
+            "Max": 100
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -10411,8 +11476,14 @@ export const enemies: EnemyData[] = [
         "Def": 28,
         "Spd": 20,
         "Mov": 2,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10463,8 +11534,14 @@ export const enemies: EnemyData[] = [
         "Def": 28,
         "Spd": 20,
         "Mov": 2,
-        "Exp": 0,
-        "Money": 0,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10515,8 +11592,14 @@ export const enemies: EnemyData[] = [
         "Def": 75,
         "Spd": 80,
         "Mov": 4,
-        "Exp": 500,
-        "Money": 0,
+        "Exp": {
+            "Min": 500,
+            "Max": 500
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": [
@@ -10576,8 +11659,14 @@ export const enemies: EnemyData[] = [
         "Def": 75,
         "Spd": 50,
         "Mov": 3,
-        "Exp": 30,
-        "Money": 50,
+        "Exp": {
+            "Min": 0,
+            "Max": 0
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -10624,4 +11713,4 @@ export const enemies: EnemyData[] = [
         "Sprite": "battle_cracked_ghost_0_0",
         "Notes": []
     }
-];
+]

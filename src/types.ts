@@ -10,8 +10,8 @@ export type EnemyData = {
     "Def": number,
     "Spd": number,
     "Mov": number,
-    "Exp": number,
-    "Money": number,
+    "Exp": NumberRange,
+    "Money": NumberRange,
     "Rewards": RewardsList,
     "Stealable": TimingGroups,
     // "GetExp": string | null,
@@ -42,4 +42,9 @@ export type RewardData = {
     "MaxRewarded"?: number,
     "IsCombinedMax"?: boolean,
     "Notes"?: number[],
+};
+
+export type NumberRange = {
+    "Min": number,
+    "Max": number,
 };

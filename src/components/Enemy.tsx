@@ -1,5 +1,5 @@
 import { Show, Component, Index } from "solid-js"
-import { EnemyData } from "../types";
+import { EnemyData, NumberRange } from "../types";
 import { RewardList } from "./RewardList";
 import { EnemyRewarder } from "./EnemyRewarder";
 import { autosize } from "../directives/autosize";
@@ -16,6 +16,17 @@ export const Enemy: Component<{
         return props.data.Name.toLowerCase().includes(props.filter)
             || props.data.ClassName.toLowerCase().includes(props.filter);
     };
+
+    const rangeToString = (range: NumberRange) => {
+        if (range.Min === range.Max) {
+            return range.Min;
+        }
+        else {
+            return `${range.Min}–${range.Max}`;
+        }
+    };
+    const expRange = () => rangeToString(props.data.Exp);
+    const moneyRange = () => rangeToString(props.data.Money);
 
     return (
         <Show when={isVisible()}>
@@ -70,11 +81,11 @@ export const Enemy: Component<{
                             <tbody>
                                 <tr>
                                     <td>Exp</td>
-                                    <td>{props.data.Exp}</td>
+                                    <td>{expRange()}</td>
                                 </tr>
                                 <tr>
                                     <td>Money</td>
-                                    <td>{props.data.Money}</td>
+                                    <td>{moneyRange()}</td>
                                 </tr>
                                 <tr>
                                     <td>Drops</td>
