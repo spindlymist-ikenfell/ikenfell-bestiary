@@ -32,7 +32,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsSweetest",
                         "ItemName": "Sadio's Sweetest",
-                        "ItemSprite": "icons_5_18"
+                        "ItemSprite": {
+                            "Name": "icons_5_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -42,7 +47,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsSweetest",
                         "ItemName": "Sadio's Sweetest",
-                        "ItemSprite": "icons_5_18"
+                        "ItemSprite": {
+                            "Name": "icons_5_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -54,17 +64,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 99,
                         "MaxOwned": 99,
                         "ItemName": "Rose Cordial",
-                        "ItemSprite": "icons_5_19"
+                        "ItemSprite": {
+                            "Name": "icons_5_19",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsSweetest",
                         "ItemName": "Sadio's Sweetest",
-                        "ItemSprite": "icons_5_18"
+                        "ItemSprite": {
+                            "Name": "icons_5_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_aeldra_0_0",
+        "Sprite": {
+            "Name": "battle_aeldra_0_0",
+            "Set": "battle_aeldra",
+            "Width": 47,
+            "Height": 42
+        },
         "Notes": []
     },
     {
@@ -97,7 +122,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -107,7 +137,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -117,12 +152,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_aeldra_40_0",
+        "Sprite": {
+            "Name": "battle_aeldra_40_0",
+            "Set": "battle_aeldra",
+            "Width": 10,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -153,7 +198,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -163,7 +213,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -173,12 +228,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_redhand_0_0",
+        "Sprite": {
+            "Name": "battle_redhand_0_0",
+            "Set": "battle_redhand",
+            "Width": 16,
+            "Height": 27
+        },
         "Notes": []
     },
     {
@@ -207,12 +272,22 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemGhostCoin",
                     "ItemName": "Ghost Coin",
-                    "ItemSprite": "icons_0_17"
+                    "ItemSprite": {
+                        "Name": "icons_0_17",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 11
+                    }
                 },
                 {
                     "ItemType": "ItemGhostCoin",
                     "ItemName": "Ghost Coin",
-                    "ItemSprite": "icons_0_17"
+                    "ItemSprite": {
+                        "Name": "icons_0_17",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 11
+                    }
                 }
             ]
         },
@@ -223,7 +298,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSpecterAle",
                         "ItemName": "Specter Ale",
-                        "ItemSprite": "icons_6_19"
+                        "ItemSprite": {
+                            "Name": "icons_6_19",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -233,7 +313,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSpecterAle",
                         "ItemName": "Specter Ale",
-                        "ItemSprite": "icons_6_19"
+                        "ItemSprite": {
+                            "Name": "icons_6_19",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -243,17 +328,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSpecterAle",
                         "ItemName": "Specter Ale",
-                        "ItemSprite": "icons_6_19"
+                        "ItemSprite": {
+                            "Name": "icons_6_19",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "Blackstars",
                         "ItemName": "Blackstars",
-                        "ItemSprite": "feet_7_2"
+                        "ItemSprite": {
+                            "Name": "feet_7_2",
+                            "Set": "feet",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_agony_0_0",
+        "Sprite": {
+            "Name": "battle_agony_0_0",
+            "Set": "battle_agony",
+            "Width": 38,
+            "Height": 38
+        },
         "Notes": []
     },
     {
@@ -287,7 +387,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -297,7 +402,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -307,12 +417,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_reddrip_0_0",
+        "Sprite": {
+            "Name": "battle_reddrip_0_0",
+            "Set": "battle_reddrip",
+            "Width": 11,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -346,7 +466,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -356,7 +481,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -366,12 +496,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_redsplash_0_0",
+        "Sprite": {
+            "Name": "battle_redsplash_0_0",
+            "Set": "battle_redsplash",
+            "Width": 14,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -405,7 +545,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -415,7 +560,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -425,12 +575,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_allcat_0_0",
+        "Sprite": {
+            "Name": "battle_allcat_0_0",
+            "Set": "battle_allcat",
+            "Width": 40,
+            "Height": 44
+        },
         "Notes": []
     },
     {
@@ -463,7 +623,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -473,7 +638,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -483,7 +653,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
@@ -521,7 +696,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -531,7 +711,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -541,7 +726,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
@@ -579,7 +769,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -589,7 +784,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -599,12 +799,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_allcat_small_0_0",
+        "Sprite": {
+            "Name": "battle_allcat_small_0_0",
+            "Set": "battle_allcat_small",
+            "Width": 16,
+            "Height": 13
+        },
         "Notes": []
     },
     {
@@ -637,7 +847,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -647,7 +862,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -657,7 +877,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
@@ -695,7 +920,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -705,7 +935,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -715,12 +950,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_autochopper_0_0",
+        "Sprite": {
+            "Name": "battle_autochopper_0_0",
+            "Set": "battle_autochopper",
+            "Width": 18,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -751,7 +996,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -761,7 +1011,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -771,12 +1026,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_autochopper_0_0",
+        "Sprite": {
+            "Name": "battle_autochopper_0_0",
+            "Set": "battle_autochopper",
+            "Width": 18,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -807,7 +1072,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -817,7 +1087,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -827,12 +1102,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_autoeye_0_0",
+        "Sprite": {
+            "Name": "battle_autoeye_0_0",
+            "Set": "battle_autoeye",
+            "Width": 8,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -865,7 +1150,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -875,7 +1165,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -885,12 +1180,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bax_0_0",
+        "Sprite": {
+            "Name": "battle_bax_0_0",
+            "Set": "battle_bax",
+            "Width": 12,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -923,7 +1228,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -933,7 +1243,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -943,12 +1258,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_firesprite_0_0",
+        "Sprite": {
+            "Name": "battle_firesprite_0_0",
+            "Set": "battle_firesprite",
+            "Width": 21,
+            "Height": 32
+        },
         "Notes": []
     },
     {
@@ -981,7 +1306,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -991,7 +1321,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -1003,17 +1338,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 3,
                         "ItemName": "Sadio's Green",
-                        "ItemSprite": "icons_2_18"
+                        "ItemSprite": {
+                            "Name": "icons_2_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bee_0_0",
+        "Sprite": {
+            "Name": "battle_bee_0_0",
+            "Set": "battle_bee",
+            "Width": 15,
+            "Height": 13
+        },
         "Notes": []
     },
     {
@@ -1041,7 +1391,12 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "Seawater",
                     "ItemName": "Seawater",
-                    "ItemSprite": "hats_2_2"
+                    "ItemSprite": {
+                        "Name": "hats_2_2",
+                        "Set": "hats",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -1052,7 +1407,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBlueBlossom",
                         "ItemName": "Blue Blossom",
-                        "ItemSprite": "icons_7_5"
+                        "ItemSprite": {
+                            "Name": "icons_7_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -1062,7 +1422,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBlueBlossom",
                         "ItemName": "Blue Blossom",
-                        "ItemSprite": "icons_7_5"
+                        "ItemSprite": {
+                            "Name": "icons_7_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -1074,17 +1439,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Big Bomb",
-                        "ItemSprite": "icons_8_18"
+                        "ItemSprite": {
+                            "Name": "icons_8_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemBlueBlossom",
                         "ItemName": "Blue Blossom",
-                        "ItemSprite": "icons_7_5"
+                        "ItemSprite": {
+                            "Name": "icons_7_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_blackhat_0_0",
+        "Sprite": {
+            "Name": "battle_blackhat_0_0",
+            "Set": "battle_blackhat",
+            "Width": 15,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -1118,7 +1498,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1128,7 +1513,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGoldBlossom",
                         "ItemName": "Gold Blossom",
-                        "ItemSprite": "icons_8_5"
+                        "ItemSprite": {
+                            "Name": "icons_8_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -1138,12 +1528,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBlueBlossom",
                         "ItemName": "Blue Blossom",
-                        "ItemSprite": "icons_7_5"
+                        "ItemSprite": {
+                            "Name": "icons_7_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bcleric_0_0",
+        "Sprite": {
+            "Name": "battle_bcleric_0_0",
+            "Set": "battle_bcleric",
+            "Width": 14,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -1177,7 +1577,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1187,7 +1592,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGoldBlossom",
                         "ItemName": "Gold Blossom",
-                        "ItemSprite": "icons_8_5"
+                        "ItemSprite": {
+                            "Name": "icons_8_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -1197,12 +1607,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemThornBerries",
                         "ItemName": "Thorn Berries",
-                        "ItemSprite": "icons_2_10"
+                        "ItemSprite": {
+                            "Name": "icons_2_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bsafina_0_0",
+        "Sprite": {
+            "Name": "battle_bsafina_0_0",
+            "Set": "battle_bsafina",
+            "Width": 17,
+            "Height": 25
+        },
         "Notes": []
     },
     {
@@ -1236,7 +1656,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1246,7 +1671,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBlueBlossom",
                         "ItemName": "Blue Blossom",
-                        "ItemSprite": "icons_7_5"
+                        "ItemSprite": {
+                            "Name": "icons_7_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -1256,12 +1686,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSweetCake",
                         "ItemName": "Sweet Cake",
-                        "ItemSprite": "icons_6_12"
+                        "ItemSprite": {
+                            "Name": "icons_6_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bstudent_0_0",
+        "Sprite": {
+            "Name": "battle_bstudent_0_0",
+            "Set": "battle_bstudent",
+            "Width": 11,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -1289,17 +1729,32 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemBookOfSafety",
                     "ItemName": "Book of Safety",
-                    "ItemSprite": "icons_6_17"
+                    "ItemSprite": {
+                        "Name": "icons_6_17",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 11
+                    }
                 },
                 {
                     "ItemType": "ItemPrizeMedal",
                     "ItemName": "Prize Medal",
-                    "ItemSprite": "icons_3_16"
+                    "ItemSprite": {
+                        "Name": "icons_3_16",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 },
                 {
                     "ItemType": "ItemPrizeMedal",
                     "ItemName": "Prize Medal",
-                    "ItemSprite": "icons_3_16"
+                    "ItemSprite": {
+                        "Name": "icons_3_16",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 }
             ]
         },
@@ -1310,7 +1765,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBookOfLove",
                         "ItemName": "Book of Love",
-                        "ItemSprite": "icons_2_17"
+                        "ItemSprite": {
+                            "Name": "icons_2_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -1320,7 +1780,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBookOfLove",
                         "ItemName": "Book of Love",
-                        "ItemSprite": "icons_2_17"
+                        "ItemSprite": {
+                            "Name": "icons_2_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -1330,17 +1795,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBookOfLove",
                         "ItemName": "Book of Love",
-                        "ItemSprite": "icons_2_17"
+                        "ItemSprite": {
+                            "Name": "icons_2_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "TheBattleWitch",
                         "ItemName": "The Battle Witch",
-                        "ItemSprite": "armor_2_3"
+                        "ItemSprite": {
+                            "Name": "armor_2_3",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bloodwyn_0_0",
+        "Sprite": {
+            "Name": "battle_bloodwyn_0_0",
+            "Set": "battle_bloodwyn",
+            "Width": 29,
+            "Height": 41
+        },
         "Notes": []
     },
     {
@@ -1370,7 +1850,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 2,
                     "ItemName": "Red Mushroom",
-                    "ItemSprite": "icons_4_5"
+                    "ItemSprite": {
+                        "Name": "icons_4_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -1381,7 +1866,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1391,7 +1881,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1401,12 +1896,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bluebird_0_0",
+        "Sprite": {
+            "Name": "battle_bluebird_0_0",
+            "Set": "battle_bluebird",
+            "Width": 22,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -1437,7 +1942,12 @@ export const enemies: EnemyData[] = [
                     "MaxOwned": 2,
                     "IsCombinedMax": true,
                     "ItemName": "Red Mushroom",
-                    "ItemSprite": "icons_4_5"
+                    "ItemSprite": {
+                        "Name": "icons_4_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -1448,7 +1958,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1458,7 +1973,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1468,12 +1988,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bluebird_0_0",
+        "Sprite": {
+            "Name": "battle_bluebird_0_0",
+            "Set": "battle_bluebird",
+            "Width": 22,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -1504,7 +2034,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkSeeds",
                         "ItemName": "Pink Seeds",
-                        "ItemSprite": "icons_6_15"
+                        "ItemSprite": {
+                            "Name": "icons_6_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1514,7 +2049,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkSeeds",
                         "ItemName": "Pink Seeds",
-                        "ItemSprite": "icons_6_15"
+                        "ItemSprite": {
+                            "Name": "icons_6_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1526,17 +2066,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Cave Acorn",
-                        "ItemSprite": "icons_3_11"
+                        "ItemSprite": {
+                            "Name": "icons_3_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemPinkSeeds",
                         "ItemName": "Pink Seeds",
-                        "ItemSprite": "icons_6_15"
+                        "ItemSprite": {
+                            "Name": "icons_6_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_book_blue_0_0",
+        "Sprite": {
+            "Name": "battle_book_blue_0_0",
+            "Set": "battle_book_blue",
+            "Width": 23,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -1566,7 +2121,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Sadio's Red",
-                    "ItemSprite": "icons_0_18"
+                    "ItemSprite": {
+                        "Name": "icons_0_18",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 11
+                    }
                 }
             ]
         },
@@ -1577,7 +2137,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsRed",
                         "ItemName": "Sadio's Red",
-                        "ItemSprite": "icons_0_18"
+                        "ItemSprite": {
+                            "Name": "icons_0_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -1587,7 +2152,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsRed",
                         "ItemName": "Sadio's Red",
-                        "ItemSprite": "icons_0_18"
+                        "ItemSprite": {
+                            "Name": "icons_0_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -1599,17 +2169,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Book of Love",
-                        "ItemSprite": "icons_2_17"
+                        "ItemSprite": {
+                            "Name": "icons_2_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsRed",
                         "ItemName": "Sadio's Red",
-                        "ItemSprite": "icons_0_18"
+                        "ItemSprite": {
+                            "Name": "icons_0_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_book_purple_0_0",
+        "Sprite": {
+            "Name": "battle_book_purple_0_0",
+            "Set": "battle_book_purple",
+            "Width": 23,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -1637,7 +2222,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Sadio's Red",
-                    "ItemSprite": "icons_0_18"
+                    "ItemSprite": {
+                        "Name": "icons_0_18",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 11
+                    }
                 }
             ]
         },
@@ -1648,7 +2238,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsRed",
                         "ItemName": "Sadio's Red",
-                        "ItemSprite": "icons_0_18"
+                        "ItemSprite": {
+                            "Name": "icons_0_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -1658,7 +2253,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsRed",
                         "ItemName": "Sadio's Red",
-                        "ItemSprite": "icons_0_18"
+                        "ItemSprite": {
+                            "Name": "icons_0_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -1670,17 +2270,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Book of Love",
-                        "ItemSprite": "icons_2_17"
+                        "ItemSprite": {
+                            "Name": "icons_2_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsRed",
                         "ItemName": "Sadio's Red",
-                        "ItemSprite": "icons_0_18"
+                        "ItemSprite": {
+                            "Name": "icons_0_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_book_purple_0_0",
+        "Sprite": {
+            "Name": "battle_book_purple_0_0",
+            "Set": "battle_book_purple",
+            "Width": 23,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -1711,7 +2326,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkSeeds",
                         "ItemName": "Pink Seeds",
-                        "ItemSprite": "icons_6_15"
+                        "ItemSprite": {
+                            "Name": "icons_6_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1721,7 +2341,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkSeeds",
                         "ItemName": "Pink Seeds",
-                        "ItemSprite": "icons_6_15"
+                        "ItemSprite": {
+                            "Name": "icons_6_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1733,17 +2358,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Pow Cherry",
-                        "ItemSprite": "icons_0_10"
+                        "ItemSprite": {
+                            "Name": "icons_0_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemPinkSeeds",
                         "ItemName": "Pink Seeds",
-                        "ItemSprite": "icons_6_15"
+                        "ItemSprite": {
+                            "Name": "icons_6_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_book_red_0_0",
+        "Sprite": {
+            "Name": "battle_book_red_0_0",
+            "Set": "battle_book_red",
+            "Width": 23,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -1774,7 +2414,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1784,7 +2429,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1794,12 +2444,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bookworm_0_0",
+        "Sprite": {
+            "Name": "battle_bookworm_0_0",
+            "Set": "battle_bookworm",
+            "Width": 11,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -1830,7 +2490,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1840,7 +2505,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -1850,12 +2520,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bookworm2_0_0",
+        "Sprite": {
+            "Name": "battle_bookworm2_0_0",
+            "Set": "battle_bookworm2",
+            "Width": 11,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -1888,7 +2568,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -1898,7 +2583,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -1910,17 +2600,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Thunderbrim",
-                        "ItemSprite": "hats_3_2"
+                        "ItemSprite": {
+                            "Name": "hats_3_2",
+                            "Set": "hats",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bunwitch_0_0",
+        "Sprite": {
+            "Name": "battle_bunwitch_0_0",
+            "Set": "battle_bunwitch",
+            "Width": 28,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -1951,7 +2656,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -1961,7 +2671,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -1973,17 +2688,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Thunderbrim",
-                        "ItemSprite": "hats_3_2"
+                        "ItemSprite": {
+                            "Name": "hats_3_2",
+                            "Set": "hats",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bunwitch_0_0",
+        "Sprite": {
+            "Name": "battle_bunwitch_0_0",
+            "Set": "battle_bunwitch",
+            "Width": 28,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -2016,7 +2746,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRareCoin",
                         "ItemName": "Rare Coin",
-                        "ItemSprite": "icons_8_12"
+                        "ItemSprite": {
+                            "Name": "icons_8_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -2026,7 +2761,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRareCoin",
                         "ItemName": "Rare Coin",
-                        "ItemSprite": "icons_8_12"
+                        "ItemSprite": {
+                            "Name": "icons_8_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -2038,17 +2778,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 3,
                         "ItemName": "Beauty Token",
-                        "ItemSprite": "icons_9_11"
+                        "ItemSprite": {
+                            "Name": "icons_9_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     },
                     {
                         "ItemType": "ItemRareCoin",
                         "ItemName": "Rare Coin",
-                        "ItemSprite": "icons_8_12"
+                        "ItemSprite": {
+                            "Name": "icons_8_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_butterfly_0_0",
+        "Sprite": {
+            "Name": "battle_butterfly_0_0",
+            "Set": "battle_butterfly",
+            "Width": 26,
+            "Height": 19
+        },
         "Notes": []
     },
     {
@@ -2081,7 +2836,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSpiceLeaf",
                         "ItemName": "Spice Leaf",
-                        "ItemSprite": "icons_5_6"
+                        "ItemSprite": {
+                            "Name": "icons_5_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -2091,7 +2851,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSpiceLeaf",
                         "ItemName": "Spice Leaf",
-                        "ItemSprite": "icons_5_6"
+                        "ItemSprite": {
+                            "Name": "icons_5_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -2101,12 +2866,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSpiceLeaf",
                         "ItemName": "Spice Leaf",
-                        "ItemSprite": "icons_5_6"
+                        "ItemSprite": {
+                            "Name": "icons_5_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_cauldron_0_0",
+        "Sprite": {
+            "Name": "battle_cauldron_0_0",
+            "Set": "battle_cauldron",
+            "Width": 22,
+            "Height": 15
+        },
         "Notes": []
     },
     {
@@ -2135,12 +2910,22 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemRareCoin",
                     "ItemName": "Rare Coin",
-                    "ItemSprite": "icons_8_12"
+                    "ItemSprite": {
+                        "Name": "icons_8_12",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 },
                 {
                     "ItemType": "Woolymuffs",
                     "ItemName": "Woolymuffs",
-                    "ItemSprite": "hats_1_3"
+                    "ItemSprite": {
+                        "Name": "hats_1_3",
+                        "Set": "hats",
+                        "Width": 14,
+                        "Height": 8
+                    }
                 }
             ]
         },
@@ -2151,7 +2936,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRancidFruit",
                         "ItemName": "Rancid Fruit",
-                        "ItemSprite": "icons_7_15"
+                        "ItemSprite": {
+                            "Name": "icons_7_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -2161,7 +2951,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRancidFruit",
                         "ItemName": "Rancid Fruit",
-                        "ItemSprite": "icons_7_15"
+                        "ItemSprite": {
+                            "Name": "icons_7_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -2171,17 +2966,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRancidFruit",
                         "ItemName": "Rancid Fruit",
-                        "ItemSprite": "icons_7_15"
+                        "ItemSprite": {
+                            "Name": "icons_7_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemRareCoin",
                         "ItemName": "Rare Coin",
-                        "ItemSprite": "icons_8_12"
+                        "ItemSprite": {
+                            "Name": "icons_8_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_chuckles_0_0",
+        "Sprite": {
+            "Name": "battle_chuckles_0_0",
+            "Set": "battle_chuckles",
+            "Width": 29,
+            "Height": 50
+        },
         "Notes": []
     },
     {
@@ -2214,7 +3024,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBigBomb",
                         "ItemName": "Big Bomb",
-                        "ItemSprite": "icons_8_18"
+                        "ItemSprite": {
+                            "Name": "icons_8_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -2224,7 +3039,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBigBomb",
                         "ItemName": "Big Bomb",
-                        "ItemSprite": "icons_8_18"
+                        "ItemSprite": {
+                            "Name": "icons_8_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -2234,12 +3054,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBigBomb",
                         "ItemName": "Big Bomb",
-                        "ItemSprite": "icons_8_18"
+                        "ItemSprite": {
+                            "Name": "icons_8_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_cibil_0_0",
+        "Sprite": {
+            "Name": "battle_cibil_0_0",
+            "Set": "battle_cibil",
+            "Width": 15,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -2272,7 +3102,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2282,7 +3117,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2292,12 +3132,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_codex_0_0",
+        "Sprite": {
+            "Name": "battle_codex_0_0",
+            "Set": "battle_codex",
+            "Width": 33,
+            "Height": 30
+        },
         "Notes": []
     },
     {
@@ -2330,7 +3180,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2340,7 +3195,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2350,12 +3210,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bee_eye_0_0",
+        "Sprite": {
+            "Name": "battle_bee_eye_0_0",
+            "Set": "battle_bee_eye",
+            "Width": 15,
+            "Height": 13
+        },
         "Notes": []
     },
     {
@@ -2388,7 +3258,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2398,7 +3273,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2408,12 +3288,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eyepole_0_0",
+        "Sprite": {
+            "Name": "battle_eyepole_0_0",
+            "Set": "battle_eyepole",
+            "Width": 16,
+            "Height": 31
+        },
         "Notes": []
     },
     {
@@ -2444,7 +3334,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2454,7 +3349,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2464,12 +3364,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bookworm_eye_0_0",
+        "Sprite": {
+            "Name": "battle_bookworm_eye_0_0",
+            "Set": "battle_bookworm_eye",
+            "Width": 11,
+            "Height": 13
+        },
         "Notes": []
     },
     {
@@ -2502,7 +3412,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2512,7 +3427,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2522,12 +3442,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lantern_flame_0_0",
+        "Sprite": {
+            "Name": "battle_lantern_flame_0_0",
+            "Set": "battle_lantern_flame",
+            "Width": 8,
+            "Height": 12
+        },
         "Notes": []
     },
     {
@@ -2560,7 +3490,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2570,7 +3505,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2580,12 +3520,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_sackeye_0_0",
+        "Sprite": {
+            "Name": "battle_sackeye_0_0",
+            "Set": "battle_sackeye",
+            "Width": 14,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -2616,7 +3566,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBeautyToken",
                         "ItemName": "Beauty Token",
-                        "ItemSprite": "icons_9_11"
+                        "ItemSprite": {
+                            "Name": "icons_9_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -2626,7 +3581,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBeautyToken",
                         "ItemName": "Beauty Token",
-                        "ItemSprite": "icons_9_11"
+                        "ItemSprite": {
+                            "Name": "icons_9_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -2638,17 +3598,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 5,
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemBeautyToken",
                         "ItemName": "Beauty Token",
-                        "ItemSprite": "icons_9_11"
+                        "ItemSprite": {
+                            "Name": "icons_9_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_cracked_ghost_0_0",
+        "Sprite": {
+            "Name": "battle_cracked_ghost_0_0",
+            "Set": "battle_cracked_ghost",
+            "Width": 23,
+            "Height": 16
+        },
         "Notes": []
     },
     {
@@ -2681,7 +3656,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -2691,7 +3671,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -2703,17 +3688,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Cave Acorn",
-                        "ItemSprite": "icons_3_11"
+                        "ItemSprite": {
+                            "Name": "icons_3_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_craterbaby_0_0",
+        "Sprite": {
+            "Name": "battle_craterbaby_0_0",
+            "Set": "battle_craterbaby",
+            "Width": 15,
+            "Height": 17
+        },
         "Notes": []
     },
     {
@@ -2744,7 +3744,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Star Cookie",
-                    "ItemSprite": "icons_8_15"
+                    "ItemSprite": {
+                        "Name": "icons_8_15",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -2758,7 +3763,12 @@ export const enemies: EnemyData[] = [
                             0
                         ],
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     },
                     {
                         "ItemType": "ItemComebackCandy",
@@ -2766,7 +3776,12 @@ export const enemies: EnemyData[] = [
                             1
                         ],
                         "ItemName": "Comeback Candy",
-                        "ItemSprite": "icons_1_10"
+                        "ItemSprite": {
+                            "Name": "icons_1_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -2779,7 +3794,12 @@ export const enemies: EnemyData[] = [
                             0
                         ],
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemComebackCandy",
@@ -2787,7 +3807,12 @@ export const enemies: EnemyData[] = [
                             1
                         ],
                         "ItemName": "Comeback Candy",
-                        "ItemSprite": "icons_1_10"
+                        "ItemSprite": {
+                            "Name": "icons_1_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -2801,7 +3826,12 @@ export const enemies: EnemyData[] = [
                             0
                         ],
                         "ItemName": "Royal Snug",
-                        "ItemSprite": "hats_3_1"
+                        "ItemSprite": {
+                            "Name": "hats_3_1",
+                            "Set": "hats",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemStarCookie",
@@ -2811,12 +3841,22 @@ export const enemies: EnemyData[] = [
                             1
                         ],
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_craterface_0_0",
+        "Sprite": {
+            "Name": "battle_craterface_0_0",
+            "Set": "battle_craterface",
+            "Width": 26,
+            "Height": 27
+        },
         "Notes": [
             "only if you have no Royal Snugs",
             "only if you have at least 1 Royal Snug"
@@ -2853,7 +3893,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -2863,7 +3908,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -2875,17 +3925,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "The Romantic",
-                        "ItemSprite": "hats_7_2"
+                        "ItemSprite": {
+                            "Name": "hats_7_2",
+                            "Set": "hats",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_craterface2_0_0",
+        "Sprite": {
+            "Name": "battle_craterface2_0_0",
+            "Set": "battle_craterface2",
+            "Width": 26,
+            "Height": 27
+        },
         "Notes": []
     },
     {
@@ -2919,7 +3984,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2929,7 +3999,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -2939,12 +4014,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_crystal_0_0",
+        "Sprite": {
+            "Name": "battle_crystal_0_0",
+            "Set": "battle_crystal",
+            "Width": 9,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -2978,7 +4063,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkPods",
                         "ItemName": "Pink Pods",
-                        "ItemSprite": "icons_6_16"
+                        "ItemSprite": {
+                            "Name": "icons_6_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -2988,7 +4078,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkPods",
                         "ItemName": "Pink Pods",
-                        "ItemSprite": "icons_6_16"
+                        "ItemSprite": {
+                            "Name": "icons_6_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -3000,17 +4095,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Steel Toes",
-                        "ItemSprite": "feet_4_0"
+                        "ItemSprite": {
+                            "Name": "feet_4_0",
+                            "Set": "feet",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemPinkPods",
                         "ItemName": "Pink Pods",
-                        "ItemSprite": "icons_6_16"
+                        "ItemSprite": {
+                            "Name": "icons_6_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_golem2_0_0",
+        "Sprite": {
+            "Name": "battle_golem2_0_0",
+            "Set": "battle_golem2",
+            "Width": 26,
+            "Height": 30
+        },
         "Notes": []
     },
     {
@@ -3040,7 +4150,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Sadio's Green",
-                    "ItemSprite": "icons_2_18"
+                    "ItemSprite": {
+                        "Name": "icons_2_18",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 11
+                    }
                 }
             ]
         },
@@ -3051,7 +4166,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsGreen",
                         "ItemName": "Sadio's Green",
-                        "ItemSprite": "icons_2_18"
+                        "ItemSprite": {
+                            "Name": "icons_2_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -3061,7 +4181,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsGreen",
                         "ItemName": "Sadio's Green",
-                        "ItemSprite": "icons_2_18"
+                        "ItemSprite": {
+                            "Name": "icons_2_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -3073,17 +4198,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsGreen",
                         "ItemName": "Sadio's Green",
-                        "ItemSprite": "icons_2_18"
+                        "ItemSprite": {
+                            "Name": "icons_2_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_darkeye_0_0",
+        "Sprite": {
+            "Name": "battle_darkeye_0_0",
+            "Set": "battle_darkeye",
+            "Width": 24,
+            "Height": 23
+        },
         "Notes": []
     },
     {
@@ -3111,7 +4251,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Sadio's Green",
-                    "ItemSprite": "icons_2_18"
+                    "ItemSprite": {
+                        "Name": "icons_2_18",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 11
+                    }
                 }
             ]
         },
@@ -3122,7 +4267,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsGreen",
                         "ItemName": "Sadio's Green",
-                        "ItemSprite": "icons_2_18"
+                        "ItemSprite": {
+                            "Name": "icons_2_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -3132,7 +4282,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsGreen",
                         "ItemName": "Sadio's Green",
-                        "ItemSprite": "icons_2_18"
+                        "ItemSprite": {
+                            "Name": "icons_2_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -3144,17 +4299,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsGreen",
                         "ItemName": "Sadio's Green",
-                        "ItemSprite": "icons_2_18"
+                        "ItemSprite": {
+                            "Name": "icons_2_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_darkeye_0_0",
+        "Sprite": {
+            "Name": "battle_darkeye_0_0",
+            "Set": "battle_darkeye",
+            "Width": 24,
+            "Height": 23
+        },
         "Notes": []
     },
     {
@@ -3180,17 +4350,32 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemCommonCoin",
                     "ItemName": "Common Coin",
-                    "ItemSprite": "icons_8_11"
+                    "ItemSprite": {
+                        "Name": "icons_8_11",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 8
+                    }
                 },
                 {
                     "ItemType": "ItemSweetSprout",
                     "ItemName": "Sweet Sprout",
-                    "ItemSprite": "icons_5_7"
+                    "ItemSprite": {
+                        "Name": "icons_5_7",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 },
                 {
                     "ItemType": "ItemBlackBomb",
                     "ItemName": "Black Bomb",
-                    "ItemSprite": "icons_5_15"
+                    "ItemSprite": {
+                        "Name": "icons_5_15",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -3201,7 +4386,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3211,7 +4401,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3221,12 +4416,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_darkskull_0_0",
+        "Sprite": {
+            "Name": "battle_darkskull_0_0",
+            "Set": "battle_darkskull",
+            "Width": 21,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -3254,17 +4459,32 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemSmallMushroom",
                     "ItemName": "Small Mushroom",
-                    "ItemSprite": "icons_4_6"
+                    "ItemSprite": {
+                        "Name": "icons_4_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 8
+                    }
                 },
                 {
                     "ItemType": "ItemSmallMushroom",
                     "ItemName": "Small Mushroom",
-                    "ItemSprite": "icons_4_6"
+                    "ItemSprite": {
+                        "Name": "icons_4_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 8
+                    }
                 },
                 {
                     "ItemType": "ItemRedMushroom",
                     "ItemName": "Red Mushroom",
-                    "ItemSprite": "icons_4_5"
+                    "ItemSprite": {
+                        "Name": "icons_4_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -3275,7 +4495,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3285,7 +4510,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3295,12 +4525,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eoc_0_0",
+        "Sprite": {
+            "Name": "battle_eoc_0_0",
+            "Set": "battle_eoc",
+            "Width": 17,
+            "Height": 25
+        },
         "Notes": []
     },
     {
@@ -3331,7 +4571,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3341,7 +4586,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3351,12 +4601,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eyeflower_0_0",
+        "Sprite": {
+            "Name": "battle_eyeflower_0_0",
+            "Set": "battle_eyeflower",
+            "Width": 17,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -3390,7 +4650,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCaveAcorn",
                         "ItemName": "Cave Acorn",
-                        "ItemSprite": "icons_3_11"
+                        "ItemSprite": {
+                            "Name": "icons_3_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -3400,7 +4665,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCaveAcorn",
                         "ItemName": "Cave Acorn",
-                        "ItemSprite": "icons_3_11"
+                        "ItemSprite": {
+                            "Name": "icons_3_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -3412,17 +4682,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Rancid Fruit",
-                        "ItemSprite": "icons_7_15"
+                        "ItemSprite": {
+                            "Name": "icons_7_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemCaveAcorn",
                         "ItemName": "Cave Acorn",
-                        "ItemSprite": "icons_3_11"
+                        "ItemSprite": {
+                            "Name": "icons_3_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eyesore_0_0",
+        "Sprite": {
+            "Name": "battle_eyesore_0_0",
+            "Set": "battle_eyesore",
+            "Width": 27,
+            "Height": 25
+        },
         "Notes": []
     },
     {
@@ -3434,7 +4719,10 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 1,
+        "Exp": {
+            "Min": 2,
+            "Max": 3
+        },
         "Money": {
             "Min": 3,
             "Max": 3
@@ -3450,7 +4738,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3460,7 +4753,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3470,7 +4768,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
@@ -3487,7 +4790,10 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 1,
+        "Exp": {
+            "Min": 2,
+            "Max": 3
+        },
         "Money": {
             "Min": 3,
             "Max": 3
@@ -3503,7 +4809,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3513,7 +4824,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3523,7 +4839,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
@@ -3563,7 +4884,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3573,7 +4899,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3583,12 +4914,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fantom_0_0",
+        "Sprite": {
+            "Name": "battle_fantom_0_0",
+            "Set": "battle_fantom",
+            "Width": 33,
+            "Height": 44
+        },
         "Notes": []
     },
     {
@@ -3624,7 +4965,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3634,7 +4980,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3644,12 +4995,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fantom2_0_0",
+        "Sprite": {
+            "Name": "battle_fantom2_0_0",
+            "Set": "battle_fantom2",
+            "Width": 47,
+            "Height": 50
+        },
         "Notes": []
     },
     {
@@ -3684,7 +5045,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3694,7 +5060,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3704,12 +5075,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fantom3_0_0",
+        "Sprite": {
+            "Name": "battle_fantom3_0_0",
+            "Set": "battle_fantom3",
+            "Width": 63,
+            "Height": 72
+        },
         "Notes": []
     },
     {
@@ -3737,7 +5118,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 2,
                     "ItemName": "Gold Blossom",
-                    "ItemSprite": "icons_8_5"
+                    "ItemSprite": {
+                        "Name": "icons_8_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 }
             ]
         },
@@ -3748,7 +5134,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3758,7 +5149,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3768,12 +5164,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_flower_0_0",
+        "Sprite": {
+            "Name": "battle_flower_0_0",
+            "Set": "battle_flower",
+            "Width": 17,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -3803,7 +5209,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Blue Blossom",
-                    "ItemSprite": "icons_7_5"
+                    "ItemSprite": {
+                        "Name": "icons_7_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 }
             ]
         },
@@ -3814,7 +5225,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3824,7 +5240,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -3834,12 +5255,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fluttergum_0_0",
+        "Sprite": {
+            "Name": "battle_fluttergum_0_0",
+            "Set": "battle_fluttergum",
+            "Width": 19,
+            "Height": 29
+        },
         "Notes": []
     },
     {
@@ -3869,7 +5300,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Dew Plum",
-                    "ItemSprite": "icons_1_7"
+                    "ItemSprite": {
+                        "Name": "icons_1_7",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 }
             ]
         },
@@ -3880,7 +5316,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDewPlum",
                         "ItemName": "Dew Plum",
-                        "ItemSprite": "icons_1_7"
+                        "ItemSprite": {
+                            "Name": "icons_1_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -3890,7 +5331,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDewPlum",
                         "ItemName": "Dew Plum",
-                        "ItemSprite": "icons_1_7"
+                        "ItemSprite": {
+                            "Name": "icons_1_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -3902,17 +5348,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemDewPlum",
                         "ItemName": "Dew Plum",
-                        "ItemSprite": "icons_1_7"
+                        "ItemSprite": {
+                            "Name": "icons_1_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lamp_0_0",
+        "Sprite": {
+            "Name": "battle_lamp_0_0",
+            "Set": "battle_lamp",
+            "Width": 27,
+            "Height": 17
+        },
         "Notes": []
     },
     {
@@ -3945,7 +5406,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -3955,7 +5421,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -3967,17 +5438,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Sadio's Sparkly",
-                        "ItemSprite": "icons_0_13"
+                        "ItemSprite": {
+                            "Name": "icons_0_13",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lamp2_0_0",
+        "Sprite": {
+            "Name": "battle_lamp2_0_0",
+            "Set": "battle_lamp2",
+            "Width": 27,
+            "Height": 17
+        },
         "Notes": []
     },
     {
@@ -4010,7 +5496,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRedMushroom",
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -4020,7 +5511,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRedMushroom",
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -4032,17 +5528,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 2,
                         "MaxOwned": 2,
                         "ItemName": "Toxic Shroom",
-                        "ItemSprite": "icons_2_8"
+                        "ItemSprite": {
+                            "Name": "icons_2_8",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemRedMushroom",
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fungi_0_0",
+        "Sprite": {
+            "Name": "battle_fungi_0_0",
+            "Set": "battle_fungi",
+            "Width": 13,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -4075,7 +5586,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4085,7 +5601,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4095,12 +5616,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fungi_0_0",
+        "Sprite": {
+            "Name": "battle_fungi_0_0",
+            "Set": "battle_fungi",
+            "Width": 13,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -4133,7 +5664,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -4143,7 +5679,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -4155,17 +5696,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Fruity Shroom",
-                        "ItemSprite": "icons_9_17"
+                        "ItemSprite": {
+                            "Name": "icons_9_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fungo_0_0",
+        "Sprite": {
+            "Name": "battle_fungo_0_0",
+            "Set": "battle_fungo",
+            "Width": 30,
+            "Height": 32
+        },
         "Notes": []
     },
     {
@@ -4193,7 +5749,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 5,
                     "ItemName": "Small Mushroom",
-                    "ItemSprite": "icons_4_6"
+                    "ItemSprite": {
+                        "Name": "icons_4_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 8
+                    }
                 }
             ]
         },
@@ -4204,7 +5765,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4214,7 +5780,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4224,12 +5795,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fuzzy_0_0",
+        "Sprite": {
+            "Name": "battle_fuzzy_0_0",
+            "Set": "battle_fuzzy",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -4260,7 +5841,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4270,7 +5856,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4280,12 +5871,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fuzzy_stack_0_0",
+        "Sprite": {
+            "Name": "battle_fuzzy_stack_0_0",
+            "Set": "battle_fuzzy_stack",
+            "Width": 15,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -4301,7 +5902,10 @@ export const enemies: EnemyData[] = [
             "Min": 5,
             "Max": 5
         },
-        "Money": 0,
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4313,7 +5917,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4323,7 +5932,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4333,12 +5947,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fuzzy_0_0",
+        "Sprite": {
+            "Name": "battle_fuzzy_0_0",
+            "Set": "battle_fuzzy",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -4354,7 +5978,10 @@ export const enemies: EnemyData[] = [
             "Min": 3,
             "Max": 3
         },
-        "Money": 0,
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -4366,7 +5993,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4376,7 +6008,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4386,12 +6023,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fuzzy_0_0",
+        "Sprite": {
+            "Name": "battle_fuzzy_0_0",
+            "Set": "battle_fuzzy",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -4425,7 +6072,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemVeggieStew",
                         "ItemName": "Veggie Stew",
-                        "ItemSprite": "icons_4_17"
+                        "ItemSprite": {
+                            "Name": "icons_4_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -4435,7 +6087,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemVeggieStew",
                         "ItemName": "Veggie Stew",
-                        "ItemSprite": "icons_4_17"
+                        "ItemSprite": {
+                            "Name": "icons_4_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -4445,18 +6102,33 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemVeggieStew",
                         "ItemName": "Veggie Stew",
-                        "ItemSprite": "icons_4_17"
+                        "ItemSprite": {
+                            "Name": "icons_4_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "PrizePoppies",
                         "MaxRewarded": 1,
                         "ItemName": "Prize Poppies",
-                        "ItemSprite": "accessories_6_7"
+                        "ItemSprite": {
+                            "Name": "accessories_6_7",
+                            "Set": "accessories",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_gardener_0_0",
+        "Sprite": {
+            "Name": "battle_gardener_0_0",
+            "Set": "battle_gardener",
+            "Width": 28,
+            "Height": 30
+        },
         "Notes": []
     },
     {
@@ -4484,17 +6156,32 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemPrizeMedal",
                     "ItemName": "Prize Medal",
-                    "ItemSprite": "icons_3_16"
+                    "ItemSprite": {
+                        "Name": "icons_3_16",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 },
                 {
                     "ItemType": "ItemPrizeMedal",
                     "ItemName": "Prize Medal",
-                    "ItemSprite": "icons_3_16"
+                    "ItemSprite": {
+                        "Name": "icons_3_16",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 },
                 {
                     "ItemType": "PrizeShoots",
                     "ItemName": "Prize Shoots",
-                    "ItemSprite": "accessories_7_7"
+                    "ItemSprite": {
+                        "Name": "accessories_7_7",
+                        "Set": "accessories",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 }
             ]
         },
@@ -4505,7 +6192,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPrizeMedal",
                         "ItemName": "Prize Medal",
-                        "ItemSprite": "icons_3_16"
+                        "ItemSprite": {
+                            "Name": "icons_3_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -4515,7 +6207,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPrizeMedal",
                         "ItemName": "Prize Medal",
-                        "ItemSprite": "icons_3_16"
+                        "ItemSprite": {
+                            "Name": "icons_3_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -4525,18 +6222,33 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPrizeMedal",
                         "ItemName": "Prize Medal",
-                        "ItemSprite": "icons_3_16"
+                        "ItemSprite": {
+                            "Name": "icons_3_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "PrizePoppies",
                         "MaxRewarded": 1,
                         "ItemName": "Prize Poppies",
-                        "ItemSprite": "accessories_6_7"
+                        "ItemSprite": {
+                            "Name": "accessories_6_7",
+                            "Set": "accessories",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_gardener_32_0",
+        "Sprite": {
+            "Name": "battle_gardener_32_0",
+            "Set": "battle_gardener",
+            "Width": 24,
+            "Height": 28
+        },
         "Notes": []
     },
     {
@@ -4567,7 +6279,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -4577,7 +6294,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -4589,17 +6311,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 3,
                         "ItemName": "Sadio's Green",
-                        "ItemSprite": "icons_2_18"
+                        "ItemSprite": {
+                            "Name": "icons_2_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemMintShroom",
                         "ItemName": "Mint Shroom",
-                        "ItemSprite": "icons_9_16"
+                        "ItemSprite": {
+                            "Name": "icons_9_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bee_0_0",
+        "Sprite": {
+            "Name": "battle_bee_0_0",
+            "Set": "battle_bee",
+            "Width": 15,
+            "Height": 13
+        },
         "Notes": []
     },
     {
@@ -4630,7 +6367,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRareCoin",
                         "ItemName": "Rare Coin",
-                        "ItemSprite": "icons_8_12"
+                        "ItemSprite": {
+                            "Name": "icons_8_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -4640,7 +6382,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRareCoin",
                         "ItemName": "Rare Coin",
-                        "ItemSprite": "icons_8_12"
+                        "ItemSprite": {
+                            "Name": "icons_8_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -4652,17 +6399,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 3,
                         "ItemName": "Beauty Token",
-                        "ItemSprite": "icons_9_11"
+                        "ItemSprite": {
+                            "Name": "icons_9_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     },
                     {
                         "ItemType": "ItemRareCoin",
                         "ItemName": "Rare Coin",
-                        "ItemSprite": "icons_8_12"
+                        "ItemSprite": {
+                            "Name": "icons_8_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_butterfly_0_0",
+        "Sprite": {
+            "Name": "battle_butterfly_0_0",
+            "Set": "battle_butterfly",
+            "Width": 26,
+            "Height": 19
+        },
         "Notes": []
     },
     {
@@ -4693,7 +6455,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4703,7 +6470,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4713,12 +6485,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eyeflower_0_0",
+        "Sprite": {
+            "Name": "battle_eyeflower_0_0",
+            "Set": "battle_eyeflower",
+            "Width": 17,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -4751,7 +6533,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4761,7 +6548,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4771,12 +6563,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ghost_fat_0_0",
+        "Sprite": {
+            "Name": "battle_ghost_fat_0_0",
+            "Set": "battle_ghost_fat",
+            "Width": 16,
+            "Height": 23
+        },
         "Notes": []
     },
     {
@@ -4809,7 +6611,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4819,7 +6626,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4829,12 +6641,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ghost_skinny_0_0",
+        "Sprite": {
+            "Name": "battle_ghost_skinny_0_0",
+            "Set": "battle_ghost_skinny",
+            "Width": 16,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -4864,14 +6686,24 @@ export const enemies: EnemyData[] = [
                         0
                     ],
                     "ItemName": "Sweet Sprout",
-                    "ItemSprite": "icons_5_7"
+                    "ItemSprite": {
+                        "Name": "icons_5_7",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 },
                 {
                     "ItemType": "ItemRedMushroom",
                     "MaxRewarded": 1,
                     "MaxOwned": 3,
                     "ItemName": "Red Mushroom",
-                    "ItemSprite": "icons_4_5"
+                    "ItemSprite": {
+                        "Name": "icons_4_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -4882,7 +6714,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4892,7 +6729,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4902,12 +6744,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ghrost_0_0",
+        "Sprite": {
+            "Name": "battle_ghrost_0_0",
+            "Set": "battle_ghrost",
+            "Width": 21,
+            "Height": 21
+        },
         "Notes": [
             "only if fighting multiple Ghrosts"
         ]
@@ -4921,7 +6773,10 @@ export const enemies: EnemyData[] = [
         "Def": 8,
         "Spd": 10,
         "Mov": 3,
-        "Exp": 1,
+        "Exp": {
+            "Min": 1,
+            "Max": 2
+        },
         "Money": {
             "Min": 1,
             "Max": 1
@@ -4937,7 +6792,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4947,7 +6807,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -4957,12 +6822,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ghrostling_0_0",
+        "Sprite": {
+            "Name": "battle_ghrostling_0_0",
+            "Set": "battle_ghrostling",
+            "Width": 13,
+            "Height": 12
+        },
         "Notes": []
     },
     {
@@ -4990,12 +6865,22 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemSweetCake",
                     "ItemName": "Sweet Cake",
-                    "ItemSprite": "icons_6_12"
+                    "ItemSprite": {
+                        "Name": "icons_6_12",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 },
                 {
                     "ItemType": "ItemRareCoin",
                     "ItemName": "Rare Coin",
-                    "ItemSprite": "icons_8_12"
+                    "ItemSprite": {
+                        "Name": "icons_8_12",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -5006,7 +6891,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5016,7 +6906,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5026,12 +6921,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_gilda_0_0",
+        "Sprite": {
+            "Name": "battle_gilda_0_0",
+            "Set": "battle_gilda",
+            "Width": 14,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -5059,7 +6964,12 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemRareGem",
                     "ItemName": "Rare Gem",
-                    "ItemSprite": "icons_0_6"
+                    "ItemSprite": {
+                        "Name": "icons_0_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 }
             ]
         },
@@ -5070,7 +6980,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5080,7 +6995,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5090,12 +7010,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_gilda_0_0",
+        "Sprite": {
+            "Name": "battle_gilda_0_0",
+            "Set": "battle_gilda",
+            "Width": 14,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -5126,7 +7056,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5136,7 +7071,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5146,12 +7086,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_glip_0_0",
+        "Sprite": {
+            "Name": "battle_glip_0_0",
+            "Set": "battle_glip",
+            "Width": 27,
+            "Height": 60
+        },
         "Notes": []
     },
     {
@@ -5182,7 +7132,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5192,7 +7147,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5202,12 +7162,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bee_0_0",
+        "Sprite": {
+            "Name": "battle_bee_0_0",
+            "Set": "battle_bee",
+            "Width": 15,
+            "Height": 13
+        },
         "Notes": []
     },
     {
@@ -5238,7 +7208,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5248,7 +7223,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5258,12 +7238,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fungi_0_0",
+        "Sprite": {
+            "Name": "battle_fungi_0_0",
+            "Set": "battle_fungi",
+            "Width": 13,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -5294,7 +7284,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5304,7 +7299,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5314,12 +7314,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_fuzzy_0_0",
+        "Sprite": {
+            "Name": "battle_fuzzy_0_0",
+            "Set": "battle_fuzzy",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -5350,7 +7360,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5360,7 +7375,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5370,12 +7390,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ghrostling_0_0",
+        "Sprite": {
+            "Name": "battle_ghrostling_0_0",
+            "Set": "battle_ghrostling",
+            "Width": 13,
+            "Height": 12
+        },
         "Notes": []
     },
     {
@@ -5406,7 +7436,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5416,7 +7451,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5426,12 +7466,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_pane_attacker_0_0",
+        "Sprite": {
+            "Name": "battle_pane_attacker_0_0",
+            "Set": "battle_pane_attacker",
+            "Width": 11,
+            "Height": 15
+        },
         "Notes": []
     },
     {
@@ -5462,7 +7512,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5472,7 +7527,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5482,12 +7542,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_pants_0_0",
+        "Sprite": {
+            "Name": "battle_pants_0_0",
+            "Set": "battle_pants",
+            "Width": 22,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -5518,14 +7588,24 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 2,
                     "ItemName": "Honeycrisp",
-                    "ItemSprite": "icons_2_7"
+                    "ItemSprite": {
+                        "Name": "icons_2_7",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 },
                 {
                     "ItemType": "ItemMiniMelon",
                     "MaxRewarded": 1,
                     "MaxOwned": 3,
                     "ItemName": "Mini Melon",
-                    "ItemSprite": "icons_1_9"
+                    "ItemSprite": {
+                        "Name": "icons_1_9",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -5536,7 +7616,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -5546,7 +7631,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -5558,17 +7648,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 2,
                         "MaxOwned": 2,
                         "ItemName": "Comeback Candy",
-                        "ItemSprite": "icons_1_10"
+                        "ItemSprite": {
+                            "Name": "icons_1_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_golem_0_0",
+        "Sprite": {
+            "Name": "battle_golem_0_0",
+            "Set": "battle_golem",
+            "Width": 26,
+            "Height": 30
+        },
         "Notes": []
     },
     {
@@ -5600,7 +7705,12 @@ export const enemies: EnemyData[] = [
                     "MaxOwned": 3,
                     "IsCombinedMax": true,
                     "ItemName": "Frenzy Flower",
-                    "ItemSprite": "icons_9_5"
+                    "ItemSprite": {
+                        "Name": "icons_9_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 }
             ]
         },
@@ -5611,7 +7721,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5621,7 +7736,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5631,12 +7751,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_golem_red_0_0",
+        "Sprite": {
+            "Name": "battle_golem_red_0_0",
+            "Set": "battle_golem_red",
+            "Width": 26,
+            "Height": 30
+        },
         "Notes": []
     },
     {
@@ -5664,7 +7794,12 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemSpiceLeaf",
                     "ItemName": "Spice Leaf",
-                    "ItemSprite": "icons_5_6"
+                    "ItemSprite": {
+                        "Name": "icons_5_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -5675,7 +7810,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGoldBlossom",
                         "ItemName": "Gold Blossom",
-                        "ItemSprite": "icons_8_5"
+                        "ItemSprite": {
+                            "Name": "icons_8_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -5685,7 +7825,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGoldBlossom",
                         "ItemName": "Gold Blossom",
-                        "ItemSprite": "icons_8_5"
+                        "ItemSprite": {
+                            "Name": "icons_8_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -5697,17 +7842,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Sweet Cake",
-                        "ItemSprite": "icons_6_12"
+                        "ItemSprite": {
+                            "Name": "icons_6_12",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemGoldBlossom",
                         "ItemName": "Gold Blossom",
-                        "ItemSprite": "icons_8_5"
+                        "ItemSprite": {
+                            "Name": "icons_8_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_goowall_0_0",
+        "Sprite": {
+            "Name": "battle_goowall_0_0",
+            "Set": "battle_goowall",
+            "Width": 25,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -5737,7 +7897,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Blue Blossom",
-                    "ItemSprite": "icons_7_5"
+                    "ItemSprite": {
+                        "Name": "icons_7_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 }
             ]
         },
@@ -5748,7 +7913,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5758,7 +7928,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5768,12 +7943,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_grump_0_0",
+        "Sprite": {
+            "Name": "battle_grump_0_0",
+            "Set": "battle_grump",
+            "Width": 22,
+            "Height": 26
+        },
         "Notes": []
     },
     {
@@ -5804,7 +7989,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5814,7 +8004,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5824,12 +8019,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_blackhand2_0_0",
+        "Sprite": {
+            "Name": "battle_blackhand2_0_0",
+            "Set": "battle_blackhand2",
+            "Width": 16,
+            "Height": 27
+        },
         "Notes": []
     },
     {
@@ -5860,7 +8065,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5870,7 +8080,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -5880,12 +8095,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_blackhand_0_0",
+        "Sprite": {
+            "Name": "battle_blackhand_0_0",
+            "Set": "battle_blackhand",
+            "Width": 18,
+            "Height": 23
+        },
         "Notes": []
     },
     {
@@ -5915,7 +8140,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 2,
                     "ItemName": "Honeycrisp",
-                    "ItemSprite": "icons_2_7"
+                    "ItemSprite": {
+                        "Name": "icons_2_7",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 }
             ]
         },
@@ -5926,7 +8156,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPowerCherry",
                         "ItemName": "Pow Cherry",
-                        "ItemSprite": "icons_0_10"
+                        "ItemSprite": {
+                            "Name": "icons_0_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -5936,7 +8171,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPowerCherry",
                         "ItemName": "Pow Cherry",
-                        "ItemSprite": "icons_0_10"
+                        "ItemSprite": {
+                            "Name": "icons_0_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -5948,17 +8188,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Pink Pods",
-                        "ItemSprite": "icons_6_16"
+                        "ItemSprite": {
+                            "Name": "icons_6_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemPowerCherry",
                         "ItemName": "Pow Cherry",
-                        "ItemSprite": "icons_0_10"
+                        "ItemSprite": {
+                            "Name": "icons_0_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_hoptic_0_0",
+        "Sprite": {
+            "Name": "battle_hoptic_0_0",
+            "Set": "battle_hoptic",
+            "Width": 24,
+            "Height": 23
+        },
         "Notes": []
     },
     {
@@ -5992,7 +8247,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6002,7 +8262,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6012,12 +8277,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_mercury_0_0",
+        "Sprite": {
+            "Name": "battle_mercury_0_0",
+            "Set": "battle_mercury",
+            "Width": 18,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -6050,7 +8325,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6060,7 +8340,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6070,12 +8355,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ibn_0_0",
+        "Sprite": {
+            "Name": "battle_ibn_0_0",
+            "Set": "battle_ibn",
+            "Width": 14,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -6105,7 +8400,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 2,
                     "MaxOwned": 2,
                     "ItemName": "Gold Blossom",
-                    "ItemSprite": "icons_8_5"
+                    "ItemSprite": {
+                        "Name": "icons_8_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 }
             ]
         },
@@ -6116,7 +8416,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -6126,7 +8431,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -6138,17 +8448,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Cave Acorn",
-                        "ItemSprite": "icons_3_11"
+                        "ItemSprite": {
+                            "Name": "icons_3_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_manacle_0_0",
+        "Sprite": {
+            "Name": "battle_manacle_0_0",
+            "Set": "battle_manacle",
+            "Width": 22,
+            "Height": 32
+        },
         "Notes": []
     },
     {
@@ -6179,7 +8504,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMoldyShroom",
                         "ItemName": "Moldy Shroom",
-                        "ItemSprite": "icons_3_7"
+                        "ItemSprite": {
+                            "Name": "icons_3_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -6189,7 +8519,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMoldyShroom",
                         "ItemName": "Moldy Shroom",
-                        "ItemSprite": "icons_3_7"
+                        "ItemSprite": {
+                            "Name": "icons_3_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -6201,17 +8536,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Rancid Fruit",
-                        "ItemSprite": "icons_7_15"
+                        "ItemSprite": {
+                            "Name": "icons_7_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemMoldyShroom",
                         "ItemName": "Moldy Shroom",
-                        "ItemSprite": "icons_3_7"
+                        "ItemSprite": {
+                            "Name": "icons_3_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_jelly_black_0_0",
+        "Sprite": {
+            "Name": "battle_jelly_black_0_0",
+            "Set": "battle_jelly_black",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -6242,7 +8592,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSmallMushroom",
                         "ItemName": "Small Mushroom",
-                        "ItemSprite": "icons_4_6"
+                        "ItemSprite": {
+                            "Name": "icons_4_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6252,7 +8607,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSmallMushroom",
                         "ItemName": "Small Mushroom",
-                        "ItemSprite": "icons_4_6"
+                        "ItemSprite": {
+                            "Name": "icons_4_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6264,17 +8624,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Spice Leaf",
-                        "ItemSprite": "icons_5_6"
+                        "ItemSprite": {
+                            "Name": "icons_5_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemSmallMushroom",
                         "ItemName": "Small Mushroom",
-                        "ItemSprite": "icons_4_6"
+                        "ItemSprite": {
+                            "Name": "icons_4_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_jelly_green_0_0",
+        "Sprite": {
+            "Name": "battle_jelly_green_0_0",
+            "Set": "battle_jelly_green",
+            "Width": 14,
+            "Height": 12
+        },
         "Notes": []
     },
     {
@@ -6305,7 +8680,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSmallMushroom",
                         "ItemName": "Small Mushroom",
-                        "ItemSprite": "icons_4_6"
+                        "ItemSprite": {
+                            "Name": "icons_4_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6315,7 +8695,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemSmallMushroom",
                         "ItemName": "Small Mushroom",
-                        "ItemSprite": "icons_4_6"
+                        "ItemSprite": {
+                            "Name": "icons_4_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6327,17 +8712,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Spice Leaf",
-                        "ItemSprite": "icons_5_6"
+                        "ItemSprite": {
+                            "Name": "icons_5_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemSmallMushroom",
                         "ItemName": "Small Mushroom",
-                        "ItemSprite": "icons_4_6"
+                        "ItemSprite": {
+                            "Name": "icons_4_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_jelly_green_0_0",
+        "Sprite": {
+            "Name": "battle_jelly_green_0_0",
+            "Set": "battle_jelly_green",
+            "Width": 14,
+            "Height": 12
+        },
         "Notes": []
     },
     {
@@ -6368,7 +8768,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6378,7 +8783,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6388,12 +8798,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_jelly_red_0_0",
+        "Sprite": {
+            "Name": "battle_jelly_red_0_0",
+            "Set": "battle_jelly_red",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -6424,7 +8844,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6434,7 +8859,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6444,12 +8874,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_jelly_yellow_0_0",
+        "Sprite": {
+            "Name": "battle_jelly_yellow_0_0",
+            "Set": "battle_jelly_yellow",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -6475,12 +8915,22 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemRareCoin",
                     "ItemName": "Rare Coin",
-                    "ItemSprite": "icons_8_12"
+                    "ItemSprite": {
+                        "Name": "icons_8_12",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 },
                 {
                     "ItemType": "GlassHairpin",
                     "ItemName": "Glass Hairpin",
-                    "ItemSprite": "accessories_1_3"
+                    "ItemSprite": {
+                        "Name": "accessories_1_3",
+                        "Set": "accessories",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -6491,7 +8941,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6501,7 +8956,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6511,12 +8971,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "cat_white_0_2",
+        "Sprite": {
+            "Name": "cat_white_0_2",
+            "Set": "cat_white",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -6531,8 +9001,14 @@ export const enemies: EnemyData[] = [
         "Def": 12,
         "Spd": 11,
         "Mov": 3,
-        "Exp": 1,
-        "Money": 0,
+        "Exp": {
+            "Min": 1,
+            "Max": 1
+        },
+        "Money": {
+            "Min": 0,
+            "Max": 0
+        },
         "Rewards": {
             "Operator": "AND",
             "List": []
@@ -6544,7 +9020,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6554,7 +9035,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6564,12 +9050,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_crystal_0_0",
+        "Sprite": {
+            "Name": "battle_crystal_0_0",
+            "Set": "battle_crystal",
+            "Width": 9,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -6600,7 +9096,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6610,7 +9111,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6620,7 +9126,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
@@ -6656,7 +9167,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6666,7 +9182,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6676,7 +9197,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
@@ -6712,7 +9238,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6722,7 +9253,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6732,12 +9268,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lantern_0_0",
+        "Sprite": {
+            "Name": "battle_lantern_0_0",
+            "Set": "battle_lantern",
+            "Width": 18,
+            "Height": 32
+        },
         "Notes": []
     },
     {
@@ -6768,7 +9314,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6778,7 +9329,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6788,12 +9344,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lantern_flame_4_0",
+        "Sprite": {
+            "Name": "battle_lantern_flame_4_0",
+            "Set": "battle_lantern_flame",
+            "Width": 8,
+            "Height": 12
+        },
         "Notes": []
     },
     {
@@ -6824,7 +9390,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6834,7 +9405,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6844,12 +9420,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lantern_flame_0_0",
+        "Sprite": {
+            "Name": "battle_lantern_flame_0_0",
+            "Set": "battle_lantern_flame",
+            "Width": 8,
+            "Height": 12
+        },
         "Notes": []
     },
     {
@@ -6883,7 +9469,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6893,7 +9484,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6903,12 +9499,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ghost_skinny_0_0",
+        "Sprite": {
+            "Name": "battle_ghost_skinny_0_0",
+            "Set": "battle_ghost_skinny",
+            "Width": 16,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -6942,7 +9548,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6952,7 +9563,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -6962,12 +9578,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ghost_fat_0_0",
+        "Sprite": {
+            "Name": "battle_ghost_fat_0_0",
+            "Set": "battle_ghost_fat",
+            "Width": 16,
+            "Height": 23
+        },
         "Notes": []
     },
     {
@@ -7001,7 +9627,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7011,7 +9642,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7021,12 +9657,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eoc_0_0",
+        "Sprite": {
+            "Name": "battle_eoc_0_0",
+            "Set": "battle_eoc",
+            "Width": 17,
+            "Height": 25
+        },
         "Notes": []
     },
     {
@@ -7060,7 +9706,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -7070,7 +9721,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -7080,19 +9736,34 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "GhostPendant",
                         "MaxRewarded": 1,
                         "MaxOwned": 2,
                         "ItemName": "Ghost Pendant",
-                        "ItemSprite": "accessories_0_7"
+                        "ItemSprite": {
+                            "Name": "accessories_0_7",
+                            "Set": "accessories",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eoc2_0_0",
+        "Sprite": {
+            "Name": "battle_eoc2_0_0",
+            "Set": "battle_eoc2",
+            "Width": 26,
+            "Height": 34
+        },
         "Notes": []
     },
     {
@@ -7121,7 +9792,12 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemPrizeMedal",
                     "ItemName": "Prize Medal",
-                    "ItemSprite": "icons_3_16"
+                    "ItemSprite": {
+                        "Name": "icons_3_16",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 }
             ]
         },
@@ -7132,7 +9808,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -7142,7 +9823,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -7152,19 +9838,34 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "GhostPendant",
                         "MaxRewarded": 1,
                         "MaxOwned": 2,
                         "ItemName": "Ghost Pendant",
-                        "ItemSprite": "accessories_0_7"
+                        "ItemSprite": {
+                            "Name": "accessories_0_7",
+                            "Set": "accessories",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eoc2_0_0",
+        "Sprite": {
+            "Name": "battle_eoc2_0_0",
+            "Set": "battle_eoc2",
+            "Width": 26,
+            "Height": 34
+        },
         "Notes": []
     },
     {
@@ -7197,7 +9898,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -7207,7 +9913,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -7217,19 +9928,34 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGhostCookie",
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "GhostPendant",
                         "MaxRewarded": 1,
                         "MaxOwned": 2,
                         "ItemName": "Ghost Pendant",
-                        "ItemSprite": "accessories_0_7"
+                        "ItemSprite": {
+                            "Name": "accessories_0_7",
+                            "Set": "accessories",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eoc2_0_0",
+        "Sprite": {
+            "Name": "battle_eoc2_0_0",
+            "Set": "battle_eoc2",
+            "Width": 26,
+            "Height": 34
+        },
         "Notes": []
     },
     {
@@ -7262,7 +9988,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7272,7 +10003,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7282,12 +10018,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_leveretto_0_0",
+        "Sprite": {
+            "Name": "battle_leveretto_0_0",
+            "Set": "battle_leveretto",
+            "Width": 30,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -7318,7 +10064,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7328,7 +10079,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7338,12 +10094,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lily_0_0",
+        "Sprite": {
+            "Name": "battle_lily_0_0",
+            "Set": "battle_lily",
+            "Width": 12,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -7377,7 +10143,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7387,7 +10158,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7397,12 +10173,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_mercury_0_0",
+        "Sprite": {
+            "Name": "battle_mercury_0_0",
+            "Set": "battle_mercury",
+            "Width": 18,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -7435,7 +10221,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7445,7 +10236,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7455,12 +10251,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_mimic_0_0",
+        "Sprite": {
+            "Name": "battle_mimic_0_0",
+            "Set": "battle_mimic",
+            "Width": 25,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -7491,7 +10297,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7501,7 +10312,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7511,12 +10327,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_darkskull_mini_0_0",
+        "Sprite": {
+            "Name": "battle_darkskull_mini_0_0",
+            "Set": "battle_darkskull_mini",
+            "Width": 12,
+            "Height": 12
+        },
         "Notes": []
     },
     {
@@ -7547,7 +10373,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7557,7 +10388,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7567,12 +10403,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_morpie_0_0",
+        "Sprite": {
+            "Name": "battle_morpie_0_0",
+            "Set": "battle_morpie",
+            "Width": 14,
+            "Height": 14
+        },
         "Notes": []
     },
     {
@@ -7600,14 +10446,24 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 2,
                     "MaxOwned": 5,
                     "ItemName": "Small Mushroom",
-                    "ItemSprite": "icons_4_6"
+                    "ItemSprite": {
+                        "Name": "icons_4_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 8
+                    }
                 },
                 {
                     "ItemType": "ItemRedMushroom",
                     "MaxRewarded": 1,
                     "MaxOwned": 2,
                     "ItemName": "Red Mushroom",
-                    "ItemSprite": "icons_4_5"
+                    "ItemSprite": {
+                        "Name": "icons_4_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -7618,7 +10474,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7628,7 +10489,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7638,12 +10504,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_mushroom_0_0",
+        "Sprite": {
+            "Name": "battle_mushroom_0_0",
+            "Set": "battle_mushroom",
+            "Width": 15,
+            "Height": 14
+        },
         "Notes": []
     },
     {
@@ -7676,7 +10552,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7686,7 +10567,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7696,12 +10582,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_oxley_0_0",
+        "Sprite": {
+            "Name": "battle_oxley_0_0",
+            "Set": "battle_oxley",
+            "Width": 12,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -7734,7 +10630,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7744,7 +10645,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7754,12 +10660,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_oxley_0_0",
+        "Sprite": {
+            "Name": "battle_oxley_0_0",
+            "Set": "battle_oxley",
+            "Width": 12,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -7792,7 +10708,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7802,7 +10723,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -7812,12 +10738,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_oxley_0_0",
+        "Sprite": {
+            "Name": "battle_oxley_0_0",
+            "Set": "battle_oxley",
+            "Width": 12,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -7829,7 +10765,10 @@ export const enemies: EnemyData[] = [
         "Def": 13,
         "Spd": 13,
         "Mov": 3,
-        "Exp": 1,
+        "Exp": {
+            "Min": 2,
+            "Max": 3
+        },
         "Money": {
             "Min": 4,
             "Max": 4
@@ -7847,7 +10786,12 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Hot Berry",
-                        "ItemSprite": "icons_6_6"
+                        "ItemSprite": {
+                            "Name": "icons_6_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -7859,7 +10803,12 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Hot Berry",
-                        "ItemSprite": "icons_6_6"
+                        "ItemSprite": {
+                            "Name": "icons_6_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -7871,19 +10820,34 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Thorn Berries",
-                        "ItemSprite": "icons_2_10"
+                        "ItemSprite": {
+                            "Name": "icons_2_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemHotBerry",
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Hot Berry",
-                        "ItemSprite": "icons_6_6"
+                        "ItemSprite": {
+                            "Name": "icons_6_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_pane_attacker_0_0",
+        "Sprite": {
+            "Name": "battle_pane_attacker_0_0",
+            "Set": "battle_pane_attacker",
+            "Width": 11,
+            "Height": 15
+        },
         "Notes": []
     },
     {
@@ -7895,7 +10859,10 @@ export const enemies: EnemyData[] = [
         "Def": 13,
         "Spd": 13,
         "Mov": 3,
-        "Exp": 1,
+        "Exp": {
+            "Min": 2,
+            "Max": 3
+        },
         "Money": {
             "Min": 4,
             "Max": 4
@@ -7913,7 +10880,12 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Rock Seed",
-                        "ItemSprite": "icons_9_6"
+                        "ItemSprite": {
+                            "Name": "icons_9_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 7
+                        }
                     }
                 ]
             },
@@ -7925,7 +10897,12 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Rock Seed",
-                        "ItemSprite": "icons_9_6"
+                        "ItemSprite": {
+                            "Name": "icons_9_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 7
+                        }
                     }
                 ]
             },
@@ -7937,19 +10914,34 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Hard Nut",
-                        "ItemSprite": "icons_3_10"
+                        "ItemSprite": {
+                            "Name": "icons_3_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemRockSeed",
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Rock Seed",
-                        "ItemSprite": "icons_9_6"
+                        "ItemSprite": {
+                            "Name": "icons_9_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 7
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_pane_blocker_0_0",
+        "Sprite": {
+            "Name": "battle_pane_blocker_0_0",
+            "Set": "battle_pane_blocker",
+            "Width": 11,
+            "Height": 15
+        },
         "Notes": []
     },
     {
@@ -7961,7 +10953,10 @@ export const enemies: EnemyData[] = [
         "Def": 13,
         "Spd": 13,
         "Mov": 3,
-        "Exp": 1,
+        "Exp": {
+            "Min": 2,
+            "Max": 3
+        },
         "Money": {
             "Min": 4,
             "Max": 4
@@ -7979,7 +10974,12 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -7991,7 +10991,12 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -8003,19 +11008,34 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 2,
                         "MaxOwned": 2,
                         "ItemName": "Blue Blossom",
-                        "ItemSprite": "icons_7_5"
+                        "ItemSprite": {
+                            "Name": "icons_7_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "ItemRedMushroom",
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_pane_healer_0_0",
+        "Sprite": {
+            "Name": "battle_pane_healer_0_0",
+            "Set": "battle_pane_healer",
+            "Width": 11,
+            "Height": 15
+        },
         "Notes": []
     },
     {
@@ -8029,7 +11049,10 @@ export const enemies: EnemyData[] = [
         "Def": 18,
         "Spd": 18,
         "Mov": 4,
-        "Exp": 1,
+        "Exp": {
+            "Min": 5,
+            "Max": 6
+        },
         "Money": {
             "Min": 10,
             "Max": 10
@@ -8042,14 +11065,24 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 2,
                     "ItemName": "Dew Plum",
-                    "ItemSprite": "icons_1_7"
+                    "ItemSprite": {
+                        "Name": "icons_1_7",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 },
                 {
                     "ItemType": "ItemMiniMelon",
                     "MaxRewarded": 1,
                     "MaxOwned": 3,
                     "ItemName": "Mini Melon",
-                    "ItemSprite": "icons_1_9"
+                    "ItemSprite": {
+                        "Name": "icons_1_9",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -8060,7 +11093,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -8070,7 +11108,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -8082,17 +11125,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     },
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_pants_0_0",
+        "Sprite": {
+            "Name": "battle_pants_0_0",
+            "Set": "battle_pants",
+            "Width": 22,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -8125,7 +11183,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8135,7 +11198,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8145,12 +11213,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_plane_0_0",
+        "Sprite": {
+            "Name": "battle_plane_0_0",
+            "Set": "battle_plane",
+            "Width": 17,
+            "Height": 8
+        },
         "Notes": []
     },
     {
@@ -8183,7 +11261,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -8193,7 +11276,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -8205,17 +11293,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Nexus Quill",
-                        "ItemSprite": "icons_4_16"
+                        "ItemSprite": {
+                            "Name": "icons_4_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     },
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_quill_0_0",
+        "Sprite": {
+            "Name": "battle_quill_0_0",
+            "Set": "battle_quill",
+            "Width": 26,
+            "Height": 28
+        },
         "Notes": []
     },
     {
@@ -8248,7 +11351,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -8258,7 +11366,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -8270,17 +11383,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Nexus Quill",
-                        "ItemSprite": "icons_4_16"
+                        "ItemSprite": {
+                            "Name": "icons_4_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     },
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_quill2_0_0",
+        "Sprite": {
+            "Name": "battle_quill2_0_0",
+            "Set": "battle_quill2",
+            "Width": 26,
+            "Height": 28
+        },
         "Notes": []
     },
     {
@@ -8308,17 +11436,32 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemGoldShroom",
                     "ItemName": "Gold Shroom",
-                    "ItemSprite": "icons_9_15"
+                    "ItemSprite": {
+                        "Name": "icons_9_15",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 },
                 {
                     "ItemType": "ItemPrizeMedal",
                     "ItemName": "Prize Medal",
-                    "ItemSprite": "icons_3_16"
+                    "ItemSprite": {
+                        "Name": "icons_3_16",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 },
                 {
                     "ItemType": "SummerSash",
                     "ItemName": "Summer Sash",
-                    "ItemSprite": "accessories_2_7"
+                    "ItemSprite": {
+                        "Name": "accessories_2_7",
+                        "Set": "accessories",
+                        "Width": 14,
+                        "Height": 11
+                    }
                 }
             ]
         },
@@ -8329,7 +11472,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGoldShroom",
                         "ItemName": "Gold Shroom",
-                        "ItemSprite": "icons_9_15"
+                        "ItemSprite": {
+                            "Name": "icons_9_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -8339,7 +11487,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGoldShroom",
                         "ItemName": "Gold Shroom",
-                        "ItemSprite": "icons_9_15"
+                        "ItemSprite": {
+                            "Name": "icons_9_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -8349,17 +11502,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemGoldShroom",
                         "ItemName": "Gold Shroom",
-                        "ItemSprite": "icons_9_15"
+                        "ItemSprite": {
+                            "Name": "icons_9_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "SpringSash",
                         "ItemName": "Spring Sash",
-                        "ItemSprite": "accessories_1_7"
+                        "ItemSprite": {
+                            "Name": "accessories_1_7",
+                            "Set": "accessories",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_radegund_0_0",
+        "Sprite": {
+            "Name": "battle_radegund_0_0",
+            "Set": "battle_radegund",
+            "Width": 15,
+            "Height": 23
+        },
         "Notes": []
     },
     {
@@ -8387,7 +11555,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Hot Berry",
-                    "ItemSprite": "icons_6_6"
+                    "ItemSprite": {
+                        "Name": "icons_6_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -8398,7 +11571,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8408,7 +11586,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8418,12 +11601,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_redbird_0_0",
+        "Sprite": {
+            "Name": "battle_redbird_0_0",
+            "Set": "battle_redbird",
+            "Width": 15,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -8452,7 +11645,12 @@ export const enemies: EnemyData[] = [
                     "MaxOwned": 2,
                     "IsCombinedMax": true,
                     "ItemName": "Hot Berry",
-                    "ItemSprite": "icons_6_6"
+                    "ItemSprite": {
+                        "Name": "icons_6_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -8463,7 +11661,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8473,7 +11676,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8483,12 +11691,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_red_mushroom_0_0",
+        "Sprite": {
+            "Name": "battle_red_mushroom_0_0",
+            "Set": "battle_red_mushroom",
+            "Width": 15,
+            "Height": 14
+        },
         "Notes": []
     },
     {
@@ -8522,7 +11740,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8532,7 +11755,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8542,12 +11770,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_rift_crystal_0_0",
+        "Sprite": {
+            "Name": "battle_rift_crystal_0_0",
+            "Set": "battle_rift_crystal",
+            "Width": 9,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -8581,7 +11819,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8591,7 +11834,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8601,12 +11849,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_rift_mercury_0_0",
+        "Sprite": {
+            "Name": "battle_rift_mercury_0_0",
+            "Set": "battle_rift_mercury",
+            "Width": 18,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -8639,7 +11897,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8649,7 +11912,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8659,12 +11927,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_rift_skull_0_0",
+        "Sprite": {
+            "Name": "battle_rift_skull_0_0",
+            "Set": "battle_rift_skull",
+            "Width": 12,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -8697,7 +11975,12 @@ export const enemies: EnemyData[] = [
                         0
                     ],
                     "ItemName": "Small Mushroom",
-                    "ItemSprite": "icons_4_6"
+                    "ItemSprite": {
+                        "Name": "icons_4_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 8
+                    }
                 }
             ]
         },
@@ -8708,7 +11991,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8718,7 +12006,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8728,12 +12021,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_rock_0_0",
+        "Sprite": {
+            "Name": "battle_rock_0_0",
+            "Set": "battle_rock",
+            "Width": 12,
+            "Height": 15
+        },
         "Notes": [
             "has a 25% chance to drop even if you're at the limit"
         ]
@@ -8765,7 +12068,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 5,
                     "ItemName": "Red Mushroom",
-                    "ItemSprite": "icons_4_5"
+                    "ItemSprite": {
+                        "Name": "icons_4_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -8776,7 +12084,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8786,7 +12099,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8796,12 +12114,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_rock_0_0",
+        "Sprite": {
+            "Name": "battle_rock_0_0",
+            "Set": "battle_rock",
+            "Width": 12,
+            "Height": 15
+        },
         "Notes": []
     },
     {
@@ -8832,7 +12160,12 @@ export const enemies: EnemyData[] = [
                     "MaxOwned": 1,
                     "IsCombinedMax": true,
                     "ItemName": "Rock Nut",
-                    "ItemSprite": "icons_8_6"
+                    "ItemSprite": {
+                        "Name": "icons_8_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 },
                 {
                     "ItemType": "ItemRockSeed",
@@ -8840,7 +12173,12 @@ export const enemies: EnemyData[] = [
                     "MaxOwned": 3,
                     "IsCombinedMax": true,
                     "ItemName": "Rock Seed",
-                    "ItemSprite": "icons_9_6"
+                    "ItemSprite": {
+                        "Name": "icons_9_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 7
+                    }
                 }
             ]
         },
@@ -8851,7 +12189,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8861,7 +12204,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8871,12 +12219,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_rock_lair_0_0",
+        "Sprite": {
+            "Name": "battle_rock_lair_0_0",
+            "Set": "battle_rock_lair",
+            "Width": 12,
+            "Height": 15
+        },
         "Notes": []
     },
     {
@@ -8909,7 +12267,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemFrenzyFlower",
                         "ItemName": "Frenzy Flower",
-                        "ItemSprite": "icons_9_5"
+                        "ItemSprite": {
+                            "Name": "icons_9_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -8919,7 +12282,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemFrenzyFlower",
                         "ItemName": "Frenzy Flower",
-                        "ItemSprite": "icons_9_5"
+                        "ItemSprite": {
+                            "Name": "icons_9_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             },
@@ -8931,17 +12299,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 3,
                         "ItemName": "Black Bomb",
-                        "ItemSprite": "icons_5_15"
+                        "ItemSprite": {
+                            "Name": "icons_5_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemFrenzyFlower",
                         "ItemName": "Frenzy Flower",
-                        "ItemSprite": "icons_9_5"
+                        "ItemSprite": {
+                            "Name": "icons_9_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_sackbomb_0_0",
+        "Sprite": {
+            "Name": "battle_sackbomb_0_0",
+            "Set": "battle_sackbomb",
+            "Width": 14,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -8974,7 +12357,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8984,7 +12372,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -8994,12 +12387,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_sackboy_0_0",
+        "Sprite": {
+            "Name": "battle_sackboy_0_0",
+            "Set": "battle_sackboy",
+            "Width": 14,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -9032,7 +12435,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9042,7 +12450,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9052,12 +12465,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_sackpole_0_0",
+        "Sprite": {
+            "Name": "battle_sackpole_0_0",
+            "Set": "battle_sackpole",
+            "Width": 16,
+            "Height": 31
+        },
         "Notes": []
     },
     {
@@ -9090,7 +12513,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsSipper",
                         "ItemName": "Sadio's Sipper",
-                        "ItemSprite": "icons_6_18"
+                        "ItemSprite": {
+                            "Name": "icons_6_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9100,7 +12528,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsSipper",
                         "ItemName": "Sadio's Sipper",
-                        "ItemSprite": "icons_6_18"
+                        "ItemSprite": {
+                            "Name": "icons_6_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9112,17 +12545,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsSipper",
                         "ItemName": "Sadio's Sipper",
-                        "ItemSprite": "icons_6_18"
+                        "ItemSprite": {
+                            "Name": "icons_6_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_skull_0_0",
+        "Sprite": {
+            "Name": "battle_skull_0_0",
+            "Set": "battle_skull",
+            "Width": 12,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -9151,12 +12599,22 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemFrenzyFlower",
                     "ItemName": "Frenzy Flower",
-                    "ItemSprite": "icons_9_5"
+                    "ItemSprite": {
+                        "Name": "icons_9_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 13
+                    }
                 },
                 {
                     "ItemType": "ItemRareCoin",
                     "ItemName": "Rare Coin",
-                    "ItemSprite": "icons_8_12"
+                    "ItemSprite": {
+                        "Name": "icons_8_12",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -9167,7 +12625,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "TheHoneyBee",
                         "ItemName": "The Honey Bee",
-                        "ItemSprite": "armor_3_1"
+                        "ItemSprite": {
+                            "Name": "armor_3_1",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -9177,7 +12640,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "TheHoneyBee",
                         "ItemName": "The Honey Bee",
-                        "ItemSprite": "armor_3_1"
+                        "ItemSprite": {
+                            "Name": "armor_3_1",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -9187,17 +12655,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "TheHoneyBee",
                         "ItemName": "The Honey Bee",
-                        "ItemSprite": "armor_3_1"
+                        "ItemSprite": {
+                            "Name": "armor_3_1",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     },
                     {
                         "ItemType": "ItemFrenzyFlower",
                         "ItemName": "Frenzy Flower",
-                        "ItemSprite": "icons_9_5"
+                        "ItemSprite": {
+                            "Name": "icons_9_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_snatcher_0_0",
+        "Sprite": {
+            "Name": "battle_snatcher_0_0",
+            "Set": "battle_snatcher",
+            "Width": 36,
+            "Height": 37
+        },
         "Notes": []
     },
     {
@@ -9230,12 +12713,22 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 3,
                         "ItemName": "Hardy Ones",
-                        "ItemSprite": "feet_3_1"
+                        "ItemSprite": {
+                            "Name": "feet_3_1",
+                            "Set": "feet",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -9247,12 +12740,22 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 3,
                         "ItemName": "Hardy Ones",
-                        "ItemSprite": "feet_3_1"
+                        "ItemSprite": {
+                            "Name": "feet_3_1",
+                            "Set": "feet",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -9264,17 +12767,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 3,
                         "ItemName": "Hardy Ones",
-                        "ItemSprite": "feet_3_1"
+                        "ItemSprite": {
+                            "Name": "feet_3_1",
+                            "Set": "feet",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_boot_0_0",
+        "Sprite": {
+            "Name": "battle_boot_0_0",
+            "Set": "battle_boot",
+            "Width": 12,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -9305,7 +12823,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9315,7 +12838,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemMiniMelon",
                         "ItemName": "Mini Melon",
-                        "ItemSprite": "icons_1_9"
+                        "ItemSprite": {
+                            "Name": "icons_1_9",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -9325,12 +12853,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_pants_0_0",
+        "Sprite": {
+            "Name": "battle_pants_0_0",
+            "Set": "battle_pants",
+            "Width": 22,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -9364,7 +12902,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9374,7 +12917,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9384,7 +12932,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
@@ -9422,7 +12975,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9432,7 +12990,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9442,12 +13005,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spec_crystal_0_0",
+        "Sprite": {
+            "Name": "battle_spec_crystal_0_0",
+            "Set": "battle_spec_crystal",
+            "Width": 13,
+            "Height": 14
+        },
         "Notes": []
     },
     {
@@ -9478,7 +13051,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9488,7 +13066,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9498,12 +13081,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spec_gil_0_0",
+        "Sprite": {
+            "Name": "battle_spec_gil_0_0",
+            "Set": "battle_spec_gil",
+            "Width": 11,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -9534,7 +13127,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9544,7 +13142,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9554,12 +13157,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spec_ima_0_0",
+        "Sprite": {
+            "Name": "battle_spec_ima_0_0",
+            "Set": "battle_spec_ima",
+            "Width": 15,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -9590,7 +13203,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9600,7 +13218,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9610,12 +13233,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spec_mar_0_0",
+        "Sprite": {
+            "Name": "battle_spec_mar_0_0",
+            "Set": "battle_spec_mar",
+            "Width": 14,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -9646,7 +13279,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9656,7 +13294,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9666,12 +13309,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spec_per_0_0",
+        "Sprite": {
+            "Name": "battle_spec_per_0_0",
+            "Set": "battle_spec_per",
+            "Width": 13,
+            "Height": 23
+        },
         "Notes": []
     },
     {
@@ -9702,7 +13355,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9712,7 +13370,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9722,12 +13385,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spec_nel_0_0",
+        "Sprite": {
+            "Name": "battle_spec_nel_0_0",
+            "Set": "battle_spec_nel",
+            "Width": 12,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -9758,7 +13431,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9768,7 +13446,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9778,12 +13461,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spec_rook_0_0",
+        "Sprite": {
+            "Name": "battle_spec_rook_0_0",
+            "Set": "battle_spec_rook",
+            "Width": 16,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -9816,7 +13509,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9826,7 +13524,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9836,12 +13539,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spelltile_0_0",
+        "Sprite": {
+            "Name": "battle_spelltile_0_0",
+            "Set": "battle_spelltile",
+            "Width": 19,
+            "Height": 14
+        },
         "Notes": []
     },
     {
@@ -9872,7 +13585,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9882,7 +13600,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -9892,12 +13615,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spelltile_0_0",
+        "Sprite": {
+            "Name": "battle_spelltile_0_0",
+            "Set": "battle_spelltile",
+            "Width": 19,
+            "Height": 14
+        },
         "Notes": []
     },
     {
@@ -9927,7 +13660,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 3,
                     "ItemName": "Honeycrisp",
-                    "ItemSprite": "icons_2_7"
+                    "ItemSprite": {
+                        "Name": "icons_2_7",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 }
             ]
         },
@@ -9938,7 +13676,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -9948,7 +13691,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -9960,17 +13708,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lamp_0_0",
+        "Sprite": {
+            "Name": "battle_lamp_0_0",
+            "Set": "battle_lamp",
+            "Width": 27,
+            "Height": 17
+        },
         "Notes": []
     },
     {
@@ -10003,7 +13766,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -10013,7 +13781,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -10025,17 +13798,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 3,
                         "MaxOwned": 3,
                         "ItemName": "Sadio's Sparkly",
-                        "ItemSprite": "icons_0_13"
+                        "ItemSprite": {
+                            "Name": "icons_0_13",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     },
                     {
                         "ItemType": "ItemCibilsBlue",
                         "ItemName": "Sadio's Blue",
-                        "ItemSprite": "icons_1_18"
+                        "ItemSprite": {
+                            "Name": "icons_1_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_lamp2_0_0",
+        "Sprite": {
+            "Name": "battle_lamp2_0_0",
+            "Set": "battle_lamp2",
+            "Width": 27,
+            "Height": 17
+        },
         "Notes": []
     },
     {
@@ -10063,7 +13851,12 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemBeautyToken",
                     "ItemName": "Beauty Token",
-                    "ItemSprite": "icons_9_11"
+                    "ItemSprite": {
+                        "Name": "icons_9_11",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 }
             ]
         },
@@ -10074,7 +13867,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "CovenReds",
                         "ItemName": "Coven Reds",
-                        "ItemSprite": "armor_1_2"
+                        "ItemSprite": {
+                            "Name": "armor_1_2",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -10084,7 +13882,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "CovenReds",
                         "ItemName": "Coven Reds",
-                        "ItemSprite": "armor_1_2"
+                        "ItemSprite": {
+                            "Name": "armor_1_2",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -10094,17 +13897,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "CovenReds",
                         "ItemName": "Coven Reds",
-                        "ItemSprite": "armor_1_2"
+                        "ItemSprite": {
+                            "Name": "armor_1_2",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemFrenzyFlower",
                         "ItemName": "Frenzy Flower",
-                        "ItemSprite": "icons_9_5"
+                        "ItemSprite": {
+                            "Name": "icons_9_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bax2_0_0",
+        "Sprite": {
+            "Name": "battle_bax2_0_0",
+            "Set": "battle_bax2",
+            "Width": 31,
+            "Height": 27
+        },
         "Notes": []
     },
     {
@@ -10137,7 +13955,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "TheCutest",
                         "ItemName": "The Cutest",
-                        "ItemSprite": "armor_0_3"
+                        "ItemSprite": {
+                            "Name": "armor_0_3",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -10147,7 +13970,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "TheCutest",
                         "ItemName": "The Cutest",
-                        "ItemSprite": "armor_0_3"
+                        "ItemSprite": {
+                            "Name": "armor_0_3",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -10157,17 +13985,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "TheCutest",
                         "ItemName": "The Cutest",
-                        "ItemSprite": "armor_0_3"
+                        "ItemSprite": {
+                            "Name": "armor_0_3",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemCustardCake",
                         "ItemName": "Custard Cake",
-                        "ItemSprite": "icons_8_16"
+                        "ItemSprite": {
+                            "Name": "icons_8_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_gilda_0_0",
+        "Sprite": {
+            "Name": "battle_gilda_0_0",
+            "Set": "battle_gilda",
+            "Width": 14,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -10200,7 +14043,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "CovenGreens",
                         "ItemName": "Coven Greens",
-                        "ItemSprite": "armor_2_2"
+                        "ItemSprite": {
+                            "Name": "armor_2_2",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -10210,7 +14058,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "CovenGreens",
                         "ItemName": "Coven Greens",
-                        "ItemSprite": "armor_2_2"
+                        "ItemSprite": {
+                            "Name": "armor_2_2",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             },
@@ -10220,17 +14073,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "CovenGreens",
                         "ItemName": "Coven Greens",
-                        "ItemSprite": "armor_2_2"
+                        "ItemSprite": {
+                            "Name": "armor_2_2",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     },
                     {
                         "ItemType": "ItemGoldShroom",
                         "ItemName": "Gold Shroom",
-                        "ItemSprite": "icons_9_15"
+                        "ItemSprite": {
+                            "Name": "icons_9_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 13
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_ibn_0_0",
+        "Sprite": {
+            "Name": "battle_ibn_0_0",
+            "Set": "battle_ibn",
+            "Width": 14,
+            "Height": 24
+        },
         "Notes": []
     },
     {
@@ -10263,7 +14131,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10273,7 +14146,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10283,12 +14161,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spychopper_0_0",
+        "Sprite": {
+            "Name": "battle_spychopper_0_0",
+            "Set": "battle_spychopper",
+            "Width": 18,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -10319,7 +14207,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10329,7 +14222,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10339,12 +14237,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_spychopper_0_0",
+        "Sprite": {
+            "Name": "battle_spychopper_0_0",
+            "Set": "battle_spychopper",
+            "Width": 18,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -10373,7 +14281,12 @@ export const enemies: EnemyData[] = [
                     "MaxOwned": 10,
                     "IsCombinedMax": true,
                     "ItemName": "Small Mushroom",
-                    "ItemSprite": "icons_4_6"
+                    "ItemSprite": {
+                        "Name": "icons_4_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 8
+                    }
                 },
                 {
                     "ItemType": "ItemRedMushroom",
@@ -10381,7 +14294,12 @@ export const enemies: EnemyData[] = [
                     "MaxOwned": 2,
                     "IsCombinedMax": true,
                     "ItemName": "Red Mushroom",
-                    "ItemSprite": "icons_4_5"
+                    "ItemSprite": {
+                        "Name": "icons_4_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -10392,7 +14310,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10402,7 +14325,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10412,12 +14340,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_squishy_0_0",
+        "Sprite": {
+            "Name": "battle_squishy_0_0",
+            "Set": "battle_squishy",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -10431,7 +14369,10 @@ export const enemies: EnemyData[] = [
         "Def": 26,
         "Spd": 18,
         "Mov": 3,
-        "Exp": 1,
+        "Exp": {
+            "Min": 8,
+            "Max": 10
+        },
         "Money": {
             "Min": 10,
             "Max": 10
@@ -10444,7 +14385,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Spice Leaf",
-                    "ItemSprite": "icons_5_6"
+                    "ItemSprite": {
+                        "Name": "icons_5_6",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 10
+                    }
                 }
             ]
         },
@@ -10455,7 +14401,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHardNut",
                         "ItemName": "Hard Nut",
-                        "ItemSprite": "icons_3_10"
+                        "ItemSprite": {
+                            "Name": "icons_3_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -10465,7 +14416,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHardNut",
                         "ItemName": "Hard Nut",
-                        "ItemSprite": "icons_3_10"
+                        "ItemSprite": {
+                            "Name": "icons_3_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -10477,17 +14433,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Cave Acorn",
-                        "ItemSprite": "icons_3_11"
+                        "ItemSprite": {
+                            "Name": "icons_3_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemHardNut",
                         "ItemName": "Hard Nut",
-                        "ItemSprite": "icons_3_10"
+                        "ItemSprite": {
+                            "Name": "icons_3_10",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_stinker_0_0",
+        "Sprite": {
+            "Name": "battle_stinker_0_0",
+            "Set": "battle_stinker",
+            "Width": 12,
+            "Height": 15
+        },
         "Notes": []
     },
     {
@@ -10518,7 +14489,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10528,7 +14504,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10538,12 +14519,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_sweepy_0_0",
+        "Sprite": {
+            "Name": "battle_sweepy_0_0",
+            "Set": "battle_sweepy",
+            "Width": 18,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -10574,7 +14565,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRedMushroom",
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -10584,7 +14580,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemRedMushroom",
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -10596,17 +14597,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 2,
                         "MaxOwned": 2,
                         "ItemName": "Spice Leaf",
-                        "ItemSprite": "icons_5_6"
+                        "ItemSprite": {
+                            "Name": "icons_5_6",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemRedMushroom",
                         "ItemName": "Red Mushroom",
-                        "ItemSprite": "icons_4_5"
+                        "ItemSprite": {
+                            "Name": "icons_4_5",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_tarfrog_0_0",
+        "Sprite": {
+            "Name": "battle_tarfrog_0_0",
+            "Set": "battle_tarfrog",
+            "Width": 20,
+            "Height": 19
+        },
         "Notes": []
     },
     {
@@ -10620,7 +14636,10 @@ export const enemies: EnemyData[] = [
         "Def": 22,
         "Spd": 18,
         "Mov": 2,
-        "Exp": 1,
+        "Exp": {
+            "Min": 8,
+            "Max": 10
+        },
         "Money": {
             "Min": 10,
             "Max": 10
@@ -10633,7 +14652,12 @@ export const enemies: EnemyData[] = [
                     "MaxRewarded": 1,
                     "MaxOwned": 1,
                     "ItemName": "Honeycrisp",
-                    "ItemSprite": "icons_2_7"
+                    "ItemSprite": {
+                        "Name": "icons_2_7",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 }
             ]
         },
@@ -10644,7 +14668,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -10654,7 +14683,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -10666,17 +14700,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemHoneycrisp",
                         "ItemName": "Honeycrisp",
-                        "ItemSprite": "icons_2_7"
+                        "ItemSprite": {
+                            "Name": "icons_2_7",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_tinystar_0_0",
+        "Sprite": {
+            "Name": "battle_tinystar_0_0",
+            "Set": "battle_tinystar",
+            "Width": 13,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -10707,7 +14756,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10717,7 +14771,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10727,12 +14786,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_treetrunk_12_0",
+        "Sprite": {
+            "Name": "battle_treetrunk_12_0",
+            "Set": "battle_treetrunk",
+            "Width": 10,
+            "Height": 14
+        },
         "Notes": []
     },
     {
@@ -10761,7 +14830,12 @@ export const enemies: EnemyData[] = [
                     "MaxOwned": 5,
                     "IsCombinedMax": true,
                     "ItemName": "Red Mushroom",
-                    "ItemSprite": "icons_4_5"
+                    "ItemSprite": {
+                        "Name": "icons_4_5",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 9
+                    }
                 }
             ]
         },
@@ -10772,7 +14846,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10782,7 +14861,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10792,12 +14876,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_treetrunk_0_0",
+        "Sprite": {
+            "Name": "battle_treetrunk_0_0",
+            "Set": "battle_treetrunk",
+            "Width": 15,
+            "Height": 18
+        },
         "Notes": []
     },
     {
@@ -10828,7 +14922,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -10838,7 +14937,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -10850,17 +14954,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "The Spectacle",
-                        "ItemSprite": "armor_2_5"
+                        "ItemSprite": {
+                            "Name": "armor_2_5",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 15
+                        }
                     },
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bee_0_0",
+        "Sprite": {
+            "Name": "battle_bee_0_0",
+            "Set": "battle_bee",
+            "Width": 15,
+            "Height": 13
+        },
         "Notes": []
     },
     {
@@ -10891,7 +15010,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10901,7 +15025,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -10911,12 +15040,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_bluebird_0_0",
+        "Sprite": {
+            "Name": "battle_bluebird_0_0",
+            "Set": "battle_bluebird",
+            "Width": 22,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -10947,7 +15086,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -10957,7 +15101,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -10970,17 +15119,32 @@ export const enemies: EnemyData[] = [
                             0
                         ],
                         "ItemName": "The Spectacle",
-                        "ItemSprite": "armor_2_5"
+                        "ItemSprite": {
+                            "Name": "armor_2_5",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 15
+                        }
                     },
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_book_purple_0_0",
+        "Sprite": {
+            "Name": "battle_book_purple_0_0",
+            "Set": "battle_book_purple",
+            "Width": 23,
+            "Height": 21
+        },
         "Notes": [
             "only once per battle"
         ]
@@ -11013,7 +15177,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11023,7 +15192,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11033,12 +15207,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_cracked_ghost_0_0",
+        "Sprite": {
+            "Name": "battle_cracked_ghost_0_0",
+            "Set": "battle_cracked_ghost",
+            "Width": 23,
+            "Height": 16
+        },
         "Notes": []
     },
     {
@@ -11069,7 +15253,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -11079,7 +15268,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -11091,17 +15285,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 1,
                         "ItemName": "The Spectacle",
-                        "ItemSprite": "armor_2_5"
+                        "ItemSprite": {
+                            "Name": "armor_2_5",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 15
+                        }
                     },
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_eyeflower_0_0",
+        "Sprite": {
+            "Name": "battle_eyeflower_0_0",
+            "Set": "battle_eyeflower",
+            "Width": 17,
+            "Height": 21
+        },
         "Notes": []
     },
     {
@@ -11132,7 +15341,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11142,7 +15356,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11152,12 +15371,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_redbird_0_0",
+        "Sprite": {
+            "Name": "battle_redbird_0_0",
+            "Set": "battle_redbird",
+            "Width": 15,
+            "Height": 20
+        },
         "Notes": []
     },
     {
@@ -11188,7 +15417,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11198,7 +15432,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11208,12 +15447,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_sackboy_0_0",
+        "Sprite": {
+            "Name": "battle_sackboy_0_0",
+            "Set": "battle_sackboy",
+            "Width": 14,
+            "Height": 22
+        },
         "Notes": []
     },
     {
@@ -11244,7 +15493,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11254,7 +15508,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11264,12 +15523,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_sackpole_0_0",
+        "Sprite": {
+            "Name": "battle_sackpole_0_0",
+            "Set": "battle_sackpole",
+            "Width": 16,
+            "Height": 31
+        },
         "Notes": []
     },
     {
@@ -11300,7 +15569,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11310,7 +15584,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11320,12 +15599,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_tinystar_0_0",
+        "Sprite": {
+            "Name": "battle_tinystar_0_0",
+            "Set": "battle_tinystar",
+            "Width": 13,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -11358,7 +15647,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkPods",
                         "ItemName": "Pink Pods",
-                        "ItemSprite": "icons_6_16"
+                        "ItemSprite": {
+                            "Name": "icons_6_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -11368,7 +15662,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkPods",
                         "ItemName": "Pink Pods",
-                        "ItemSprite": "icons_6_16"
+                        "ItemSprite": {
+                            "Name": "icons_6_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -11378,17 +15677,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemPinkPods",
                         "ItemName": "Pink Pods",
-                        "ItemSprite": "icons_6_16"
+                        "ItemSprite": {
+                            "Name": "icons_6_16",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemStarCookie",
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_twinkle_0_0",
+        "Sprite": {
+            "Name": "battle_twinkle_0_0",
+            "Set": "battle_twinkle",
+            "Width": 35,
+            "Height": 33
+        },
         "Notes": []
     },
     {
@@ -11416,12 +15730,22 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemBeautyToken",
                     "ItemName": "Beauty Token",
-                    "ItemSprite": "icons_9_11"
+                    "ItemSprite": {
+                        "Name": "icons_9_11",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 },
                 {
                     "ItemType": "SouthSwing",
                     "ItemName": "South Swing",
-                    "ItemSprite": "armor_0_2"
+                    "ItemSprite": {
+                        "Name": "armor_0_2",
+                        "Set": "armor",
+                        "Width": 14,
+                        "Height": 12
+                    }
                 }
             ]
         },
@@ -11432,7 +15756,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemStarCookie",
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -11442,7 +15771,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemStarCookie",
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     }
                 ]
             },
@@ -11452,17 +15786,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemStarCookie",
                         "ItemName": "Star Cookie",
-                        "ItemSprite": "icons_8_15"
+                        "ItemSprite": {
+                            "Name": "icons_8_15",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "SouthSwing",
                         "ItemName": "South Swing",
-                        "ItemSprite": "armor_0_2"
+                        "ItemSprite": {
+                            "Name": "armor_0_2",
+                            "Set": "armor",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_twinkle_20_0",
+        "Sprite": {
+            "Name": "battle_twinkle_20_0",
+            "Set": "battle_twinkle",
+            "Width": 35,
+            "Height": 33
+        },
         "Notes": []
     },
     {
@@ -11495,7 +15844,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11505,7 +15859,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11515,12 +15874,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_tinystar2_0_0",
+        "Sprite": {
+            "Name": "battle_tinystar2_0_0",
+            "Set": "battle_tinystar2",
+            "Width": 13,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -11553,7 +15922,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11563,7 +15937,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             },
@@ -11573,12 +15952,22 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemCommonCoin",
                         "ItemName": "Common Coin",
-                        "ItemSprite": "icons_8_11"
+                        "ItemSprite": {
+                            "Name": "icons_8_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 8
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_tinystar3_0_0",
+        "Sprite": {
+            "Name": "battle_tinystar3_0_0",
+            "Set": "battle_tinystar3",
+            "Width": 13,
+            "Height": 11
+        },
         "Notes": []
     },
     {
@@ -11606,7 +15995,12 @@ export const enemies: EnemyData[] = [
                 {
                     "ItemType": "ItemMythicCoin",
                     "ItemName": "Mythic Coin",
-                    "ItemSprite": "icons_2_13"
+                    "ItemSprite": {
+                        "Name": "icons_2_13",
+                        "Set": "icons",
+                        "Width": 14,
+                        "Height": 14
+                    }
                 }
             ]
         },
@@ -11617,7 +16011,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -11627,7 +16026,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     }
                 ]
             },
@@ -11637,17 +16041,32 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemDemonEye",
                         "ItemName": "Demon Eye",
-                        "ItemSprite": "icons_7_18"
+                        "ItemSprite": {
+                            "Name": "icons_7_18",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 10
+                        }
                     },
                     {
                         "ItemType": "ItemGhostCoin",
                         "ItemName": "Ghost Coin",
-                        "ItemSprite": "icons_0_17"
+                        "ItemSprite": {
+                            "Name": "icons_0_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 11
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_unseen_0_0",
+        "Sprite": {
+            "Name": "battle_unseen_0_0",
+            "Set": "battle_unseen",
+            "Width": 42,
+            "Height": 52
+        },
         "Notes": []
     },
     {
@@ -11678,7 +16097,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBeautyToken",
                         "ItemName": "Beauty Token",
-                        "ItemSprite": "icons_9_11"
+                        "ItemSprite": {
+                            "Name": "icons_9_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -11688,7 +16112,12 @@ export const enemies: EnemyData[] = [
                     {
                         "ItemType": "ItemBeautyToken",
                         "ItemName": "Beauty Token",
-                        "ItemSprite": "icons_9_11"
+                        "ItemSprite": {
+                            "Name": "icons_9_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             },
@@ -11700,17 +16129,32 @@ export const enemies: EnemyData[] = [
                         "MaxRewarded": 1,
                         "MaxOwned": 5,
                         "ItemName": "Ghost Cookie",
-                        "ItemSprite": "icons_5_17"
+                        "ItemSprite": {
+                            "Name": "icons_5_17",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 9
+                        }
                     },
                     {
                         "ItemType": "ItemBeautyToken",
                         "ItemName": "Beauty Token",
-                        "ItemSprite": "icons_9_11"
+                        "ItemSprite": {
+                            "Name": "icons_9_11",
+                            "Set": "icons",
+                            "Width": 14,
+                            "Height": 12
+                        }
                     }
                 ]
             }
         },
-        "Sprite": "battle_cracked_ghost_0_0",
+        "Sprite": {
+            "Name": "battle_cracked_ghost_0_0",
+            "Set": "battle_cracked_ghost",
+            "Width": 23,
+            "Height": 16
+        },
         "Notes": []
     }
 ]

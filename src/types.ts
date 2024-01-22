@@ -19,8 +19,13 @@ export type EnemyData = {
     // "GetRewards": string,
     // "GetSteal": string,
     // "SpriteSet": string | null,
-    "Sprite": string | null,
+    "Sprite": SpriteData | null,
     "Notes": string[],
+};
+
+export type NumberRange = {
+    "Min": number,
+    "Max": number,
 };
 
 export type RewardsList = {
@@ -37,14 +42,16 @@ export type TimingGroups = {
 export type RewardData = {
     "ItemType": string,
     "ItemName": string,
-    "ItemSprite": string,
+    "ItemSprite": SpriteData,
     "MaxOwned"?: number,
     "MaxRewarded"?: number,
     "IsCombinedMax"?: boolean,
     "Notes"?: number[],
 };
 
-export type NumberRange = {
-    "Min": number,
-    "Max": number,
+export type SpriteData = {
+    "Name": string,
+    "Set": string,
+    "Width": number,
+    "Height": number,
 };

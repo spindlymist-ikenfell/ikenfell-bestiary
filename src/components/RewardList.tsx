@@ -75,13 +75,17 @@ export const Reward: Component<{
             .join(",");
     };
 
+    const spriteWidth = () => (props.data.ItemSprite?.Width || 0) * 2;
+    const spriteHeight = () => (props.data.ItemSprite?.Height || 0) * 2;
+
     return (
         <li class="reward-list__item">
             <div class="reward-list__name-with-icon">
                 <img
                     class="reward-list__icon"
-                    use:autosize={2}
-                    src={`/images/sprites/${props.data.ItemSprite}.png`}
+                    width={spriteWidth()}
+                    height={spriteHeight()}
+                    src={`/images/sprites/${props.data.ItemSprite.Name}.png`}
                     alt={props.data.ItemName}
                 />
                 <span class="reward-list__name">

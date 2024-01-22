@@ -28,16 +28,20 @@ export const Enemy: Component<{
     const expRange = () => rangeToString(props.data.Exp);
     const moneyRange = () => rangeToString(props.data.Money);
 
+    const spriteWidth = () => (props.data.Sprite?.Width || 0) * 2;
+    const spriteHeight = () => (props.data.Sprite?.Height || 0) * 2;
+
     return (
         <Show when={isVisible()}>
             <div class="enemy">
                 <header>
                     <div class="enemy__name-with-sprite">
-                        <Show when={Boolean(props.data.Sprite)}>
+                        <Show when={props.data.Sprite}>
                             <img
                                 class="enemy__sprite"
-                                use:autosize={2}
-                                src={`/images/sprites/${props.data.Sprite}.png`}
+                                width={spriteWidth()}
+                                height={spriteHeight()}
+                                src={`/images/sprites/${props.data.Sprite!.Name}.png`}
                                 alt={props.data.Name}
                             />
                         </Show>
