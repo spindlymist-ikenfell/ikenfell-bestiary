@@ -3,9 +3,18 @@
 }
 
 body {
-    background: url(/background.png);
+    background: url(/images/background.png);
     font-family: 'Lato', sans-serif;
     color: #222;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
 }
 
 #root {
@@ -14,10 +23,9 @@ body {
     backdrop-filter: blur(1px);
     width: 66.67%;
     margin: auto;
-    padding: 2rem;
+    padding: 0 2rem;
     min-height: 100vh;
 }
-
 @media (max-width: 1200px) {
     #root {
         width: calc(100% - 2rem);
@@ -25,17 +33,17 @@ body {
     }
 }
 
+#root > header {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
 h1 {
     text-align: center;
     font-family: 'Qwitcher Grypen', fantasy;
     /* font-family: "Arizonia", fantasy; */
     font-size: clamp(4rem, 10vw, 8rem);
-    margin: 0 0 2rem 0;
     color: rgb(95, 41, 2);
-}
-
-p {
-    margin: 0;
 }
 
 input {
@@ -46,4 +54,15 @@ input {
     border: none;
     margin-bottom: 2rem;
     border-radius: 4px;
+}
+
+footer {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    color: #666;
+    line-height: 1;
+}
+
+footer p:not(:last-child) {
+    margin-bottom: 0.5em;
 }
