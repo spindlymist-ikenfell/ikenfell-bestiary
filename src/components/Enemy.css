@@ -45,8 +45,17 @@
     overflow: hidden;
 }
 @media (max-width: 900px) {
-    .enemy__sections > section:not(:last-child) > .enemy__properties {
+    .enemy__sections > section:not(:last-child) .enemy__properties {
         border-bottom: none;
+    }
+    .enemy__sections > section .enemy__properties {
+        border-radius: 0;
+    }
+    .enemy__sections > section:first-child .enemy__properties {
+        border-radius: 4px 4px 0 0;
+    }
+    .enemy__sections > section:last-child .enemy__properties {
+        border-radius: 0 0 4px 4px;
     }
 }
 
