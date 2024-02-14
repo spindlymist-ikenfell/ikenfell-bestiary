@@ -8,10 +8,20 @@
     image-rendering: pixelated;
 }
 
+.reward-list li:not(:last-child) {
+    margin-bottom: 0.25rem;
+}
+
 .reward-list__item {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+
+    border: 1px solid #2c4f35;
+    border-radius: 5px;
+    padding: 0.25rem;
+    box-shadow: 0 1px 4px rgba(0, 32, 0, .15);
+    background-color: #a1d49c;
 }
 .reward-list__name-with-icon {
     display: flex;
@@ -27,7 +37,7 @@
     align-items: baseline;
 }
 .reward-list__limits i {
-    color: #b9f2b6;
+    color: #2c4f35;
     transform: translateY(1px);
     font-size: 110%;
 }
@@ -43,11 +53,11 @@
     left: 0;
     right: 0;
     top: 50%;
-    border-top: 1px solid #b9f2b6;
+    border-top: 1px solid #2c4f35;
 }
 .reward-list__or-separator span {
     position: relative;
     background-color: var(--row-color);
-    color: #b9f2b6;
+    color: rgb(32, 64, 37);
     padding: 0 0.5rem;
 }

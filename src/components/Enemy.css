@@ -21,7 +21,6 @@
 .enemy__sections {
     display: flex;
     gap: 0.5rem;
-    color: rgb(32, 64, 37);
 }
 @media (max-width: 900px) {
     .enemy__sections {
@@ -39,8 +38,16 @@
 .enemy__properties {
     width: 100%;
     table-layout: fixed;
-    background: rgb(112, 169, 107);
-    border-collapse: collapse;
+    color: rgb(32, 64, 37);
+    border-spacing: 0;
+    border: 1px solid #2c4f35;
+    border-radius: 4px;
+    overflow: hidden;
+}
+@media (max-width: 900px) {
+    .enemy__sections > section:not(:last-child) > .enemy__properties {
+        border-bottom: none;
+    }
 }
 
 .enemy__properties tr {
@@ -67,6 +74,7 @@
     width: 25%;
     background-color: var(--row-header-color);
     color: white;
+    border-right: 1px solid #2c4f35;
 }
 
 .enemy__stat-icon {
@@ -82,7 +90,7 @@
 }
 
 .enemy__class-name {
-    color: #bbb;
+    color: #666;
 }
 
 .enemy-notes {
