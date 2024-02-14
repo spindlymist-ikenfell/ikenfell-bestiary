@@ -349,7 +349,7 @@ export const enemies: EnemyData[] = [
             }
         },
         "Sprite": {
-            "Name": "battle_agony_0_0",
+            "Name": "battle_agony_3_0",
             "Set": "battle_agony",
             "Width": 38,
             "Height": 38
@@ -663,7 +663,12 @@ export const enemies: EnemyData[] = [
                 ]
             }
         },
-        "Sprite": null,
+        "Sprite": {
+            "Name": "battle_cat_19_0",
+            "Set": "battle_cat",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -736,7 +741,12 @@ export const enemies: EnemyData[] = [
                 ]
             }
         },
-        "Sprite": null,
+        "Sprite": {
+            "Name": "battle_cat_11_0",
+            "Set": "battle_cat",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -887,7 +897,12 @@ export const enemies: EnemyData[] = [
                 ]
             }
         },
-        "Sprite": null,
+        "Sprite": {
+            "Name": "battle_cat_0_0",
+            "Set": "battle_cat",
+            "Width": 14,
+            "Height": 10
+        },
         "Notes": []
     },
     {
@@ -16157,4 +16172,4 @@ export const enemies: EnemyData[] = [
         },
         "Notes": []
     }
-]
+];
