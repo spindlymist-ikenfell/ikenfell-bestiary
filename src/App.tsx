@@ -5,9 +5,9 @@ import "./App.css";
 function App() {
     const [filter, setFilter] = createSignal("");
 
-    let input;
+    let input: HTMLInputElement|undefined;
     const updateFilter = () => {
-        setFilter(input.value);
+        setFilter(input!.value);
     };
 
     return (<>
