@@ -1,6 +1,6 @@
 # Ikenfell Bestiary
 
-This is a website for viewing data on the many enemies found in the video game [Ikenfell](https://ikenfell.com).
+[Ikenfell Bestiary](https://ikenfell-bestiary.netlify.app) is a website for viewing data on the many enemies found in the video game [Ikenfell](https://ikenfell.com).
 
 The data was generated from the game's decompiled source code using
 [ikenparser](https://github.com/spindlymist-ikenfell/ikenparser).
