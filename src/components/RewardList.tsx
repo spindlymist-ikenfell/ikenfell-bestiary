@@ -85,7 +85,7 @@ export const Reward: Component<{
                     class="reward-list__icon"
                     width={spriteWidth()}
                     height={spriteHeight()}
-                    src={`/images/sprites/${props.data.ItemSprite.Name}.png`}
+                    src={`/copyright/sprites/${props.data.ItemSprite.Name}.png`}
                     alt={props.data.ItemName}
                 />
                 <span class="reward-list__name">

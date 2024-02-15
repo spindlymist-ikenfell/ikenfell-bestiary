@@ -41,7 +41,7 @@ export const Enemy: Component<{
                                 class="enemy__sprite"
                                 width={spriteWidth()}
                                 height={spriteHeight()}
-                                src={`/images/sprites/${props.data.Sprite!.Name}.png`}
+                                src={`/copyright/sprites/${props.data.Sprite!.Name}.png`}
                                 alt={props.data.Name}
                             />
                         </Show>
@@ -54,23 +54,23 @@ export const Enemy: Component<{
                         <table class="enemy__properties">
                             <tbody>
                                 <tr>
-                                    <td><img class="enemy__stat-icon" src="/images/hp.png" alt="" /> HP</td>
+                                    <td><img class="enemy__stat-icon" src="/copyright/hp.png" alt="" /> HP</td>
                                     <td>{props.data.HP}</td>
                                 </tr>
                                 <tr>
-                                    <td><img class="enemy__stat-icon" src="/images/pow.png" alt="" /> Pow</td>
+                                    <td><img class="enemy__stat-icon" src="/copyright/pow.png" alt="" /> Pow</td>
                                     <td>{props.data.Pow}</td>
                                 </tr>
                                 <tr>
-                                    <td><img class="enemy__stat-icon" src="/images/def.png" alt="" /> Def</td>
+                                    <td><img class="enemy__stat-icon" src="/copyright/def.png" alt="" /> Def</td>
                                     <td>{props.data.Def}</td>
                                 </tr>
                                 <tr>
-                                    <td><img class="enemy__stat-icon" src="/images/spd.png" alt="" /> Spd</td>
+                                    <td><img class="enemy__stat-icon" src="/copyright/spd.png" alt="" /> Spd</td>
                                     <td>{props.data.Spd}</td>
                                 </tr>
                                 <tr>
-                                    <td><img class="enemy__stat-icon" src="/images/mov.png" alt="" /> Mov</td>
+                                    <td><img class="enemy__stat-icon" src="/copyright/mov.png" alt="" /> Mov</td>
                                     <td>{props.data.Mov}</td>
                                 </tr>
                                 <tr>

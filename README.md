@@ -1,28 +1,10 @@
-## Usage
+# Ikenfell Bestiary
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+This is a website for viewing data on the many enemies found in the video game [Ikenfell](https://ikenfell.com).
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+The data was generated from the game's decompiled source code using
+[ikenparser](https://github.com/spindlymist-ikenfell/ikenparser).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm run dev`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-Learn more about deploying your application with the [documentations](https://vitejs.dev/guide/static-deploy.html)
+This repository's license ***does not apply*** to any Ikenfell assets used on the public website, none of which are
+included in the repo. If you wish to run the website locally, extract the assets yourself and place them in the correct
+locations under `public/copyright`. See the ikenparser README for more details.
