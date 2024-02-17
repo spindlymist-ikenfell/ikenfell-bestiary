@@ -1,5 +1,6 @@
 import { createSignal } from "solid-js";
 import { EnemyList } from "./components/EnemyList";
+import { Legend } from "./components/Legend";
 import "./App.css";
 
 export default function App() {
@@ -21,6 +22,7 @@ export default function App() {
                 onInput={updateFilter}
                 placeholder="Search"
             />
+            <Legend />
             <EnemyList filter={filter()} />
         </main>
         <footer>

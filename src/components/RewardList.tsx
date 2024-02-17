@@ -1,6 +1,7 @@
 import { Show, For, Component } from "solid-js"
 import { RewardData, RewardsList } from "../types";
 import { autosize } from "../directives/autosize";
+import { IconCombined, IconOwned, IconReward } from "./icons";
 import "./RewardList.css";
 
 false && autosize; // Don't remove autosize import
@@ -42,26 +43,28 @@ export const Reward: Component<{
     const max = () => {
         if (props.data.IsCombinedMax) {
             return (<>
-                <i class="ph ph-fill ph-gift" style="margin-right:6px;transform:translateY(-2px); font-size:100%" />
-                <i class="ph ph-fill ph-hand" style="position:absolute; color: #a1d49c; transform:translate(5px,3px); font-size:100%" />
-                <i class="ph ph-fill ph-hand" style="position:absolute; transform:translate(6px,4px); font-size:100%" />
+                <IconCombined backgroundColor="#a1d49c" />
                 {props.data.MaxOwned}
             </>);
         }
         else if (props.data.MaxOwned && props.data.MaxRewarded) {
             return (<>
-                <i class="ph ph-fill ph-gift " />{props.data.MaxRewarded}
-                <i class="ph ph-fill ph-hand" />{props.data.MaxOwned}
+                <IconReward />
+                {props.data.MaxRewarded}
+                <IconOwned />
+                {props.data.MaxOwned}
             </>);
         }
         else if (props.data.MaxOwned) {
             return (<>
-                <i class="ph ph-fill ph-gift " />{props.data.MaxOwned}
+                <IconOwned />
+                {props.data.MaxOwned}
             </>);
         }
         else if (props.data.MaxRewarded) {
             return (<>
-                <i class="ph ph-fill ph-gift " />{props.data.MaxRewarded}
+                <IconReward />
+                {props.data.MaxRewarded}
             </>);
         }
         else {
