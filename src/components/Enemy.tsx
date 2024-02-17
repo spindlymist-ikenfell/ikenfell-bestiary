@@ -2,10 +2,7 @@ import { Show, Component, Index } from "solid-js"
 import { EnemyData, NumberRange } from "../types";
 import { RewardList } from "./RewardList";
 import { EnemyRewarder } from "./EnemyRewarder";
-import { autosize } from "../directives/autosize";
 import "./Enemy.css";
-
-false && autosize; // Don't remove autosize import
 
 export const Enemy: Component<{
     data: EnemyData,

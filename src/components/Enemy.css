@@ -1,11 +1,12 @@
 .enemy:not(:last-child) {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 .enemy header {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
+    margin-bottom: 0.5rem;
 }
 
 .enemy__name-with-sprite {
