@@ -96,12 +96,12 @@ export const enemies: EnemyData[] = [
             "EnemyAeldra"
         ],
         "RewardTokens": [
-            "Sadio's Sweetest",
-            "Cordial",
             "Sweetest",
-            "Rose Cordial",
+            "Sadio's",
+            "Sadio's Sweetest",
             "Rose",
-            "Sadio's"
+            "Cordial",
+            "Rose Cordial"
         ]
     },
     {
@@ -183,14 +183,14 @@ export const enemies: EnemyData[] = [
         "Notes": [],
         "NameTokens": [
             "Crimson Node",
-            "Crimson",
+            "Node",
             "EnemyAeldraBomb",
-            "Node"
+            "Crimson"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -273,9 +273,9 @@ export const enemies: EnemyData[] = [
             "EnemyAeldraHand"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -388,17 +388,17 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyAgony",
-            "Agony"
+            "Agony",
+            "EnemyAgony"
         ],
         "RewardTokens": [
+            "Ghost",
             "Specter",
+            "Blackstars",
+            "Specter Ale",
             "Ale",
             "Coin",
-            "Blackstars",
-            "Ghost Coin",
-            "Specter Ale",
-            "Ghost"
+            "Ghost Coin"
         ]
     },
     {
@@ -480,15 +480,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Minor",
             "Spawn",
+            "EnemyAgonyDrip",
             "Minor Spawn",
-            "EnemyAgonyDrip"
+            "Minor"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -570,15 +570,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyAgonyDrip2",
             "Major",
-            "Spawn",
-            "Major Spawn"
+            "EnemyAgonyDrip2",
+            "Major Spawn",
+            "Spawn"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -660,15 +660,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyAllcat",
-            "The Allcat",
             "The",
-            "Allcat"
+            "Allcat",
+            "The Allcat",
+            "EnemyAllcat"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -753,9 +753,9 @@ export const enemies: EnemyData[] = [
             "EnemyAllcatGrey"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -840,9 +840,9 @@ export const enemies: EnemyData[] = [
             "Tabby"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -923,15 +923,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "The Allcat",
+            "EnemyAllcatSmall",
             "The",
             "Allcat",
-            "EnemyAllcatSmall"
+            "The Allcat"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -1012,13 +1012,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyAllcatWhite",
-            "Snowy"
+            "Snowy",
+            "EnemyAllcatWhite"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -1099,13 +1099,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyAutochopper",
-            "Autochopper"
+            "Autochopper",
+            "EnemyAutochopper"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -1184,13 +1184,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyAutochopper2",
-            "Autochopper"
+            "Autochopper",
+            "EnemyAutochopper2"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -1273,9 +1273,9 @@ export const enemies: EnemyData[] = [
             "Autoeye"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -1356,13 +1356,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyBax",
-            "Bax"
+            "Bax",
+            "EnemyBax"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -1447,9 +1447,9 @@ export const enemies: EnemyData[] = [
             "EnemyBeacon"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -1542,16 +1542,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyBee",
-            "Bumbler"
+            "Bumbler",
+            "EnemyBee"
         ],
         "RewardTokens": [
             "Mint",
-            "Green",
-            "Mint Shroom",
             "Shroom",
             "Sadio's",
-            "Sadio's Green"
+            "Mint Shroom",
+            "Sadio's Green",
+            "Green"
         ]
     },
     {
@@ -1659,13 +1659,13 @@ export const enemies: EnemyData[] = [
             "EnemyBlackhat"
         ],
         "RewardTokens": [
-            "Blue",
-            "Blue Blossom",
-            "Big",
             "Blossom",
+            "Blue",
             "Bomb",
-            "Seawater",
-            "Big Bomb"
+            "Big Bomb",
+            "Big",
+            "Blue Blossom",
+            "Seawater"
         ]
     },
     {
@@ -1747,18 +1747,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyBlackhatCleric",
-            "Fetch"
+            "Fetch",
+            "EnemyBlackhatCleric"
         ],
         "RewardTokens": [
+            "Blossom",
             "Blue",
+            "Common",
+            "Common Coin",
             "Blue Blossom",
             "Gold",
-            "Gold Blossom",
-            "Blossom",
             "Coin",
-            "Common",
-            "Common Coin"
+            "Gold Blossom"
         ]
     },
     {
@@ -1844,15 +1844,15 @@ export const enemies: EnemyData[] = [
             "Fetch"
         ],
         "RewardTokens": [
-            "Gold",
-            "Gold Blossom",
-            "Berries",
-            "Thorn",
             "Blossom",
-            "Coin",
+            "Berries",
             "Thorn Berries",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Gold",
+            "Coin",
+            "Gold Blossom",
+            "Thorn"
         ]
     },
     {
@@ -1934,18 +1934,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyBlackhatStudent",
-            "Fetch"
+            "Fetch",
+            "EnemyBlackhatStudent"
         ],
         "RewardTokens": [
-            "Blue",
-            "Blue Blossom",
             "Blossom",
-            "Coin",
-            "Cake",
-            "Sweet",
+            "Blue",
             "Common",
+            "Cake",
             "Common Coin",
+            "Sweet",
+            "Blue Blossom",
+            "Coin",
             "Sweet Cake"
         ]
     },
@@ -2072,22 +2072,22 @@ export const enemies: EnemyData[] = [
             "EnemyBloodwyn"
         ],
         "RewardTokens": [
-            "Love",
-            "Witch",
-            "Battle",
-            "The Battle Witch",
-            "Book of Safety",
-            "of Love",
-            "of",
-            "Medal",
-            "The",
-            "Safety",
             "Book of Love",
-            "Prize Medal",
-            "Battle Witch",
-            "Prize",
             "Book",
-            "of Safety"
+            "The",
+            "Book of Safety",
+            "Battle",
+            "Witch",
+            "Medal",
+            "Safety",
+            "Love",
+            "of",
+            "of Love",
+            "Prize",
+            "of Safety",
+            "Prize Medal",
+            "The Battle Witch",
+            "Battle Witch"
         ]
     },
     {
@@ -2186,11 +2186,11 @@ export const enemies: EnemyData[] = [
         ],
         "RewardTokens": [
             "Red",
-            "Red Mushroom",
-            "Coin",
             "Mushroom",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Red Mushroom",
+            "Coin"
         ]
     },
     {
@@ -2290,11 +2290,11 @@ export const enemies: EnemyData[] = [
         ],
         "RewardTokens": [
             "Red",
-            "Red Mushroom",
-            "Coin",
             "Mushroom",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Red Mushroom",
+            "Coin"
         ]
     },
     {
@@ -2385,16 +2385,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Horror",
-            "EnemyBookBlue"
+            "EnemyBookBlue",
+            "Horror"
         ],
         "RewardTokens": [
             "Seeds",
             "Cave",
-            "Pink",
-            "Pink Seeds",
+            "Acorn",
             "Cave Acorn",
-            "Acorn"
+            "Pink",
+            "Pink Seeds"
         ]
     },
     {
@@ -2500,18 +2500,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Mystery",
-            "EnemyBookPurple"
+            "EnemyBookPurple",
+            "Mystery"
         ],
         "RewardTokens": [
-            "Love",
-            "Red",
-            "Sadio's Red",
-            "of Love",
-            "of",
             "Book of Love",
+            "Book",
+            "Red",
+            "Love",
+            "of",
             "Sadio's",
-            "Book"
+            "of Love",
+            "Sadio's Red"
         ]
     },
     {
@@ -2619,14 +2619,14 @@ export const enemies: EnemyData[] = [
             "Mystery"
         ],
         "RewardTokens": [
-            "Love",
-            "Red",
-            "Sadio's Red",
-            "of Love",
-            "of",
             "Book of Love",
+            "Book",
+            "Red",
+            "Love",
+            "of",
             "Sadio's",
-            "Book"
+            "of Love",
+            "Sadio's Red"
         ]
     },
     {
@@ -2721,12 +2721,12 @@ export const enemies: EnemyData[] = [
             "EnemyBookRed"
         ],
         "RewardTokens": [
-            "Pow Cherry",
-            "Pow",
             "Seeds",
+            "Pow",
             "Cherry",
             "Pink",
-            "Pink Seeds"
+            "Pink Seeds",
+            "Pow Cherry"
         ]
     },
     {
@@ -2805,13 +2805,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyBookworm",
-            "Bookworm"
+            "Bookworm",
+            "EnemyBookworm"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -2894,9 +2894,9 @@ export const enemies: EnemyData[] = [
             "EnemyBookwormGreen"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -2989,8 +2989,8 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Lagomagus",
-            "EnemyBunwitch"
+            "EnemyBunwitch",
+            "Lagomagus"
         ],
         "RewardTokens": [
             "Thunderbrim",
@@ -3187,11 +3187,11 @@ export const enemies: EnemyData[] = [
             "Flutterfang"
         ],
         "RewardTokens": [
-            "Beauty",
-            "Rare Coin",
-            "Coin",
-            "Token",
             "Beauty Token",
+            "Rare Coin",
+            "Token",
+            "Beauty",
+            "Coin",
             "Rare"
         ]
     },
@@ -3277,9 +3277,9 @@ export const enemies: EnemyData[] = [
             "EnemyCauldron"
         ],
         "RewardTokens": [
-            "Spice",
             "Leaf",
-            "Spice Leaf"
+            "Spice Leaf",
+            "Spice"
         ]
     },
     {
@@ -3398,11 +3398,11 @@ export const enemies: EnemyData[] = [
         "RewardTokens": [
             "Rancid",
             "Rare Coin",
-            "Coin",
-            "Fruit",
-            "Rare",
             "Rancid Fruit",
-            "Woolymuffs"
+            "Fruit",
+            "Coin",
+            "Woolymuffs",
+            "Rare"
         ]
     },
     {
@@ -3483,13 +3483,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Sadio",
-            "EnemyCibil"
+            "EnemyCibil",
+            "Sadio"
         ],
         "RewardTokens": [
-            "Bomb",
             "Big Bomb",
-            "Big"
+            "Big",
+            "Bomb"
         ]
     },
     {
@@ -3574,9 +3574,9 @@ export const enemies: EnemyData[] = [
             "Codexus"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -3657,15 +3657,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Eye",
-            "EnemyCodexBee",
+            "Bumble",
             "Bumble Eye",
-            "Bumble"
+            "Eye",
+            "EnemyCodexBee"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -3750,9 +3750,9 @@ export const enemies: EnemyData[] = [
             "EnemyCodexEyepole"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -3835,9 +3835,9 @@ export const enemies: EnemyData[] = [
             "Eyeworm"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -3918,15 +3918,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Red Flame",
+            "Flame",
             "Red",
-            "EnemyCodexFlame",
-            "Flame"
+            "Red Flame",
+            "EnemyCodexFlame"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -4007,13 +4007,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Sackeye",
-            "EnemyCodexSackeye"
+            "EnemyCodexSackeye",
+            "Sackeye"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -4104,18 +4104,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyCrackedGhost",
             "Ghost",
             "Cracked",
+            "EnemyCrackedGhost",
             "Cracked Ghost"
         ],
         "RewardTokens": [
-            "Beauty",
+            "Beauty Token",
+            "Ghost",
             "Cookie",
             "Token",
-            "Beauty Token",
-            "Ghost Cookie",
-            "Ghost"
+            "Beauty",
+            "Ghost Cookie"
         ]
     },
     {
@@ -4212,10 +4212,10 @@ export const enemies: EnemyData[] = [
             "EnemyCraterbaby"
         ],
         "RewardTokens": [
-            "Acorn",
-            "Cave Acorn",
             "Honeycrisp",
-            "Cave"
+            "Cave",
+            "Cave Acorn",
+            "Acorn"
         ]
     },
     {
@@ -4364,22 +4364,22 @@ export const enemies: EnemyData[] = [
             "only if you have at least 1 Royal Snug"
         ],
         "NameTokens": [
-            "Craterface",
-            "EnemyCraterface"
+            "EnemyCraterface",
+            "Craterface"
         ],
         "RewardTokens": [
-            "Cookie",
-            "Candy",
-            "Royal Snug",
-            "Coin",
             "Royal",
-            "Comeback Candy",
-            "Snug",
-            "Comeback",
-            "Star Cookie",
             "Common",
+            "Cookie",
+            "Common Coin",
+            "Candy",
+            "Comeback",
             "Star",
-            "Common Coin"
+            "Comeback Candy",
+            "Star Cookie",
+            "Snug",
+            "Coin",
+            "Royal Snug"
         ]
     },
     {
@@ -4473,18 +4473,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Goon",
             "Lunar Goon",
+            "EnemyCraterface2",
             "Lunar",
-            "EnemyCraterface2"
+            "Goon"
         ],
         "RewardTokens": [
-            "Sadio's Blue",
             "Blue",
-            "Romantic",
-            "The Romantic",
             "The",
-            "Sadio's"
+            "The Romantic",
+            "Romantic",
+            "Sadio's",
+            "Sadio's Blue"
         ]
     },
     {
@@ -4566,13 +4566,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Beryllous",
-            "EnemyCrystal"
+            "EnemyCrystal",
+            "Beryllous"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -4670,12 +4670,12 @@ export const enemies: EnemyData[] = [
             "Cyclops"
         ],
         "RewardTokens": [
-            "Steel",
-            "Toes",
-            "Pink",
-            "Pink Pods",
             "Steel Toes",
-            "Pods"
+            "Steel",
+            "Pink Pods",
+            "Toes",
+            "Pods",
+            "Pink"
         ]
     },
     {
@@ -4785,12 +4785,12 @@ export const enemies: EnemyData[] = [
             "EnemyDarkeye"
         ],
         "RewardTokens": [
-            "Demon",
-            "Eye",
             "Demon Eye",
-            "Green",
             "Sadio's",
-            "Sadio's Green"
+            "Eye",
+            "Demon",
+            "Sadio's Green",
+            "Green"
         ]
     },
     {
@@ -4898,12 +4898,12 @@ export const enemies: EnemyData[] = [
             "EnemyDarkeyeStacks"
         ],
         "RewardTokens": [
-            "Demon",
-            "Eye",
             "Demon Eye",
-            "Green",
             "Sadio's",
-            "Sadio's Green"
+            "Eye",
+            "Demon",
+            "Sadio's Green",
+            "Green"
         ]
     },
     {
@@ -5013,19 +5013,19 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Charbones",
-            "EnemyDarkskull"
+            "EnemyDarkskull",
+            "Charbones"
         ],
         "RewardTokens": [
-            "Sweet Sprout",
-            "Sprout",
             "Black",
-            "Black Bomb",
-            "Coin",
             "Bomb",
-            "Sweet",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Sweet Sprout",
+            "Sweet",
+            "Coin",
+            "Sprout",
+            "Black Bomb"
         ]
     },
     {
@@ -5137,20 +5137,20 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyEoc",
+            "Leader",
             "The",
             "The Leader",
-            "Leader"
+            "EnemyEoc"
         ],
         "RewardTokens": [
             "Red",
-            "Small Mushroom",
-            "Red Mushroom",
-            "Coin",
             "Mushroom",
             "Small",
+            "Common",
             "Common Coin",
-            "Common"
+            "Small Mushroom",
+            "Red Mushroom",
+            "Coin"
         ]
     },
     {
@@ -5233,9 +5233,9 @@ export const enemies: EnemyData[] = [
             "EnemyEyeFlower"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -5329,16 +5329,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyEyesore",
-            "Eyesore"
+            "Eyesore",
+            "EnemyEyesore"
         ],
         "RewardTokens": [
-            "Cave",
             "Rancid",
-            "Cave Acorn",
             "Fruit",
+            "Rancid Fruit",
             "Acorn",
-            "Rancid Fruit"
+            "Cave Acorn",
+            "Cave"
         ]
     },
     {
@@ -5409,16 +5409,21 @@ export const enemies: EnemyData[] = [
                 ]
             }
         },
-        "Sprite": null,
+        "Sprite": {
+            "Name": "battle_bluetile_0_0",
+            "Set": "battle_bluetile",
+            "Width": 19,
+            "Height": 14
+        },
         "Notes": [],
         "NameTokens": [
-            "Undersloop",
-            "EnemyFakeTileBlue"
+            "EnemyFakeTileBlue",
+            "Undersloop"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -5489,16 +5494,21 @@ export const enemies: EnemyData[] = [
                 ]
             }
         },
-        "Sprite": null,
+        "Sprite": {
+            "Name": "battle_redtile_0_0",
+            "Set": "battle_redtile",
+            "Width": 19,
+            "Height": 14
+        },
         "Notes": [],
         "NameTokens": [
-            "Undersnoop",
-            "EnemyFakeTileRed"
+            "EnemyFakeTileRed",
+            "Undersnoop"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -5585,9 +5595,9 @@ export const enemies: EnemyData[] = [
             "Fantom"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -5675,9 +5685,9 @@ export const enemies: EnemyData[] = [
             "Fantom"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -5760,13 +5770,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyFantom3",
-            "Fantom"
+            "Fantom",
+            "EnemyFantom3"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -5858,16 +5868,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Petuni",
-            "EnemyFlower"
+            "EnemyFlower",
+            "Petuni"
         ],
         "RewardTokens": [
-            "Gold",
-            "Gold Blossom",
             "Blossom",
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Gold",
+            "Coin",
+            "Gold Blossom"
         ]
     },
     {
@@ -5961,16 +5971,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyFluttergum",
-            "Fluttergum"
+            "Fluttergum",
+            "EnemyFluttergum"
         ],
         "RewardTokens": [
-            "Blue",
-            "Blue Blossom",
             "Blossom",
-            "Coin",
+            "Blue",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Blue Blossom",
+            "Coin"
         ]
     },
     {
@@ -6076,16 +6086,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyFlutterlamp",
-            "Flutterlamp"
+            "Flutterlamp",
+            "EnemyFlutterlamp"
         ],
         "RewardTokens": [
-            "Dew Plum",
-            "Cookie",
             "Dew",
             "Plum",
+            "Cookie",
+            "Star",
             "Star Cookie",
-            "Star"
+            "Dew Plum"
         ]
     },
     {
@@ -6178,15 +6188,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyFlutterlamp2",
-            "Fluttertorch"
+            "Fluttertorch",
+            "EnemyFlutterlamp2"
         ],
         "RewardTokens": [
-            "Sadio's Blue",
             "Blue",
-            "Sadio's Sparkly",
+            "Sadio's",
+            "Sadio's Blue",
             "Sparkly",
-            "Sadio's"
+            "Sadio's Sparkly"
         ]
     },
     {
@@ -6286,11 +6296,11 @@ export const enemies: EnemyData[] = [
         ],
         "RewardTokens": [
             "Red",
-            "Toxic Shroom",
-            "Red Mushroom",
-            "Toxic",
             "Mushroom",
-            "Shroom"
+            "Shroom",
+            "Toxic Shroom",
+            "Toxic",
+            "Red Mushroom"
         ]
     },
     {
@@ -6371,15 +6381,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
+            "EnemyFungiLair",
             "Fungi",
             "Dimini",
-            "Fungi Dimini",
-            "EnemyFungiLair"
+            "Fungi Dimini"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -6472,17 +6482,17 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Colosso",
-            "Fungo Colosso",
+            "Fungo",
             "EnemyFungo",
-            "Fungo"
+            "Fungo Colosso",
+            "Colosso"
         ],
         "RewardTokens": [
-            "Mint",
-            "Fruity",
             "Fruity Shroom",
-            "Mint Shroom",
-            "Shroom"
+            "Mint",
+            "Shroom",
+            "Fruity",
+            "Mint Shroom"
         ]
     },
     {
@@ -6578,12 +6588,12 @@ export const enemies: EnemyData[] = [
             "Mossling"
         ],
         "RewardTokens": [
-            "Small Mushroom",
-            "Coin",
             "Mushroom",
             "Small",
+            "Common",
             "Common Coin",
-            "Common"
+            "Small Mushroom",
+            "Coin"
         ]
     },
     {
@@ -6666,9 +6676,9 @@ export const enemies: EnemyData[] = [
             "EnemyFuzzyStack"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -6751,9 +6761,9 @@ export const enemies: EnemyData[] = [
             "Mossling"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -6832,13 +6842,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Mossling",
-            "EnemyFuzzyTutorial2"
+            "EnemyFuzzyTutorial2",
+            "Mossling"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -6931,15 +6941,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Gardener",
-            "EnemyGardener"
+            "EnemyGardener",
+            "Gardener"
         ],
         "RewardTokens": [
-            "Veggie Stew",
-            "Prize Poppies",
-            "Poppies",
             "Prize",
+            "Prize Poppies",
             "Stew",
+            "Veggie Stew",
+            "Poppies",
             "Veggie"
         ]
     },
@@ -7063,17 +7073,17 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Gardener",
-            "EnemyGardener2"
+            "EnemyGardener2",
+            "Gardener"
         ],
         "RewardTokens": [
+            "Shoots",
+            "Medal",
+            "Prize",
+            "Prize Shoots",
             "Prize Poppies",
             "Poppies",
-            "Shoots",
-            "Prize",
-            "Prize Medal",
-            "Medal",
-            "Prize Shoots"
+            "Prize Medal"
         ]
     },
     {
@@ -7164,16 +7174,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyGardenerBee",
-            "Bumbler"
+            "Bumbler",
+            "EnemyGardenerBee"
         ],
         "RewardTokens": [
             "Mint",
-            "Green",
-            "Mint Shroom",
             "Shroom",
             "Sadio's",
-            "Sadio's Green"
+            "Mint Shroom",
+            "Sadio's Green",
+            "Green"
         ]
     },
     {
@@ -7264,15 +7274,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Flutterfang",
-            "EnemyGardenerButterfly"
+            "EnemyGardenerButterfly",
+            "Flutterfang"
         ],
         "RewardTokens": [
-            "Beauty",
-            "Rare Coin",
-            "Coin",
-            "Token",
             "Beauty Token",
+            "Rare Coin",
+            "Token",
+            "Beauty",
+            "Coin",
             "Rare"
         ]
     },
@@ -7356,9 +7366,9 @@ export const enemies: EnemyData[] = [
             "EnemyGardenerFlower"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -7439,15 +7449,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Dancer",
             "EnemyGhostFat",
+            "Dancer",
             "The",
             "The Dancer"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -7530,13 +7540,13 @@ export const enemies: EnemyData[] = [
         "NameTokens": [
             "The Creep",
             "The",
-            "Creep",
-            "EnemyGhostSkinny"
+            "EnemyGhostSkinny",
+            "Creep"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -7649,14 +7659,14 @@ export const enemies: EnemyData[] = [
         ],
         "RewardTokens": [
             "Red",
-            "Sprout",
+            "Mushroom",
+            "Common",
             "Sweet Sprout",
+            "Common Coin",
+            "Sweet",
             "Red Mushroom",
             "Coin",
-            "Mushroom",
-            "Sweet",
-            "Common",
-            "Common Coin"
+            "Sprout"
         ]
     },
     {
@@ -7735,13 +7745,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyGhrostling",
-            "Ghrostling"
+            "Ghrostling",
+            "EnemyGhrostling"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -7843,18 +7853,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Gilda",
-            "EnemyGilda"
+            "EnemyGilda",
+            "Gilda"
         ],
         "RewardTokens": [
-            "Rare Coin",
-            "Coin",
-            "Cake",
-            "Rare",
-            "Sweet",
             "Common",
+            "Cake",
+            "Rare Coin",
             "Common Coin",
-            "Sweet Cake"
+            "Sweet",
+            "Coin",
+            "Sweet Cake",
+            "Rare"
         ]
     },
     {
@@ -7946,16 +7956,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Gilda",
-            "EnemyGilda2"
+            "EnemyGilda2",
+            "Gilda"
         ],
         "RewardTokens": [
+            "Common",
+            "Gem",
+            "Common Coin",
             "Rare Gem",
             "Coin",
-            "Rare",
-            "Gem",
-            "Common",
-            "Common Coin"
+            "Rare"
         ]
     },
     {
@@ -8038,9 +8048,9 @@ export const enemies: EnemyData[] = [
             "EnemyGlip"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -8123,9 +8133,9 @@ export const enemies: EnemyData[] = [
             "Bumbler"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -8206,13 +8216,13 @@ export const enemies: EnemyData[] = [
         "NameTokens": [
             "Fungi",
             "Dimini",
-            "Fungi Dimini",
-            "EnemyGlipFungi"
+            "EnemyGlipFungi",
+            "Fungi Dimini"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -8291,13 +8301,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Mossling",
-            "EnemyGlipFuzzy"
+            "EnemyGlipFuzzy",
+            "Mossling"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -8376,13 +8386,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyGlipGhrostling",
-            "Ghrostling"
+            "Ghrostling",
+            "EnemyGlipGhrostling"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -8461,15 +8471,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Pane",
-            "Rocket Pane",
+            "EnemyGlipPaneAttacker",
             "Rocket",
-            "EnemyGlipPaneAttacker"
+            "Pane",
+            "Rocket Pane"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -8548,13 +8558,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyGlipPants",
-            "Trouncers"
+            "Trouncers",
+            "EnemyGlipPants"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -8673,19 +8683,19 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Eater",
             "Fossil Eater",
+            "EnemyGolem",
             "Fossil",
-            "EnemyGolem"
+            "Eater"
         ],
         "RewardTokens": [
-            "Candy",
-            "Mini",
-            "Mini Melon",
-            "Melon",
             "Honeycrisp",
+            "Candy",
+            "Comeback",
             "Comeback Candy",
-            "Comeback"
+            "Mini Melon",
+            "Mini",
+            "Melon"
         ]
     },
     {
@@ -8781,18 +8791,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyGolemRed",
-            "Fossil Forger",
+            "Fossil",
             "Forger",
-            "Fossil"
+            "Fossil Forger",
+            "EnemyGolemRed"
         ],
         "RewardTokens": [
-            "Coin",
             "Frenzy",
-            "Flower",
             "Common",
             "Common Coin",
-            "Frenzy Flower"
+            "Flower",
+            "Frenzy Flower",
+            "Coin"
         ]
     },
     {
@@ -8900,15 +8910,15 @@ export const enemies: EnemyData[] = [
             "Ticklish"
         ],
         "RewardTokens": [
-            "Gold",
-            "Gold Blossom",
-            "Leaf",
             "Blossom",
             "Cake",
-            "Spice",
+            "Sweet Cake",
+            "Leaf",
             "Sweet",
-            "Spice Leaf",
-            "Sweet Cake"
+            "Gold",
+            "Spice",
+            "Gold Blossom",
+            "Spice Leaf"
         ]
     },
     {
@@ -9002,18 +9012,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyGrump",
-            "Great Grump",
+            "Great",
             "Grump",
-            "Great"
+            "Great Grump",
+            "EnemyGrump"
         ],
         "RewardTokens": [
-            "Blue",
-            "Blue Blossom",
             "Blossom",
-            "Coin",
+            "Blue",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Blue Blossom",
+            "Coin"
         ]
     },
     {
@@ -9092,13 +9102,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyHandBig",
-            "Underclaw"
+            "Underclaw",
+            "EnemyHandBig"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -9177,13 +9187,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyHandSmall",
-            "Underhand"
+            "Underhand",
+            "EnemyHandSmall"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -9289,17 +9299,17 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyHoptic",
-            "Hoptic"
+            "Hoptic",
+            "EnemyHoptic"
         ],
         "RewardTokens": [
-            "Pow Cherry",
+            "Honeycrisp",
             "Pow",
             "Cherry",
-            "Pink",
             "Pink Pods",
-            "Honeycrisp",
-            "Pods"
+            "Pods",
+            "Pink",
+            "Pow Cherry"
         ]
     },
     {
@@ -9381,13 +9391,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Hydrarg",
-            "EnemyHydrarg"
+            "EnemyHydrarg",
+            "Hydrarg"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -9468,13 +9478,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyIbn",
-            "Oxley"
+            "Oxley",
+            "EnemyIbn"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -9584,15 +9594,15 @@ export const enemies: EnemyData[] = [
             "EnemyJailbob"
         ],
         "RewardTokens": [
-            "Gold",
-            "Cave",
-            "Gold Blossom",
-            "Mini",
             "Blossom",
-            "Mini Melon",
-            "Melon",
+            "Acorn",
             "Cave Acorn",
-            "Acorn"
+            "Gold",
+            "Mini Melon",
+            "Mini",
+            "Melon",
+            "Cave",
+            "Gold Blossom"
         ]
     },
     {
@@ -9687,12 +9697,12 @@ export const enemies: EnemyData[] = [
             "Bogeyblob"
         ],
         "RewardTokens": [
+            "Shroom",
+            "Moldy",
             "Rancid",
-            "Moldy Shroom",
             "Fruit",
             "Rancid Fruit",
-            "Moldy",
-            "Shroom"
+            "Moldy Shroom"
         ]
     },
     {
@@ -9783,15 +9793,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyJellyGreen",
-            "Slimy"
+            "Slimy",
+            "EnemyJellyGreen"
         ],
         "RewardTokens": [
+            "Mushroom",
+            "Small",
             "Small Mushroom",
             "Leaf",
             "Spice",
-            "Mushroom",
-            "Small",
             "Spice Leaf"
         ]
     },
@@ -9883,15 +9893,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyJellyGreenLab",
-            "Slimy"
+            "Slimy",
+            "EnemyJellyGreenLab"
         ],
         "RewardTokens": [
+            "Mushroom",
+            "Small",
             "Small Mushroom",
             "Leaf",
             "Spice",
-            "Mushroom",
-            "Small",
             "Spice Leaf"
         ]
     },
@@ -9975,9 +9985,9 @@ export const enemies: EnemyData[] = [
             "Oozy"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10056,13 +10066,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyJellyYellow",
-            "Fizzy"
+            "Fizzy",
+            "EnemyJellyYellow"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10162,20 +10172,20 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Kitten",
-            "Adorable Kitten",
+            "Adorable",
             "EnemyKitten",
-            "Adorable"
+            "Kitten",
+            "Adorable Kitten"
         ],
         "RewardTokens": [
-            "Glass Hairpin",
-            "Hairpin",
-            "Rare Coin",
-            "Glass",
-            "Coin",
-            "Rare",
             "Common",
-            "Common Coin"
+            "Glass Hairpin",
+            "Rare Coin",
+            "Common Coin",
+            "Hairpin",
+            "Coin",
+            "Glass",
+            "Rare"
         ]
     },
     {
@@ -10257,13 +10267,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Beryllous",
-            "EnemyKittenCrystal"
+            "EnemyKittenCrystal",
+            "Beryllous"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10337,13 +10347,13 @@ export const enemies: EnemyData[] = [
         "Sprite": null,
         "Notes": [],
         "NameTokens": [
-            "Envy",
-            "EnemyLampBlue"
+            "EnemyLampBlue",
+            "Envy"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10421,9 +10431,9 @@ export const enemies: EnemyData[] = [
             "Zeal"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10502,13 +10512,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Turmoil",
-            "EnemyLantern"
+            "EnemyLantern",
+            "Turmoil"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10587,15 +10597,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Blue",
+            "EnemyLanternFlameBlue",
             "Flame",
-            "Blue Flame",
-            "EnemyLanternFlameBlue"
+            "Blue",
+            "Blue Flame"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10674,15 +10684,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Red Flame",
+            "Flame",
             "Red",
-            "EnemyLanternFlameRed",
-            "Flame"
+            "Red Flame",
+            "EnemyLanternFlameRed"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10765,14 +10775,14 @@ export const enemies: EnemyData[] = [
         "Notes": [],
         "NameTokens": [
             "The Creep",
-            "EnemyLegionCreep",
             "The",
+            "EnemyLegionCreep",
             "Creep"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10860,9 +10870,9 @@ export const enemies: EnemyData[] = [
             "EnemyLegionDancer"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -10944,13 +10954,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyLegionEoc",
-            "Eoc"
+            "Eoc",
+            "EnemyLegionEoc"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -11044,15 +11054,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Eoc",
-            "EnemyLegionEoc2"
+            "EnemyLegionEoc2",
+            "Eoc"
         ],
         "RewardTokens": [
-            "Ghost Pendant",
-            "Cookie",
+            "Ghost",
             "Pendant",
+            "Cookie",
             "Ghost Cookie",
-            "Ghost"
+            "Ghost Pendant"
         ]
     },
     {
@@ -11161,14 +11171,14 @@ export const enemies: EnemyData[] = [
             "EnemyLegionEoc3"
         ],
         "RewardTokens": [
-            "Ghost Pendant",
-            "Cookie",
-            "Pendant",
-            "Prize",
-            "Ghost Cookie",
-            "Prize Medal",
             "Ghost",
-            "Medal"
+            "Pendant",
+            "Medal",
+            "Cookie",
+            "Prize",
+            "Prize Medal",
+            "Ghost Cookie",
+            "Ghost Pendant"
         ]
     },
     {
@@ -11261,15 +11271,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Eoc\uff12",
-            "EnemyLegionEoc4"
+            "EnemyLegionEoc4",
+            "Eoc\uff12"
         ],
         "RewardTokens": [
-            "Ghost Pendant",
-            "Cookie",
+            "Ghost",
             "Pendant",
+            "Cookie",
             "Ghost Cookie",
-            "Ghost"
+            "Ghost Pendant"
         ]
     },
     {
@@ -11354,9 +11364,9 @@ export const enemies: EnemyData[] = [
             "EnemyLeveretto"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -11436,14 +11446,14 @@ export const enemies: EnemyData[] = [
         "Notes": [],
         "NameTokens": [
             "Lily",
-            "Ill Lily",
+            "EnemyLily",
             "Ill",
-            "EnemyLily"
+            "Ill Lily"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -11529,9 +11539,9 @@ export const enemies: EnemyData[] = [
             "EnemyMercuroid"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -11616,9 +11626,9 @@ export const enemies: EnemyData[] = [
             "EnemyMimic"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -11697,13 +11707,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Smallbones",
-            "EnemyMiniSkull"
+            "EnemyMiniSkull",
+            "Smallbones"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -11782,13 +11792,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Morpie",
-            "EnemyMorpie"
+            "EnemyMorpie",
+            "Morpie"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -11897,13 +11907,13 @@ export const enemies: EnemyData[] = [
         ],
         "RewardTokens": [
             "Red",
-            "Small Mushroom",
-            "Red Mushroom",
-            "Coin",
             "Mushroom",
             "Small",
+            "Common",
             "Common Coin",
-            "Common"
+            "Small Mushroom",
+            "Red Mushroom",
+            "Coin"
         ]
     },
     {
@@ -11988,9 +11998,9 @@ export const enemies: EnemyData[] = [
             "EnemyOxley1"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -12071,13 +12081,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Oxley?",
-            "EnemyOxley2"
+            "EnemyOxley2",
+            "Oxley?"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -12162,9 +12172,9 @@ export const enemies: EnemyData[] = [
             "EnemyOxley3"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -12261,18 +12271,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyPaneAttacker",
+            "Rocket",
             "Pane",
             "Rocket Pane",
-            "Rocket"
+            "EnemyPaneAttacker"
         ],
         "RewardTokens": [
-            "Hot",
-            "Berry",
             "Berries",
-            "Thorn",
             "Thorn Berries",
-            "Hot Berry"
+            "Berry",
+            "Hot Berry",
+            "Hot",
+            "Thorn"
         ]
     },
     {
@@ -12369,18 +12379,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Pane",
             "Safety Pane",
-            "EnemyPaneBlocker",
-            "Safety"
+            "Safety",
+            "Pane",
+            "EnemyPaneBlocker"
         ],
         "RewardTokens": [
-            "Hard Nut",
-            "Nut",
-            "Rock",
             "Rock Seed",
+            "Nut",
             "Hard",
-            "Seed"
+            "Seed",
+            "Hard Nut",
+            "Rock"
         ]
     },
     {
@@ -12478,17 +12488,17 @@ export const enemies: EnemyData[] = [
         "Notes": [],
         "NameTokens": [
             "Love",
-            "Pane",
+            "EnemyPaneHealer",
             "Love Pane",
-            "EnemyPaneHealer"
+            "Pane"
         ],
         "RewardTokens": [
+            "Blossom",
             "Blue",
             "Red",
-            "Blue Blossom",
-            "Blossom",
+            "Mushroom",
             "Red Mushroom",
-            "Mushroom"
+            "Blue Blossom"
         ]
     },
     {
@@ -12606,17 +12616,17 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyPants",
-            "Trouncers"
+            "Trouncers",
+            "EnemyPants"
         ],
         "RewardTokens": [
-            "Mini",
             "Dew",
-            "Mini Melon",
-            "Melon",
             "Honeycrisp",
+            "Dew Plum",
             "Plum",
-            "Dew Plum"
+            "Mini Melon",
+            "Mini",
+            "Melon"
         ]
     },
     {
@@ -12698,14 +12708,14 @@ export const enemies: EnemyData[] = [
         "Notes": [],
         "NameTokens": [
             "Paper Flier",
-            "Paper",
             "Flier",
-            "EnemyPlane"
+            "EnemyPlane",
+            "Paper"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -12798,16 +12808,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Paraquill",
-            "EnemyQuill"
+            "EnemyQuill",
+            "Paraquill"
         ],
         "RewardTokens": [
-            "Quill",
-            "Mini",
             "Nexus Quill",
+            "Nexus",
             "Mini Melon",
-            "Melon",
-            "Nexus"
+            "Mini",
+            "Quill",
+            "Melon"
         ]
     },
     {
@@ -12904,12 +12914,12 @@ export const enemies: EnemyData[] = [
             "Brollychog"
         ],
         "RewardTokens": [
-            "Quill",
-            "Mini",
             "Nexus Quill",
+            "Nexus",
             "Mini Melon",
-            "Melon",
-            "Nexus"
+            "Mini",
+            "Quill",
+            "Melon"
         ]
     },
     {
@@ -13031,20 +13041,20 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyRadegund",
-            "Radegund"
+            "Radegund",
+            "EnemyRadegund"
         ],
         "RewardTokens": [
-            "Gold",
-            "Spring Sash",
+            "Shroom",
             "Sash",
             "Medal",
             "Summer",
-            "Prize Medal",
-            "Gold Shroom",
-            "Shroom",
-            "Prize",
             "Spring",
+            "Prize",
+            "Prize Medal",
+            "Gold",
+            "Gold Shroom",
+            "Spring Sash",
             "Summer Sash"
         ]
     },
@@ -13137,16 +13147,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyRedBird",
-            "Goldfeather"
+            "Goldfeather",
+            "EnemyRedBird"
         ],
         "RewardTokens": [
-            "Hot",
-            "Berry",
-            "Coin",
             "Common",
+            "Common Coin",
+            "Berry",
             "Hot Berry",
-            "Common Coin"
+            "Hot",
+            "Coin"
         ]
     },
     {
@@ -13243,12 +13253,12 @@ export const enemies: EnemyData[] = [
             "Amanita"
         ],
         "RewardTokens": [
-            "Hot",
-            "Berry",
-            "Coin",
             "Common",
+            "Common Coin",
+            "Berry",
             "Hot Berry",
-            "Common Coin"
+            "Hot",
+            "Coin"
         ]
     },
     {
@@ -13330,13 +13340,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Obsidian",
-            "EnemyRiftCrystal"
+            "EnemyRiftCrystal",
+            "Obsidian"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -13422,9 +13432,9 @@ export const enemies: EnemyData[] = [
             "EnemyRiftMercuroid"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -13505,13 +13515,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyRiftSkull",
-            "Underscourge"
+            "Underscourge",
+            "EnemyRiftSkull"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -13610,18 +13620,18 @@ export const enemies: EnemyData[] = [
             "has a 25% chance to drop even if you're at the limit"
         ],
         "NameTokens": [
-            "Hard Knock",
-            "EnemyRock",
             "Knock",
-            "Hard"
+            "EnemyRock",
+            "Hard",
+            "Hard Knock"
         ],
         "RewardTokens": [
-            "Small Mushroom",
-            "Coin",
             "Mushroom",
             "Small",
+            "Common",
             "Common Coin",
-            "Common"
+            "Small Mushroom",
+            "Coin"
         ]
     },
     {
@@ -13715,18 +13725,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyRockLair",
-            "Hard Knock",
             "Knock",
-            "Hard"
+            "EnemyRockLair",
+            "Hard",
+            "Hard Knock"
         ],
         "RewardTokens": [
             "Red",
-            "Red Mushroom",
-            "Coin",
             "Mushroom",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Red Mushroom",
+            "Coin"
         ]
     },
     {
@@ -13838,14 +13848,14 @@ export const enemies: EnemyData[] = [
             "Craggyboy"
         ],
         "RewardTokens": [
-            "Nut",
-            "Rock",
-            "Rock Nut",
             "Rock Seed",
-            "Coin",
+            "Nut",
             "Seed",
+            "Rock Nut",
+            "Common",
             "Common Coin",
-            "Common"
+            "Rock",
+            "Coin"
         ]
     },
     {
@@ -13938,16 +13948,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemySackbomb",
-            "Sackbomb"
+            "Sackbomb",
+            "EnemySackbomb"
         ],
         "RewardTokens": [
             "Black",
-            "Black Bomb",
-            "Bomb",
             "Frenzy",
+            "Bomb",
             "Flower",
-            "Frenzy Flower"
+            "Frenzy Flower",
+            "Black Bomb"
         ]
     },
     {
@@ -14032,9 +14042,9 @@ export const enemies: EnemyData[] = [
             "EnemySackboy"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -14119,9 +14129,9 @@ export const enemies: EnemyData[] = [
             "EnemySackpole"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -14218,11 +14228,11 @@ export const enemies: EnemyData[] = [
             "Scourge"
         ],
         "RewardTokens": [
-            "Sadio's Blue",
             "Blue",
-            "Sipper",
+            "Sadio's",
+            "Sadio's Blue",
             "Sadio's Sipper",
-            "Sadio's"
+            "Sipper"
         ]
     },
     {
@@ -14340,16 +14350,16 @@ export const enemies: EnemyData[] = [
         ],
         "RewardTokens": [
             "Honey",
+            "The",
+            "Frenzy",
+            "Bee",
+            "Coin",
+            "The Honey Bee",
             "Honey Bee",
             "Rare Coin",
-            "The Honey Bee",
-            "Coin",
-            "Bee",
-            "The",
-            "Rare",
-            "Frenzy",
             "Flower",
-            "Frenzy Flower"
+            "Frenzy Flower",
+            "Rare"
         ]
     },
     {
@@ -14464,16 +14474,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Missing",
-            "Boot",
             "EnemySnatcherBoot",
-            "Missing Boot"
+            "Boot",
+            "Missing Boot",
+            "Missing"
         ],
         "RewardTokens": [
-            "Hardy Ones",
-            "Mini",
             "Ones",
+            "Hardy Ones",
             "Mini Melon",
+            "Mini",
             "Melon",
             "Hardy"
         ]
@@ -14554,17 +14564,17 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemySnatcherPants",
-            "Trouncers"
+            "Trouncers",
+            "EnemySnatcherPants"
         ],
         "RewardTokens": [
-            "Mini",
-            "Coin",
-            "Mini Melon",
-            "Melon",
             "Honeycrisp",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Mini Melon",
+            "Mini",
+            "Melon",
+            "Coin"
         ]
     },
     {
@@ -14641,13 +14651,13 @@ export const enemies: EnemyData[] = [
         "Sprite": null,
         "Notes": [],
         "NameTokens": [
-            "EnemySpec",
-            "Echo"
+            "Echo",
+            "EnemySpec"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -14728,13 +14738,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemySpecCrystal",
-            "Fragment"
+            "Fragment",
+            "EnemySpecCrystal"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -14817,9 +14827,9 @@ export const enemies: EnemyData[] = [
             "Echo"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -14898,13 +14908,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemySpecIma",
-            "Echo"
+            "Echo",
+            "EnemySpecIma"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -14987,9 +14997,9 @@ export const enemies: EnemyData[] = [
             "Echo"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -15068,13 +15078,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemySpecPertisia",
-            "Echo"
+            "Echo",
+            "EnemySpecPertisia"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -15153,13 +15163,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemySpecPetronella",
-            "Echo"
+            "Echo",
+            "EnemySpecPetronella"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -15242,9 +15252,9 @@ export const enemies: EnemyData[] = [
             "Echo"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -15329,9 +15339,9 @@ export const enemies: EnemyData[] = [
             "EnemySpelltile"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -15414,9 +15424,9 @@ export const enemies: EnemyData[] = [
             "EnemySpelltile2"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -15522,14 +15532,14 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Spinlamp",
-            "EnemySpinlamp"
+            "EnemySpinlamp",
+            "Spinlamp"
         ],
         "RewardTokens": [
             "Cookie",
-            "Star Cookie",
+            "Honeycrisp",
             "Star",
-            "Honeycrisp"
+            "Star Cookie"
         ]
     },
     {
@@ -15622,15 +15632,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Spintorch",
-            "EnemySpinlamp2"
+            "EnemySpinlamp2",
+            "Spintorch"
         ],
         "RewardTokens": [
-            "Sadio's Blue",
             "Blue",
-            "Sadio's Sparkly",
+            "Sadio's",
+            "Sadio's Blue",
             "Sparkly",
-            "Sadio's"
+            "Sadio's Sparkly"
         ]
     },
     {
@@ -15736,15 +15746,15 @@ export const enemies: EnemyData[] = [
             "EnemySpiritBax"
         ],
         "RewardTokens": [
-            "Coven",
-            "Beauty",
+            "Beauty Token",
+            "Frenzy",
             "Coven Reds",
             "Token",
-            "Beauty Token",
-            "Reds",
-            "Frenzy",
             "Flower",
-            "Frenzy Flower"
+            "Beauty",
+            "Reds",
+            "Frenzy Flower",
+            "Coven"
         ]
     },
     {
@@ -15835,16 +15845,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Gilda",
-            "EnemySpiritGilda"
+            "EnemySpiritGilda",
+            "Gilda"
         ],
         "RewardTokens": [
-            "The Cutest",
-            "Custard",
             "The",
+            "The Cutest",
+            "Cutest",
+            "Custard",
             "Cake",
-            "Custard Cake",
-            "Cutest"
+            "Custard Cake"
         ]
     },
     {
@@ -15935,16 +15945,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Oxley",
-            "EnemySpiritIbn"
+            "EnemySpiritIbn",
+            "Oxley"
         ],
         "RewardTokens": [
-            "Gold",
-            "Coven",
-            "Coven Greens",
-            "Gold Shroom",
             "Shroom",
-            "Greens"
+            "Greens",
+            "Gold",
+            "Gold Shroom",
+            "Coven",
+            "Coven Greens"
         ]
     },
     {
@@ -16029,9 +16039,9 @@ export const enemies: EnemyData[] = [
             "Spychopper"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -16114,9 +16124,9 @@ export const enemies: EnemyData[] = [
             "Spychopper"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -16222,18 +16232,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemySquishy",
-            "Squishy"
+            "Squishy",
+            "EnemySquishy"
         ],
         "RewardTokens": [
             "Red",
-            "Small Mushroom",
-            "Red Mushroom",
-            "Coin",
             "Mushroom",
             "Small",
+            "Common",
             "Common Coin",
-            "Common"
+            "Small Mushroom",
+            "Red Mushroom",
+            "Coin"
         ]
     },
     {
@@ -16339,18 +16349,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyStinker",
-            "Stinker"
+            "Stinker",
+            "EnemyStinker"
         ],
         "RewardTokens": [
-            "Hard Nut",
-            "Cave",
             "Nut",
+            "Hard",
+            "Hard Nut",
             "Leaf",
             "Cave Acorn",
             "Acorn",
-            "Hard",
             "Spice",
+            "Cave",
             "Spice Leaf"
         ]
     },
@@ -16434,9 +16444,9 @@ export const enemies: EnemyData[] = [
             "Sweepy"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -16527,15 +16537,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Tarfrog",
-            "EnemyTarfrog"
+            "EnemyTarfrog",
+            "Tarfrog"
         ],
         "RewardTokens": [
             "Red",
+            "Mushroom",
             "Leaf",
             "Red Mushroom",
             "Spice",
-            "Mushroom",
             "Spice Leaf"
         ]
     },
@@ -16642,14 +16652,14 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyTinyStar",
-            "Starpint"
+            "Starpint",
+            "EnemyTinyStar"
         ],
         "RewardTokens": [
             "Cookie",
-            "Star Cookie",
+            "Honeycrisp",
             "Star",
-            "Honeycrisp"
+            "Star Cookie"
         ]
     },
     {
@@ -16728,15 +16738,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Crank",
-            "Root",
+            "EnemyTreeHand",
             "Crank Root",
-            "EnemyTreeHand"
+            "Root",
+            "Crank"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -16829,18 +16839,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Hollow",
-            "Crank",
             "EnemyTreeTrunk",
-            "Hollow Crank"
+            "Hollow",
+            "Hollow Crank",
+            "Crank"
         ],
         "RewardTokens": [
             "Red",
-            "Red Mushroom",
-            "Coin",
             "Mushroom",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Red Mushroom",
+            "Coin"
         ]
     },
     {
@@ -16931,16 +16941,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyTrialBee",
-            "Bumbler"
+            "Bumbler",
+            "EnemyTrialBee"
         ],
         "RewardTokens": [
-            "Spectacle",
-            "Demon",
-            "Eye",
             "The",
-            "Demon Eye",
-            "The Spectacle"
+            "The Spectacle",
+            "Spectacle",
+            "Eye",
+            "Demon",
+            "Demon Eye"
         ]
     },
     {
@@ -17019,13 +17029,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Bluefeather",
-            "EnemyTrialBlueBird"
+            "EnemyTrialBlueBird",
+            "Bluefeather"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -17123,12 +17133,12 @@ export const enemies: EnemyData[] = [
             "Mystery"
         ],
         "RewardTokens": [
-            "Spectacle",
-            "Demon",
-            "Eye",
             "The",
-            "Demon Eye",
-            "The Spectacle"
+            "The Spectacle",
+            "Spectacle",
+            "Eye",
+            "Demon",
+            "Demon Eye"
         ]
     },
     {
@@ -17213,9 +17223,9 @@ export const enemies: EnemyData[] = [
             "Cracked Ghost"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -17306,16 +17316,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Eyepoppy",
-            "EnemyTrialFlower"
+            "EnemyTrialFlower",
+            "Eyepoppy"
         ],
         "RewardTokens": [
-            "Spectacle",
-            "Demon",
-            "Eye",
             "The",
-            "Demon Eye",
-            "The Spectacle"
+            "The Spectacle",
+            "Spectacle",
+            "Eye",
+            "Demon",
+            "Demon Eye"
         ]
     },
     {
@@ -17394,13 +17404,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyTrialRedBird",
-            "Goldfeather"
+            "Goldfeather",
+            "EnemyTrialRedBird"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -17479,13 +17489,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Sackboy",
-            "EnemyTrialSackboy"
+            "EnemyTrialSackboy",
+            "Sackboy"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -17564,13 +17574,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyTrialSackpole",
-            "Sackpole"
+            "Sackpole",
+            "EnemyTrialSackpole"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -17653,9 +17663,9 @@ export const enemies: EnemyData[] = [
             "EnemyTrialStar"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -17746,16 +17756,16 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyTwinkle",
-            "Twinkle"
+            "Twinkle",
+            "EnemyTwinkle"
         ],
         "RewardTokens": [
             "Cookie",
-            "Pink",
-            "Pink Pods",
+            "Star",
             "Star Cookie",
+            "Pink Pods",
             "Pods",
-            "Star"
+            "Pink"
         ]
     },
     {
@@ -17867,19 +17877,19 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "EnemyTwinkle2",
-            "Twinkle"
+            "Twinkle",
+            "EnemyTwinkle2"
         ],
         "RewardTokens": [
-            "South Swing",
-            "Beauty",
-            "Cookie",
-            "Swing",
-            "Token",
             "Beauty Token",
-            "Star Cookie",
+            "South",
+            "Cookie",
+            "Token",
             "Star",
-            "South"
+            "Beauty",
+            "Star Cookie",
+            "Swing",
+            "South Swing"
         ]
     },
     {
@@ -17960,13 +17970,13 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Twinklepint",
-            "EnemyTwinkleBaby"
+            "EnemyTwinkleBaby",
+            "Twinklepint"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -18047,15 +18057,15 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
-            "Dwork",
             "Red",
-            "Red Dwork",
-            "EnemyTwinkleBaby2"
+            "EnemyTwinkleBaby2",
+            "Dwork",
+            "Red Dwork"
         ],
         "RewardTokens": [
-            "Coin",
             "Common",
-            "Common Coin"
+            "Common Coin",
+            "Coin"
         ]
     },
     {
@@ -18161,14 +18171,14 @@ export const enemies: EnemyData[] = [
             "Unseen"
         ],
         "RewardTokens": [
-            "Demon",
-            "Mythic Coin",
-            "Ghost Coin",
-            "Eye",
-            "Coin",
             "Demon Eye",
             "Mythic",
-            "Ghost"
+            "Ghost",
+            "Mythic Coin",
+            "Eye",
+            "Demon",
+            "Coin",
+            "Ghost Coin"
         ]
     },
     {
@@ -18259,18 +18269,18 @@ export const enemies: EnemyData[] = [
         },
         "Notes": [],
         "NameTokens": [
+            "EnemyUnseenCrackedGhost",
             "Ghost",
             "Cracked",
-            "Cracked Ghost",
-            "EnemyUnseenCrackedGhost"
+            "Cracked Ghost"
         ],
         "RewardTokens": [
-            "Beauty",
+            "Beauty Token",
+            "Ghost",
             "Cookie",
             "Token",
-            "Beauty Token",
-            "Ghost Cookie",
-            "Ghost"
+            "Beauty",
+            "Ghost Cookie"
         ]
     }
 ];
