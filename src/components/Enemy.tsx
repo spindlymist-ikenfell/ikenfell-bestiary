@@ -6,13 +6,8 @@ import "./Enemy.css";
 
 export const Enemy: Component<{
     data: EnemyData,
-    filter: string,
 }> = (props) => {
     const categories = () => props.data.Categories.join(", ") || "None";
-    const isVisible = () => {
-        return props.data.Name.toLowerCase().includes(props.filter)
-            || props.data.ClassName.toLowerCase().includes(props.filter);
-    };
 
     const rangeToString = (range: NumberRange) => {
         if (range.Min === range.Max) {
@@ -29,81 +24,79 @@ export const Enemy: Component<{
     const spriteHeight = () => (props.data.Sprite?.Height || 0) * 2;
 
     return (
-        <Show when={isVisible()}>
-            <div class="enemy">
-                <header>
-                    <div class="enemy__name-with-sprite">
-                        <Show when={props.data.Sprite}>
-                            <img
-                                class="enemy__sprite"
-                                width={spriteWidth()}
-                                height={spriteHeight()}
-                                src={`/copyright/sprites/${props.data.Sprite!.Name}.png`}
-                                alt={props.data.Name}
-                            />
-                        </Show>
-                        <h2 class="enemy__name">{props.data.Name}</h2>
-                    </div>
-                    <span class="enemy__class-name">{props.data.ClassName}</span>
-                </header>
-                <div class="enemy__sections">
-                    <section>
-                        <table class="enemy__properties">
-                            <tbody>
-                                <tr>
-                                    <td><img class="enemy__stat-icon" src="/copyright/hp.png" alt="" /> HP</td>
-                                    <td>{props.data.HP}</td>
-                                </tr>
-                                <tr>
-                                    <td><img class="enemy__stat-icon" src="/copyright/pow.png" alt="" /> Pow</td>
-                                    <td>{props.data.Pow}</td>
-                                </tr>
-                                <tr>
-                                    <td><img class="enemy__stat-icon" src="/copyright/def.png" alt="" /> Def</td>
-                                    <td>{props.data.Def}</td>
-                                </tr>
-                                <tr>
-                                    <td><img class="enemy__stat-icon" src="/copyright/spd.png" alt="" /> Spd</td>
-                                    <td>{props.data.Spd}</td>
-                                </tr>
-                                <tr>
-                                    <td><img class="enemy__stat-icon" src="/copyright/mov.png" alt="" /> Mov</td>
-                                    <td>{props.data.Mov}</td>
-                                </tr>
-                                <tr>
-                                    <td>Type</td>
-                                    <td>{categories()}</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </section>
-                    <section>
-                        <table class="enemy__properties">
-                            <tbody>
-                                <tr>
-                                    <td>Exp</td>
-                                    <td>{expRange()}</td>
-                                </tr>
-                                <tr>
-                                    <td>Money</td>
-                                    <td>{moneyRange()}</td>
-                                </tr>
-                                <tr>
-                                    <td>Drops</td>
-                                    <td>
-                                        <RewardList rewards={props.data.Rewards} />
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </section>
-                    <section>
-                        <EnemyRewarder rewards={props.data.Stealable} />
-                    </section>
+        <div class="enemy">
+            <header>
+                <div class="enemy__name-with-sprite">
+                    <Show when={props.data.Sprite}>
+                        <img
+                            class="enemy__sprite"
+                            width={spriteWidth()}
+                            height={spriteHeight()}
+                            src={`/copyright/sprites/${props.data.Sprite!.Name}.png`}
+                            alt={props.data.Name}
+                        />
+                    </Show>
+                    <h2 class="enemy__name">{props.data.Name}</h2>
                 </div>
-                <EnemyNotes notes={props.data.Notes} />
+                <span class="enemy__class-name">{props.data.ClassName}</span>
+            </header>
+            <div class="enemy__sections">
+                <section>
+                    <table class="enemy__properties">
+                        <tbody>
+                            <tr>
+                                <td><img class="enemy__stat-icon" src="/copyright/hp.png" alt="" /> HP</td>
+                                <td>{props.data.HP}</td>
+                            </tr>
+                            <tr>
+                                <td><img class="enemy__stat-icon" src="/copyright/pow.png" alt="" /> Pow</td>
+                                <td>{props.data.Pow}</td>
+                            </tr>
+                            <tr>
+                                <td><img class="enemy__stat-icon" src="/copyright/def.png" alt="" /> Def</td>
+                                <td>{props.data.Def}</td>
+                            </tr>
+                            <tr>
+                                <td><img class="enemy__stat-icon" src="/copyright/spd.png" alt="" /> Spd</td>
+                                <td>{props.data.Spd}</td>
+                            </tr>
+                            <tr>
+                                <td><img class="enemy__stat-icon" src="/copyright/mov.png" alt="" /> Mov</td>
+                                <td>{props.data.Mov}</td>
+                            </tr>
+                            <tr>
+                                <td>Type</td>
+                                <td>{categories()}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </section>
+                <section>
+                    <table class="enemy__properties">
+                        <tbody>
+                            <tr>
+                                <td>Exp</td>
+                                <td>{expRange()}</td>
+                            </tr>
+                            <tr>
+                                <td>Money</td>
+                                <td>{moneyRange()}</td>
+                            </tr>
+                            <tr>
+                                <td>Drops</td>
+                                <td>
+                                    <RewardList rewards={props.data.Rewards} />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </section>
+                <section>
+                    <EnemyRewarder rewards={props.data.Stealable} />
+                </section>
             </div>
-        </Show>
+            <EnemyNotes notes={props.data.Notes} />
+        </div>
     );
 };
 

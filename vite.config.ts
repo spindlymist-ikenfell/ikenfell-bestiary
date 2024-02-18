@@ -7,7 +7,4 @@ export default defineConfig({
       // onlyRemoveTypeImports: true,
     }
   })],
-  server: {
-    host: "10.0.0.100",
-  }
 })

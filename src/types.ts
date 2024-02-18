@@ -21,6 +21,8 @@ export type EnemyData = {
     // "SpriteSet": string | null,
     "Sprite": SpriteData | null,
     "Notes": string[],
+    "NameTokens": string[],
+    "RewardTokens": string[],
 };
 
 export type NumberRange = {

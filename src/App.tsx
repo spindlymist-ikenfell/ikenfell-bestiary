@@ -1,24 +1,26 @@
-import { createSignal } from "solid-js";
+import { JSX, createSignal } from "solid-js";
 import { EnemyList } from "./components/EnemyList";
 import { Legend } from "./components/Legend";
 import "./App.css";
 
 export default function App() {
-    const [filter, setFilter] = createSignal("");
+    const [query, setQuery] = createSignal("");
 
-    let input: HTMLInputElement|undefined;
-    const updateFilter = () => {
-        setFilter(input!.value);
+    let timer: number|undefined;
+    const updateQuery = (value: string) => {
+        window.clearTimeout(timer);
+        timer = window.setTimeout(() => {
+            setQuery(value);
+        }, 250);
     };
 
     return (<>
         <input
-            ref={input}
             type="text"
-            onInput={updateFilter}
+            onInput={(event) => updateQuery(event.target.value.trim())}
             placeholder="Search"
         />
         <Legend />
-        <EnemyList filter={filter()} />
+        <EnemyList query={query()} />
     </>);
 }
