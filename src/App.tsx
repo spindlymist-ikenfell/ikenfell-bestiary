@@ -1,4 +1,4 @@
-import { JSX, createSignal } from "solid-js";
+import { createSignal } from "solid-js";
 import { EnemyList } from "./components/EnemyList";
 import { Legend } from "./components/Legend";
 import "./App.css";

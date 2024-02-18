@@ -3,8 +3,7 @@ import { Component } from "solid-js"
 import { IconCombined, IconOwned, IconReward } from "./icons";
 import "./Legend.css";
 
-export const Legend: Component<{
-}> = (props) => {
+export const Legend: Component<{}> = () => {
     return (
         <div class="legend">
             <div class="legend__entry">
